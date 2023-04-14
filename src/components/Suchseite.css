@@ -1,0 +1,133 @@
+.such-seite {
+    color: #000;
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: stretch;
+    padding-bottom: 62px;
+    font-family: Inter, Arial;
+    font-size: 1.25rem;
+    font-weight: 400;
+    line-height: 24px;
+    display: flex;
+  }
+  
+  .rectangle-11 {
+    color: #fff;
+    width: 100%;
+    background-color: #3d5a80;
+    flex-direction: row;
+    flex-basis: 11%;
+    justify-content: flex-start;
+    align-items: stretch;
+    font-weight: 700;
+    display: flex;
+  }
+  
+  
+  
+  .icon-logo {
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+  }
+  
+  .startseite-button-instance {
+    height: 45%;
+    flex-basis: 15%;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    margin-left: 205px;
+  }
+  
+  .profil-button-instance, .einstellung-button-instance, .logout-button-instance {
+    height: 45%;
+    flex-basis: 15%;
+    margin-top: 1px;
+    margin-bottom: 1px;
+  }
+  
+  .suchleiste-instance {
+    width: 50%;
+    flex-basis: 5%;
+    margin-bottom: 19px;
+    margin-left: 4px;
+  }
+  
+  .gefundene-lernpfade {
+    margin-top: 4px;
+    margin-bottom: 4px;
+    margin-left: 74px;
+    font-size: 2.25rem;
+    font-weight: 700;
+    line-height: 44px;
+    text-decoration: underline;
+  }
+  
+  .skill-lernpfad {
+    margin-top: 2px;
+    margin-left: 71px;
+  }
+  
+  .rectangle-10 {
+    width: 25%;
+    background-color: #d9d9d900;
+    border: 3px solid #5ddae4;
+    border-radius: 10px;
+    flex-direction: column;
+    flex-basis: 19%;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-bottom: 35px;
+    margin-left: 72px;
+    padding-top: 1px;
+    padding-bottom: 5px;
+    padding-right: 3px;
+    font-size: 1rem;
+    line-height: 19px;
+    display: flex;
+  }
+  
+  .screenshot-2023-01-31-002506-1 {
+    width: 222px;
+    height: 126px;
+    object-fit: cover;
+    background-position: center;
+    background-size: cover;
+    margin-top: 2px;
+    margin-left: 1px;
+  }
+  
+  .ziel-softwareentwicklungsmethode {
+    margin-bottom: 2px;
+  }
+  
+  .beruf-lernpfad {
+    margin-top: 6px;
+    margin-left: 74px;
+  }
+  
+  .rectangle-19 {
+    width: 95%;
+    background-color: #fff;
+    border: 1px solid #5ddae4;
+    border-radius: 15px;
+    flex-direction: column;
+    flex-basis: 22%;
+    justify-content: space-evenly;
+    align-self: center;
+    align-items: stretch;
+    margin-left: 37px;
+    padding-bottom: 31px;
+    padding-left: 17px;
+    padding-right: 17px;
+    display: flex;
+  }
+  
+  .ein-softwareentwickler-englisch {
+    align-self: center;
+    margin-bottom: 11px;
+  }
+  

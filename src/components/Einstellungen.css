@@ -1,0 +1,122 @@
+.einstellungen {
+    color: #000;
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: stretch;
+    padding-bottom: 73px;
+    font-family: Inter, Arial;
+    font-size: 1.25rem;
+    font-weight: 700;
+    line-height: 24px;
+    display: flex;
+  }
+  
+  .rectangle-11 {
+    color: #fff;
+    width: 100%;
+    background-color: #3d5a80;
+    flex-direction: row;
+    flex-basis: 11%;
+    justify-content: flex-start;
+    align-items: stretch;
+    display: flex;
+  }
+  
+  .num-9560-2 {
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    flex-direction: row;
+    flex-basis: 100%;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    display: flex;
+  }
+  
+  .icon-logo {
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+  }
+  
+  .startseite-button-instance {
+    height: 45%;
+    flex-basis: 15%;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    margin-left: 205px;
+  }
+  
+  
+  
+  .suchleiste-instance {
+    width: 50%;
+    flex-basis: 5%;
+    margin-left: 4px;
+  }
+  
+  .einstellungen-1 {
+    margin-left: 66px;
+    font-size: 2.25rem;
+    line-height: 44px;
+    text-decoration: underline;
+  }
+  
+  .flex-container {
+    width: 95%;
+    flex-direction: row;
+    flex-basis: 59%;
+    justify-content: space-between;
+    align-self: center;
+    align-items: stretch;
+    margin-left: 20px;
+    font-weight: 500;
+    display: flex;
+  }
+  
+  .rectangle-15 {
+    height: 100%;
+    background-color: #fff;
+    border: 1px solid #5ddae4;
+    flex-direction: row;
+    flex-basis: 16%;
+    justify-content: center;
+    align-self: flex-end;
+    align-items: stretch;
+    margin-top: 1px;
+    padding-top: 41px;
+    padding-left: 2px;
+    display: flex;
+  }
+  
+  .benachrichtigungen-wallet-id-suc {
+    margin-left: 1px;
+  }
+  
+  .rectangle-16 {
+    width: 738px;
+    height: 596px;
+    object-fit: cover;
+    border: 1px solid #5ddae4;
+    margin-top: 1px;
+  }
+  
+  .rectangle-17 {
+    height: 100%;
+    background-color: #fff;
+    border: 1px solid #5ddae4;
+    flex-direction: row;
+    flex-basis: 26%;
+    justify-content: center;
+    align-items: stretch;
+    margin-bottom: 11px;
+    padding-top: 42px;
+    padding-right: 32px;
+    display: flex;
+  }
+  

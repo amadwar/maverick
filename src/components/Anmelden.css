@@ -1,0 +1,153 @@
+.login-seite {
+    color: #fff;
+    width: 100%;
+    height: 100%;
+    background-color: #3d5a80;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: stretch;
+    font-family: Inter, Arial;
+    font-size: 1.25rem;
+    font-weight: 700;
+    line-height: 24px;
+    display: flex;
+  }
+  
+  .rm-373-batch-2-08-1 {
+    height: 100%;
+    background-image: url("/public/rm373Batch.png");
+    background-position: center;
+    background-size: cover;
+    flex-direction: column;
+    flex-basis: 100%;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 3px;
+    padding-left: 32px;
+    display: flex;
+  }
+  
+  .flex-container {
+    width: 15%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-self: flex-start;
+    align-items: center;
+    margin-bottom: 170px;
+    display: flex;
+  }
+  
+  .icon-logo {
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+  }
+  
+  .lernpfade-mit-kostenfreien-inhal {
+    margin-bottom: 29px;
+    font-size: 2rem;
+    line-height: 39px;
+  }
+  
+  .herzlich-willkommen-bei-e-365-mave {
+    margin-bottom: 48px;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 19px;
+  }
+  
+  .rectangle-1 {
+    width: 45%;
+    background-color: #3d5a80;
+    border: 1px solid #5ddae4;
+    border-radius: 25px;
+    flex-direction: column;
+    flex-basis: 30%;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 125px;
+    margin-left: 10px;
+    padding-top: 10px;
+    padding-left: 12px;
+    padding-right: 13px;
+    font-size: .875rem;
+    font-weight: 400;
+    line-height: 17px;
+    display: flex;
+  }
+  
+  .log-in {
+    margin-top: 1px;
+    font-size: 1rem;
+    font-weight: 700;
+    line-height: 19px;
+  }
+  
+  .flex-container-1 {
+    width: 85%;
+    flex-direction: column;
+    flex-basis: 11%;
+    justify-content: space-between;
+    align-items: stretch;
+    margin-left: 2px;
+    display: flex;
+  }
+  
+  .rectangle-2-instance {
+    width: 85%;
+    flex-basis: 100%;
+    margin-bottom: -33px;
+  }
+  .rectangle-3-instance {
+    width: 85%;
+    flex-basis: 50%;
+    margin-bottom: -100px;
+  }
+  .cat-absolute-container {
+    z-index: 1;
+    width: 100%;
+    flex-direction: row;
+    flex-basis: 100%;
+    justify-content: flex-start;
+    align-items: center;
+    padding-top: 1px;
+    padding-left: 17px;
+    display: flex;
+  }
+  
+  .flex-container-2 {
+    width: 85%;
+    flex-direction: column;
+    flex-basis: 11%;
+    justify-content: space-between;
+    align-items: stretch;
+    margin-left: 2px;
+    display: flex;
+  }
+  
+  
+  
+  .cat-absolute-container-1 {
+    z-index: 1;
+    width: 100%;
+    flex-direction: row;
+    flex-basis: 100%;
+    justify-content: flex-start;
+    align-items: center;
+    padding-top: 1px;
+    padding-left: 16px;
+    display: flex;
+  }
+  
+  .einloggen-button-instance {
+    width: 25%;
+    flex-basis: 13%;
+    margin-bottom: 23px;
+    margin-left: 7px;
+  }
+  
+  .noch-keinen-account-registrieren {
+    margin-top: 5px;
+    margin-bottom: 2px;
+  }
+  
