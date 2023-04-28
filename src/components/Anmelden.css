@@ -78,6 +78,7 @@
   
   .log-in {
     margin-top: 1px;
+    margin-bottom: 10px;
     font-size: 1rem;
     font-weight: 700;
     line-height: 19px;
@@ -113,6 +114,7 @@
     padding-top: 1px;
     padding-left: 17px;
     display: flex;
+
   }
   
   .flex-container-2 {
@@ -150,4 +152,16 @@
     margin-top: 5px;
     margin-bottom: 2px;
   }
-  
+  .input-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.input-label {
+    margin-right: 10px;
+}
+
+/*.input-field {
+    /* Hier können Sie den CSS-Stil für das Eingabefeld anpassen */
+

@@ -9,6 +9,9 @@ import Layout from "./Layout";
 import Einstellung from "./components/Einstellungen";
 import Anmelden from "./components/Anmelden";
 import Suchseite from "./components/Suchseite";
+import Lernpfad1 from "./components/Lernpfad1";
+import Lernpfad2 from "./components/Lernpfad2";
+import Signin from "./components/SignIn";
 
 function App(){
   return (
@@ -25,7 +28,15 @@ function App(){
             }
           />
           
-          
+          <Route
+            path="suchseite"
+            element={
+              <>
+                <Header />
+                <Suchseite />
+              </>
+            }
+          />
           
           <Route
             path="profile"
@@ -36,6 +47,7 @@ function App(){
               </>
             }
           />
+          
           <Route
             path="einstellung"
             element={
@@ -45,7 +57,26 @@ function App(){
               </>
             }
           />
-          <Route path="Anmelden" element={<Anmelden />} />
+          <Route
+            path="lernpfad1"
+            element={
+              <>
+                <Header />
+                <Lernpfad1 />
+              </>
+            }
+          />
+          <Route
+            path="lernpfad2"
+            element={
+              <>
+                <Header />
+                <Lernpfad2 />
+              </>
+            }
+          />
+          
+          <Route path="Anmelden" element={<Signin />} />
         </Route>
       </Routes>
     </BrowserRouter>

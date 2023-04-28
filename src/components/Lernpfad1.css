@@ -1,0 +1,121 @@
+.lernpfad-softwareentwicklungsmet {
+    color: #000;
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 26px;
+    font-family: Inter, Arial;
+    font-size: 1.25rem;
+    font-weight: 700;
+    line-height: 44px;
+  }
+  
+  .rectangle-11 {
+    color: #fff;
+    width: 100%;
+    background-color: #3d5a80;
+    display: flex;
+    flex-direction: row;
+    flex-basis: 11%;
+    justify-content: flex-start;
+    align-items: stretch;
+    margin-bottom: 2px;
+    line-height: 24px;
+  }
+  
+  .num-9560-2 {
+    height: 100%;
+    background-image: url("/public/num.png");
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: row;
+    flex-basis: 100%;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1px 0;
+  }
+  
+  .icon-logo {
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+  }
+  
+  .startseite-button-instance {
+    height: 45%;
+    flex-basis: 15%;
+    margin: 1px 0 1px 205px;
+  }
+  
+  .profil-button-instance,
+  .einstellung-button-instance,
+  .logout-button-instance {
+    height: 45%;
+    flex-basis: 15%;
+    margin: 1px 0;
+  }
+  
+  .suchleiste-instance {
+    width: 50%;
+    flex-basis: 5%;
+    margin: 1px 4px 10px;
+  }
+  
+  .softwareentwicklungsmethoden {
+    align-self: flex-start;
+    margin: 4px 0 0 44px;
+    font-size: 2.25rem;
+    text-decoration: underline;
+  }
+  
+  .flex-container {
+    width: 95%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: stretch;
+  }
+  
+  .flex-container-1 {
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-basis: 18%;
+    justify-content: space-between;
+    align-items: flex-end;
+  }
+  
+  .rectangle-22 {
+    width: 249px;
+    height: 679px;
+    object-fit: cover;
+    border: 1px solid #5ddae4;
+    margin-right: -445px;
+  }
+  
+  .line-3 {
+    width: 40px;
+    object-fit: cover;
+    border: 1px solid #5ddae4;
+    margin: 0 -288px 132px 26px;
+  }
+  
+  .line-1 {
+    height: 1px;
+    object-fit: cover;
+    border: 1px solid #5ddae4;
+    margin: 0 -84px 132px;
+  }
+  
+  .rectangle-21 {
+    width: 1048px;
+    height: 679px;
+    object-fit: cover;
+    border: 1px solid #5ddae4;
+  }
+  

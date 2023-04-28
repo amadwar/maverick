@@ -1,0 +1,167 @@
+html,
+body {
+  height: 100%;
+}
+.Sign-in {
+    height: 100%;
+    background-image: url("/public/rm373Batch.png");
+    background-position:100%;
+    background-size:100%;
+    flex-direction: column;
+    flex-basis: 100%;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 0px;
+    padding-left: 32px;
+    display: flex;
+    font-family: 'Times New Roman', Times, serif;
+    
+  }
+body {
+  display: flex;
+  align-items: center;
+  background-color: #f5f5f5;
+}
+
+.form-signin {
+  max-width: 330px;
+  padding: 5px;
+}
+
+.form-signin .form-floating:focus-within {
+  z-index: 2;
+}
+
+.form-signin input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  
+}
+
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+
+.icon-logo {
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    margin-right:1rem;
+  }
+
+
+  .bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
+
+  .b-example-divider {
+    width: 100%;
+    height: 3rem;
+    background-color: rgba(0, 0, 0, .1);
+    border: solid rgba(0, 0, 0, .15);
+    border-width: 1px 0;
+    box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+  }
+
+  .b-example-vr {
+    flex-shrink: 0;
+    width: 1.5rem;
+    height: 100vh;
+  }
+
+  .bi {
+    vertical-align: -.125em;
+    fill: currentColor;
+  }
+
+  .nav-scroller {
+    position: relative;
+    z-index: 2;
+    height: 2.75rem;
+    overflow-y: hidden;
+  }
+
+  .nav-scroller .nav {
+    display: flex;
+    flex-wrap: nowrap;
+    padding-bottom: 1rem;
+    margin-top: -1px;
+    overflow-x: auto;
+    text-align: center;
+    white-space: nowrap;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .btn-bd-primary {
+    --bd-violet-bg: #467a4c;
+    --bd-violet-rgb: 112.520718, 44.062154, 249.437846;
+
+    --bs-btn-font-weight: 600;
+    --bs-btn-color: var(--bs-white);
+    --bs-btn-bg: var(--bd-violet-bg);
+    --bs-btn-border-color: var(--bd-violet-bg);
+    --bs-btn-hover-color: var(--bs-white);
+    --bs-btn-hover-bg: #6528e0;
+    --bs-btn-hover-border-color: #6528e0;
+    --bs-btn-focus-shadow-rgb: var(--bd-violet-rgb);
+    --bs-btn-active-color: var(--bs-btn-hover-color);
+    --bs-btn-active-bg: #5a23c8;
+    --bs-btn-active-border-color: #5a23c8;
+  }
+  .bd-mode-toggle {
+    z-index: 1500;
+  }
+
+  .h3mb-3fw-normal{
+    align-items: center;
+   justify-self: center;
+   margin-left: 6.5rem;
+    color:#ffff ;
+
+  }
+
+
+  .lernpfade-mit-kostenfreien-inhal {
+    color: #f5f5f5;
+    margin-bottom: 29px;
+    font-size: 2rem;
+    line-height: 39px;
+  }
+  
+  .herzlich-willkommen-bei-e-365-mave {
+    color: #f5f5f5;
+    margin-bottom: 0.5rem;
+    font-size: 1.2rem;
+    font-weight: 400;
+    line-height: 19px;
+    
+  }
+  .LOGO{
+    color: #f5f5f5;
+    font-size: 2rem;
+    margin-bottom: 3rem;
+  }
+  .checkbox{
+    color: #f5f5f5;
+    font-size: 1.3rem;
+    margin-bottom: 1rem;
+    
+  }
+  .copyright{
+    margin-top: 1rem;
+    color: #f5f5f5;
+  }

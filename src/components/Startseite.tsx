@@ -1,7 +1,7 @@
 import React from "react";
 import CardLernpfad from "./CardLernpfad";
 import CardAktiverLernpfad from "./CardAktiverLernpfad";
-import Profile from "./Profile";
+
 
 function Startseite(){
 
@@ -32,13 +32,9 @@ function Startseite(){
         "Ziel: Scrum\u2028Verwandt: Softwareentwicklungsmethoden",
     },
   };
- const rectangle2 = "./rectangle2.svg";
- const rectangle1 = "./rectangle1.svg";
+ 
  const screenshot = "./screenshot.png";
- const rectangle = "./rectangle.svg";
- const rectangle3 = "./rectangle3.svg";
- const subtract = "./subtract.svg";
- const  iconLogo = "./iconLogo.svg";
+ 
   return (
     <div className="startseite-2">
       
