@@ -12,6 +12,7 @@ import Suchseite from "./components/Suchseite";
 import Lernpfad1 from "./components/Lernpfad1";
 import Lernpfad2 from "./components/Lernpfad2";
 import Signin from "./components/SignIn";
+import Sucheinstellungen from "./components/Sucheinstellungen";
 
 function App(){
   return (
@@ -44,6 +45,15 @@ function App(){
               <>
                 <Header />
                 <Profile />
+              </>
+            }
+          />
+          <Route
+            path="Sucheinstellungen"
+            element={
+              <>
+                <Header />
+                <Sucheinstellungen />
               </>
             }
           />

@@ -80,20 +80,19 @@ const Header: React.FC = () => {
         </div>
       </div>
 
-      <form onSubmit={handleSearch} className="search-container">
-        <input
-        className="suchleiste"
-        placeholder="Was möchtest du lernen?"
-        type="text"
-        value={inputValue}
-        onChange={(e) => setInputValue(e.target.value)}
-       />
-       <button className="SuchButton" type="submit">Suchen</button>
-      </form>
       
-     {showNoResultsMessage && (
-      <div className="no-results-message">Keine Ergebnisse gefunden</div>
-    )}
+      <form onSubmit={handleSearch} className="form" >
+      <div className="search">
+        <i className="fa fa-search"></i>
+        <input type="text" className="form-control" placeholder="Was möchtest du lernen?"value={inputValue}
+        onChange={(e) => setInputValue(e.target.value)}/>
+        <button className="btn btn-primary">Suchen</button>
+      </div>
+                        
+      </form>
+
+
+  
     </header>
   );
 };

@@ -27,18 +27,18 @@ function Profile () {
           </div>
           <div className="Rechteck1">  
           <h4>Meine Skills<br/></h4>
-          <ClosableBadge text="Tableau" />
-          <ClosableBadge text="MS Excel" />
+          <ClosableBadge text="Tableau" />{" "}
+          <ClosableBadge text="MS Excel" />{" "}
           <ClosableBadge text="MS Word" />
           </div>
 
 
           <div className="Rechteck1">  
-          <h4>Meine Interessen<br/></h4>
-          <ClosableBadge text="Sport" />
-          <ClosableBadge text="Musik" />
-          <ClosableBadge text="Programmieren" />
-          </div>
+           <h4>Meine Interessen<br/></h4>
+           <ClosableBadge text="Sport" />{" "}
+           <ClosableBadge text="Musik" />{" "}
+            <ClosableBadge text="Programmieren" />
+          </div> 
 
           
         </div>
