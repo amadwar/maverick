@@ -1,34 +1,51 @@
 import React from "react";
 import "./Suchseite.css";
-
+import { Link } from 'react-router-dom'; 
+import ClosableBadge from "./ClosableBadge";
+import { useNavigate } from 'react-router-dom';
 function Suchseite() {
-  const screenshot = "./screenshot.png";
+  
+  const navigate = useNavigate(); 
 
+  const navigateToDevops = () => {
+    navigate("/devops");
+  }
   return (
     <div className="such-seite">
-      <span className="gefundene-lernpfade">Gefundene Lernpfade</span>
-      <span className="skill-lernpfad">Skill Lernpfad</span>
-      <div className="rectangle-10">
-        <img className="screenshot-2023-01-31-002506-1" src={screenshot} alt="screenshot" /> {/* Fügen Sie das alt-Attribut hinzu */}
-        <span className="ziel-softwareentwicklungsmethode">
-          Ziel: Softwareentwicklungsmethoden
-          <br />
-          Fortschritt: 80%
-        </span>
-      </div>
-      <span className="beruf-lernpfad">Beruf Lernpfad</span>
+
+    
+      
+      <span className="skill-lernpfad">Skill: Azure DevOps</span>
+
       <div className="rectangle-19">
-        <span>Softwareentwickler</span>
+        <h3>Azure DevOps</h3>
         <span className="ein-softwareentwickler-englisch">
-          Ein Softwareentwickler (englisch software developer) ist eine Person,
-          die an der Erstellung einer Software mitwirkt. Der Begriff ist nicht
-          scharf definiert. Die konkreten Aufgaben eines Softwareentwicklers
-          richten sich nach der Rolle, die er im Softwareentwicklungsteam
-          einnimmt. Die bekannteste Rolle ist hierbei die des Programmierers.
-          Umgangssprachlich wird zwischen den Begriffen „Programmierer“ und
-          „Softwareentwickler“ oft nicht unterschieden. (Quelle Wikipedia)
+        Der Azure DevOps Server, früher bekannt als Team Foundation Server (TFS), von Microsoft, ist eine umfassende Plattform für kollaborative Softwareprojekte.
+        Er ermöglicht die Planung, Erstellung und Verwaltung von Projekten.
+        Der Azure DevOps Server bietet eine hohe Skalierbarkeit und kann bis zu 2000 Entwickler und 500 Projekte verwalten.
+        (Quelle Wikipedia)
         </span>
       </div>
+
+
+      <div className="rectangle-10">
+      <span className="text1">Personalisiere deinen Lernpfad</span>
+      <span className="text2">Welche Themen sind bei dir bereits bekannt?</span>
+      <div className="badge">
+      <ClosableBadge text="Introduction to Azure DevOps" />{" "}
+      <ClosableBadge text="Terraform and Azure DevOps" />{" "}
+      <ClosableBadge text="Continuous Integration, Continuous Deployment (CI-CD) with Azure DevOps" />{" "}
+      <ClosableBadge text="Retrospectives: Be Agile and Thrive " />{" "}
+      </div>
+      
+      
+
+        
+      </div>
+     
+    
+      <button type="button" className="button" onClick={navigateToDevops}>Starte dein Lernpfad</button>      
+          
     </div>
   );
 }

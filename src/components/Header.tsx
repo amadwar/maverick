@@ -27,13 +27,17 @@ const Header: React.FC = () => {
 
   const handleSearch = (e: React.FormEvent) => {
     e.preventDefault();
-    if (inputValue.trim().toLowerCase() === 'softwareentwicklung') {
+    if (inputValue.trim().toLowerCase() === 'Azuredevops') {
       setShowNoResultsMessage(false);
-      navigate('/Suchseite');
+      navigate('/suchseite');
     } 
     if(inputValue.trim().toLowerCase() === 'scrum'){
       setShowNoResultsMessage(false);
       navigate('/lernpfad2');
+    }
+    if(inputValue.trim().toLowerCase() === 'devops'){
+      setShowNoResultsMessage(false);
+      navigate('/suchseite');
     }
     
     else {

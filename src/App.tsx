@@ -13,6 +13,7 @@ import Lernpfad1 from "./components/Lernpfad1";
 import Lernpfad2 from "./components/Lernpfad2";
 import Signin from "./components/SignIn";
 import Sucheinstellungen from "./components/Sucheinstellungen";
+import Devops from "./components/Devops";
 
 function App(){
   return (
@@ -73,6 +74,24 @@ function App(){
               <>
                 <Header />
                 <Lernpfad1 />
+              </>
+            }
+          />
+          <Route
+            path="suchseite"
+            element={
+              <>
+                <Header />
+                <Devops />
+              </>
+            }
+          />
+          <Route
+            path="devops"
+            element={
+              <>
+                <Header />
+                <Devops />
               </>
             }
           />
