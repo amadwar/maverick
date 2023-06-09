@@ -1,46 +1,43 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
-import VideoGallery from './video';
-import { sortAndDeduplicateDiagnostics } from 'typescript';
+import VideoGallery from './video'; 
 
-
-export interface Keyword {
-  '@id': string;
-  '@type': string[];
-  'skos:prefLabel': string;
-  'sdo:termCode': string;
-}
-
-export interface CategoryCode {
-  '@id': string;
-  '@type': string;
-  'sdo:codeValue': string;
-}
 
 export interface Video {
-  '@id': string;
-  '@type': string[];
-  'sdo:description': string;
-  'sdo:duration': number;
-  'sdo:hasCategoryCode': CategoryCode;
+ '@id': string;
+  '@type': string;
+  'sdo:cosineSimilarity': {
+    '@type': string;
+    '@value': string;
+  };
   'sdo:identifier': string;
-  'sdo:keywords': Keyword[];
-  'sdo:publishedOn': {
+  'sdo:teaches': {
+    '@id': string;
+    'sdo:termCode': string;
+  };
+  'sdo:thumbnailUrl': {
     '@type': string;
     '@value': string;
   };
   'sdo:title': string;
-  'sdo:url': string;
-  '@context': object;
+  'sdo:url': {
+    '@type': string;
+    '@value': string;
+  };
+  '@context': {
+    'rdf': string;
+    'ent': string;
+    'sdo': string;
+  };
 }
-
-
 
 interface GetVideoProps {
   link: string;
+  width: string;
+  height: string;
 }
 
-function GetVideo({ link }: GetVideoProps) {
+function GetVideo({ link, width, height }: GetVideoProps) {
   const [video, setVideo] = useState<Video | null>(null);
   const [isLoading, setIsLoading] = useState(true);
 
@@ -70,18 +67,15 @@ function GetVideo({ link }: GetVideoProps) {
 
   return (
     <div>
-        
         <VideoGallery 
-        videoSources={[
-          video['sdo:url'],
-        ]}
-      />
-      
-     
-     
-      
-      
-     
+          videoSources={[
+            {
+              src: video['sdo:url']['@value'], 
+              width: width, 
+              height: height
+            }
+          ]}
+        />
     </div>
   );
 }

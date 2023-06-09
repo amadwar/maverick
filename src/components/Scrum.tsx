@@ -3,20 +3,17 @@ import "./Devops.css";
 import 'bootstrap/dist/js/bootstrap.bundle.min';
 import TreeView from '@mui/lab/TreeView';
 import TreeItem, { treeItemClasses, TreeItemProps } from '@mui/lab/TreeItem';
-import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
-import ChevronRightIcon from '@mui/icons-material/ChevronRight';
 import SvgIcon, { SvgIconProps } from '@mui/material/SvgIcon';
 import { alpha, styled } from '@mui/material/styles';
 import Collapse from '@mui/material/Collapse';
 import { useSpring, animated } from "@react-spring/web";
 import { TransitionProps } from '@mui/material/transitions';
-import GetVideo from "./getvideo";
 import { Link } from "react-router-dom";
 import GetLearningResource from "./getVideoDaten";
 
 
 
-function Devops(){
+function Scrum(){
 
 
 
@@ -100,7 +97,7 @@ function Devops(){
     <div className="lernpfad-scrum">
       
       
-      <span className="scrum">Azure_DevOps</span>
+      <span className="scrum">Scrum</span>
       <div className="flex-container">
       <div className="rectangle-1">  
         <TreeView
@@ -111,11 +108,12 @@ function Devops(){
        defaultEndIcon={<CloseSquare />}
        sx={{ height: 264, flexGrow: 1, maxWidth: 400, overflowY: 'auto' }}
        >
-      <StyledTreeItem nodeId="1" label="DevOps">
-        <StyledTreeItem nodeId="2" label={<Link className="link" to="/video_devops">Introduction to Azure DevOps</Link>} />
-        <StyledTreeItem nodeId="3" label={<Link className="link" to="/video_devops2">Terraform and Azure DevOps</Link>} />
-        <StyledTreeItem nodeId="4" label={<Link className="link" to="/video_devops3">Continuous Integration</Link>} />
-        <StyledTreeItem nodeId="5" label={<Link className="link" to="/video_devops4">Retrospectives: Be Agile and Thrive</Link>} />
+      <StyledTreeItem nodeId="1" label="Scrum">
+        <StyledTreeItem nodeId="2" label={<Link className="link" to="/video_scrum1">Intro to Scrum in Under 10 Minutes</Link>} />
+        <StyledTreeItem nodeId="3" label={<Link className="link" to="/Video_scrum2">Introduction to Scrum - 7 Minutes</Link>} />
+        <StyledTreeItem nodeId="4" label={<Link className="link" to="/video_scrum3">3 Key Points for Scrum Masters in the new Scrum Guide 2022</Link>} />
+        <StyledTreeItem nodeId="5" label={<Link className="link" to="/video_scrum4">Bad Low Profile Coolers Beware: Scythe Is Coming!</Link>} />
+        <StyledTreeItem nodeId="6" label={<Link className="link" to="/video_scrum5">COSM - STOCHASTIC PROCESSES - INTRODUCTION</Link>} />
        </StyledTreeItem>
        </TreeView>
         
@@ -126,10 +124,11 @@ function Devops(){
         <div className="rectangle-6">
           <span>Videos</span>
           <div className="videos">
-            <div><Link className="link" to="/video_devops">< GetLearningResource  link="https://entitygraph.azurewebsites.net/api/s/REAL_UI_MockUP_TdF/entities/yecw2rUlywA?property=sdo.identifier"/></Link>  </div>
-            <div><Link className="link" to="/video_devops2">< GetLearningResource  link="https://entitygraph.azurewebsites.net/api/s/REAL_UI_MockUP_TdF/entities/Llx4TeU2Hms?property=sdo.identifier"/></Link>  </div>
-            <div><Link className="link" to="/video_devops3">< GetLearningResource  link="https://entitygraph.azurewebsites.net/api/s/REAL_UI_MockUP_TdF/entities/jRgLSMlp28U?property=sdo.identifier"/></Link>  </div>
-            <div><Link className="link" to="/video_devops4">< GetLearningResource  link="https://entitygraph.azurewebsites.net/api/s/REAL_UI_MockUP_TdF/entities/CqTVIOzBRno?property=sdo.identifier"/></Link>  </div>
+            <div><Link className="link" to="/video_scrum1">< GetLearningResource  link="https://entitygraph.azurewebsites.net/api/s/REAL_UI_MockUP_TdF/entities/XU0llRltyFM?property=sdo.identifier"/></Link>  </div>
+            <div><Link className="link" to="/video_scrum2">< GetLearningResource  link="https://entitygraph.azurewebsites.net/api/s/REAL_UI_MockUP_TdF/entities/9TycLR0TqFA?property=sdo.identifier"/></Link>  </div>
+            <div><Link className="link" to="/video_scrum3">< GetLearningResource  link="https://entitygraph.azurewebsites.net/api/s/REAL_UI_MockUP_TdF/entities/tM5eqyv5JxI?property=sdo.identifier"/></Link>  </div>
+            <div><Link className="link" to="/video_scrum4">< GetLearningResource  link="https://entitygraph.azurewebsites.net/api/s/REAL_UI_MockUP_TdF/entities/1awBzsA78VQ?property=sdo.identifier"/></Link>  </div>
+            <div><Link className="link" to="/video_scrum5">< GetLearningResource  link="https://entitygraph.azurewebsites.net/api/s/REAL_UI_MockUP_TdF/entities/Llf78-XbLTo?property=sdo.identifier"/></Link>  </div>
             
             
           </div>
@@ -140,4 +139,4 @@ function Devops(){
 
 }
 
-export default Devops;
+export default Scrum;

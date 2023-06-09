@@ -68,10 +68,13 @@
   flex-direction: row;
   margin-top: 1rem;
   min-width: 300px;
+  overflow: auto;
+  
 }
 .video {
   
  margin-right: 1rem;
+
   
 }
 
@@ -142,4 +145,18 @@ body {
   background-color: #ffffff;
   border: 1px solid #dee2e6;
   border-radius: 5px;
+}
+
+.img{
+
+height: 200px;
+width: 300px;
+margin-right: 1rem;
+
+}
+.link{
+
+text-decoration: none;
+color: black;
+
 }

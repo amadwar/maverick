@@ -1,5 +1,5 @@
 import * as React from "react";
-import "./Devops.css";
+import "../Video_devops.css";
 import 'bootstrap/dist/js/bootstrap.bundle.min';
 import TreeView from '@mui/lab/TreeView';
 import TreeItem, { treeItemClasses, TreeItemProps } from '@mui/lab/TreeItem';
@@ -10,23 +10,27 @@ import { alpha, styled } from '@mui/material/styles';
 import Collapse from '@mui/material/Collapse';
 import { useSpring, animated } from "@react-spring/web";
 import { TransitionProps } from '@mui/material/transitions';
-import GetVideo from "./getvideo";
 import { Link } from "react-router-dom";
-import GetLearningResource from "./getVideoDaten";
+import GetVideo from "../getvideo";
 
 
 
-function Devops(){
+function Video_brista4(){
 
 
 
-
-    const grafik2="./grafik2.png";
-    const grafik4 = "./grafik4.png";
-    const grafik6 = "./grafik6.png";
-    const grafik = "./grafik.png";
-    const frame = "./frame.svg";
+   const check="./check.svg.svg";
+   const minus="./minus.svg.png";
     
+   const [checked, setChecked] = React.useState(false);
+
+  const handleCheckClick = () => {
+    setChecked(true);
+  };
+
+  const handleMinusClick = () => {
+    setChecked(true);
+  };
 
     function MinusSquare(props: SvgIconProps) {
       return (
@@ -100,7 +104,7 @@ function Devops(){
     <div className="lernpfad-scrum">
       
       
-      <span className="scrum">Azure_DevOps</span>
+      <span className="scrum">Brista</span>
       <div className="flex-container">
       <div className="rectangle-1">  
         <TreeView
@@ -108,15 +112,21 @@ function Devops(){
        defaultExpanded={['1']}
        defaultCollapseIcon={<MinusSquare />}
        defaultExpandIcon={<PlusSquare />}
-       defaultEndIcon={<CloseSquare />}
+      
        sx={{ height: 264, flexGrow: 1, maxWidth: 400, overflowY: 'auto' }}
        >
-      <StyledTreeItem nodeId="1" label="DevOps">
-        <StyledTreeItem nodeId="2" label={<Link className="link" to="/video_devops">Introduction to Azure DevOps</Link>} />
-        <StyledTreeItem nodeId="3" label={<Link className="link" to="/video_devops2">Terraform and Azure DevOps</Link>} />
-        <StyledTreeItem nodeId="4" label={<Link className="link" to="/video_devops3">Continuous Integration</Link>} />
-        <StyledTreeItem nodeId="5" label={<Link className="link" to="/video_devops4">Retrospectives: Be Agile and Thrive</Link>} />
+
+       <StyledTreeItem nodeId="1" label="Brista">
+        <StyledTreeItem nodeId="2" label={<Link className="link" to="/video_brista1">How to use Hario V60</Link>} />
+        <StyledTreeItem nodeId="3" label={<Link className="link" to="/Video_brista2">Unboxing & set up of Nescafe Gold Barista</Link>} />
+        <StyledTreeItem nodeId="4" label={<Link className="link" to="/video_brista3">iDrinkCoffee.com Review</Link>} />
+        <StyledTreeItem nodeId="5" label={checked ? <div className="checked"> <img className="heck" src={check} /><Link className="link" to="/Video_brista4">Lelit Bianca Flow Control Espresso Machine Preview</Link></div> : <Link className="link" to="/video_brista4">Lelit Bianca Flow Control Espresso Machine Preview</Link>} />
+        <StyledTreeItem nodeId="6" label={<Link className="link" to="/video_brista5">The Complete Beginner's Guide to Buying Chef Knives</Link>} />
        </StyledTreeItem>
+
+
+
+
        </TreeView>
         
       
@@ -124,14 +134,16 @@ function Devops(){
 
         </div>
         <div className="rectangle-6">
-          <span>Videos</span>
-          <div className="videos">
-            <div><Link className="link" to="/video_devops">< GetLearningResource  link="https://entitygraph.azurewebsites.net/api/s/REAL_UI_MockUP_TdF/entities/yecw2rUlywA?property=sdo.identifier"/></Link>  </div>
-            <div><Link className="link" to="/video_devops2">< GetLearningResource  link="https://entitygraph.azurewebsites.net/api/s/REAL_UI_MockUP_TdF/entities/Llx4TeU2Hms?property=sdo.identifier"/></Link>  </div>
-            <div><Link className="link" to="/video_devops3">< GetLearningResource  link="https://entitygraph.azurewebsites.net/api/s/REAL_UI_MockUP_TdF/entities/jRgLSMlp28U?property=sdo.identifier"/></Link>  </div>
-            <div><Link className="link" to="/video_devops4">< GetLearningResource  link="https://entitygraph.azurewebsites.net/api/s/REAL_UI_MockUP_TdF/entities/CqTVIOzBRno?property=sdo.identifier"/></Link>  </div>
-            
-            
+          <h3>Lelit Bianca Flow Control Espresso Machine Preview</h3>
+          
+            <div className="video"><GetVideo link="https://entitygraph.azurewebsites.net/api/s/REAL_UI_MockUP_TdF/entities/eKCTxh06ArU?property=sdo.identifier" width="600px" height="400px"/></div>
+          
+          <p>Ist dieses Video hilfreich?</p>
+          <div className="Feedback">
+            <img className="check" src={check} onClick={handleCheckClick}/>
+            <img className="minus" src={minus} onClick={handleMinusClick}/>
+
+
           </div>
         </div>
       </div>
@@ -140,4 +152,4 @@ function Devops(){
 
 }
 
-export default Devops;
+export default Video_brista4;

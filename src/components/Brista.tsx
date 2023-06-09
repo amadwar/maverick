@@ -3,8 +3,6 @@ import "./Devops.css";
 import 'bootstrap/dist/js/bootstrap.bundle.min';
 import TreeView from '@mui/lab/TreeView';
 import TreeItem, { treeItemClasses, TreeItemProps } from '@mui/lab/TreeItem';
-import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
-import ChevronRightIcon from '@mui/icons-material/ChevronRight';
 import SvgIcon, { SvgIconProps } from '@mui/material/SvgIcon';
 import { alpha, styled } from '@mui/material/styles';
 import Collapse from '@mui/material/Collapse';
@@ -16,7 +14,7 @@ import GetLearningResource from "./getVideoDaten";
 
 
 
-function Devops(){
+function Brista(){
 
 
 
@@ -100,7 +98,7 @@ function Devops(){
     <div className="lernpfad-scrum">
       
       
-      <span className="scrum">Azure_DevOps</span>
+      <span className="scrum">Brista</span>
       <div className="flex-container">
       <div className="rectangle-1">  
         <TreeView
@@ -111,11 +109,12 @@ function Devops(){
        defaultEndIcon={<CloseSquare />}
        sx={{ height: 264, flexGrow: 1, maxWidth: 400, overflowY: 'auto' }}
        >
-      <StyledTreeItem nodeId="1" label="DevOps">
-        <StyledTreeItem nodeId="2" label={<Link className="link" to="/video_devops">Introduction to Azure DevOps</Link>} />
-        <StyledTreeItem nodeId="3" label={<Link className="link" to="/video_devops2">Terraform and Azure DevOps</Link>} />
-        <StyledTreeItem nodeId="4" label={<Link className="link" to="/video_devops3">Continuous Integration</Link>} />
-        <StyledTreeItem nodeId="5" label={<Link className="link" to="/video_devops4">Retrospectives: Be Agile and Thrive</Link>} />
+      <StyledTreeItem nodeId="1" label="Brista">
+        <StyledTreeItem nodeId="2" label={<Link className="link" to="/video_brista1">How to use Hario V60</Link>} />
+        <StyledTreeItem nodeId="3" label={<Link className="link" to="/Video_brista2">Unboxing & set up of Nescafe Gold Barista</Link>} />
+        <StyledTreeItem nodeId="4" label={<Link className="link" to="/video_brista3">iDrinkCoffee.com Review</Link>} />
+        <StyledTreeItem nodeId="5" label={<Link className="link" to="/video_brista4">Lelit Bianca Flow Control Espresso Machine Preview</Link>} />
+        <StyledTreeItem nodeId="6" label={<Link className="link" to="/video_brista5">The Complete Beginner's Guide to Buying Chef Knives</Link>} />
        </StyledTreeItem>
        </TreeView>
         
@@ -126,10 +125,11 @@ function Devops(){
         <div className="rectangle-6">
           <span>Videos</span>
           <div className="videos">
-            <div><Link className="link" to="/video_devops">< GetLearningResource  link="https://entitygraph.azurewebsites.net/api/s/REAL_UI_MockUP_TdF/entities/yecw2rUlywA?property=sdo.identifier"/></Link>  </div>
-            <div><Link className="link" to="/video_devops2">< GetLearningResource  link="https://entitygraph.azurewebsites.net/api/s/REAL_UI_MockUP_TdF/entities/Llx4TeU2Hms?property=sdo.identifier"/></Link>  </div>
-            <div><Link className="link" to="/video_devops3">< GetLearningResource  link="https://entitygraph.azurewebsites.net/api/s/REAL_UI_MockUP_TdF/entities/jRgLSMlp28U?property=sdo.identifier"/></Link>  </div>
-            <div><Link className="link" to="/video_devops4">< GetLearningResource  link="https://entitygraph.azurewebsites.net/api/s/REAL_UI_MockUP_TdF/entities/CqTVIOzBRno?property=sdo.identifier"/></Link>  </div>
+            <div><Link className="link" to="/video_brista1">< GetLearningResource  link="https://entitygraph.azurewebsites.net/api/s/REAL_UI_MockUP_TdF/entities/ZC8gEzKml6Q?property=sdo.identifier"/></Link>  </div>
+            <div><Link className="link" to="/video_brista2">< GetLearningResource  link="https://entitygraph.azurewebsites.net/api/s/REAL_UI_MockUP_TdF/entities/0AE6iT3l13I?property=sdo.identifier"/></Link>  </div>
+            <div><Link className="link" to="/video_brista3">< GetLearningResource  link="https://entitygraph.azurewebsites.net/api/s/REAL_UI_MockUP_TdF/entities/nfqVdAigLJI?property=sdo.identifier"/></Link>  </div>
+            <div><Link className="link" to="/video_brista4">< GetLearningResource  link="https://entitygraph.azurewebsites.net/api/s/REAL_UI_MockUP_TdF/entities/eKCTxh06ArU?property=sdo.identifier"/></Link>  </div>
+            <div><Link className="link" to="/video_brista5">< GetLearningResource  link="https://entitygraph.azurewebsites.net/api/s/REAL_UI_MockUP_TdF/entities/YeXlocfenf8?property=sdo.identifier"/></Link>  </div>
             
             
           </div>
@@ -140,4 +140,4 @@ function Devops(){
 
 }
 
-export default Devops;
+export default Brista;

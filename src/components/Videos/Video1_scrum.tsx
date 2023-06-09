@@ -1,5 +1,5 @@
 import * as React from "react";
-import "./Lernpfad2.css";
+import "../Video_devops.css";
 import 'bootstrap/dist/js/bootstrap.bundle.min';
 import TreeView from '@mui/lab/TreeView';
 import TreeItem, { treeItemClasses, TreeItemProps } from '@mui/lab/TreeItem';
@@ -10,17 +10,27 @@ import { alpha, styled } from '@mui/material/styles';
 import Collapse from '@mui/material/Collapse';
 import { useSpring, animated } from "@react-spring/web";
 import { TransitionProps } from '@mui/material/transitions';
+import { Link } from "react-router-dom";
+import GetVideo from "../getvideo";
 
- 
 
-function Lernpfad2() {
 
-    const grafik2="./grafik2.png";
-    const grafik4 = "./grafik4.png";
-    const grafik6 = "./grafik6.png";
-    const grafik = "./grafik.png";
-    const frame = "./frame.svg";
+function Video_Scrum1(){
+
+
+
+   const check="./check.svg.svg";
+   const minus="./minus.svg.png";
     
+   const [checked, setChecked] = React.useState(false);
+
+  const handleCheckClick = () => {
+    setChecked(true);
+  };
+
+  const handleMinusClick = () => {
+    setChecked(true);
+  };
 
     function MinusSquare(props: SvgIconProps) {
       return (
@@ -96,50 +106,50 @@ function Lernpfad2() {
       
       <span className="scrum">Scrum</span>
       <div className="flex-container">
-        <div className="rectangle-1">
-        
+      <div className="rectangle-1">  
         <TreeView
-      aria-label="customized"
-      defaultExpanded={['1']}
-      defaultCollapseIcon={<MinusSquare />}
-      defaultExpandIcon={<PlusSquare />}
-      defaultEndIcon={<CloseSquare />}
-      sx={{ height: 264, flexGrow: 1, maxWidth: 400, overflowY: 'auto' }}
-    >
-      <StyledTreeItem nodeId="1" label="Main">
-        <StyledTreeItem nodeId="2" label="Hello" />
-        <StyledTreeItem nodeId="3" label="Subtree with children">
-          <StyledTreeItem nodeId="6" label="Hello" />
-          <StyledTreeItem nodeId="7" label="Sub-subtree with children">
-            <StyledTreeItem nodeId="9" label="Child 1" />
-            <StyledTreeItem nodeId="10" label="Child 2" />
-            <StyledTreeItem nodeId="11" label="Child 3" />
-          </StyledTreeItem>
-          <StyledTreeItem nodeId="8" label="Hello" />
-        </StyledTreeItem>
-        <StyledTreeItem nodeId="4" label="World" />
-        <StyledTreeItem nodeId="5" label="Something something" />
-      </StyledTreeItem>
-    </TreeView>
+       aria-label="customized"
+       defaultExpanded={['1']}
+       defaultCollapseIcon={<MinusSquare />}
+       defaultExpandIcon={<PlusSquare />}
+      
+       sx={{ height: 264, flexGrow: 1, maxWidth: 400, overflowY: 'auto' }}
+       >
+
+       <StyledTreeItem nodeId="1" label="Scrum">
+        <StyledTreeItem nodeId="2" label={checked ? <div className="checked"> <img className="heck" src={check} /><Link className="link" to="/Video_Scrum1">Intro to Scrum in Under 10 Minutes</Link></div> : <Link className="link" to="/Video_Scrum1">Intro to Scrum in Under 10 Minutes</Link>} />
+        <StyledTreeItem nodeId="3" label={<Link className="link" to="/video_Scrum2">Introduction to Scrum - 7 Minutes </Link>} />
+        <StyledTreeItem nodeId="4" label={<Link className="link" to="/video_Scrum3">3 Key Points for Scrum Masters in the new Scrum Guide 2022</Link>} />
+        <StyledTreeItem nodeId="5" label={<Link className="link" to="/video_Scrum4">Bad Low Profile Coolers Beware: Scythe Is Coming!</Link>} />
+        <StyledTreeItem nodeId="6" label={<Link className="link" to="/video_Scrum5">COSM - STOCHASTIC PROCESSES - INTRODUCTION</Link>} />
+       </StyledTreeItem>
+
+
+
+
+       </TreeView>
         
       
 
 
         </div>
         <div className="rectangle-6">
-          <span className="videos">Videos</span>
-          <img className="frame" src={frame} />
-          <span className="audio">Audio</span>
-          <div className="flex-container-2">
-            <img className="grafik" src={grafik} />
-            <img className="grafik-2" src={grafik2} />
-            <img className="grafik-4" src={grafik4} />
+          <h3>Intro to Scrum in Under 10 Minutes</h3>
+          
+            <div className="video"><GetVideo link="https://entitygraph.azurewebsites.net/api/s/REAL_UI_MockUP_TdF/entities/XU0llRltyFM?property=sdo.identifier" width="600px" height="400px"/></div>
+          
+          <p>Ist dieses Video hilfreich?</p>
+          <div className="Feedback">
+            <img className="check" src={check} onClick={handleCheckClick}/>
+            <img className="minus" src={minus} onClick={handleMinusClick}/>
+
+
           </div>
-          <span className="literatur">Literatur</span>
-          <img className="grafik-6" src={grafik6} />
         </div>
       </div>
     </div>
   );
-};
-export default Lernpfad2;
+
+}
+
+export default Video_Scrum1;
