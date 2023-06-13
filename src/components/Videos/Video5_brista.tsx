@@ -104,7 +104,7 @@ function Video_brista5(){
     <div className="lernpfad-scrum">
       
       
-      <span className="scrum">Brista</span>
+      <span className="scrum">Barista</span>
       <div className="flex-container">
       <div className="rectangle-1">  
         <TreeView
@@ -116,7 +116,7 @@ function Video_brista5(){
        sx={{ height: 264, flexGrow: 1, maxWidth: 400, overflowY: 'auto' }}
        >
 
-       <StyledTreeItem nodeId="1" label="Brista">
+       <StyledTreeItem nodeId="1" label={<Link className="link" to="/brista">Barista</Link>}>
         <StyledTreeItem nodeId="2" label={ <Link className="link" to="/video_brista1">How to use Hario V60</Link>} />
         <StyledTreeItem nodeId="3" label={<Link className="link" to="/Video_brista2">Unboxing & set up of Nescafe Gold Barista</Link>} />
         <StyledTreeItem nodeId="4" label={<Link className="link" to="/video_brista3">iDrinkCoffee.com Review</Link>} />

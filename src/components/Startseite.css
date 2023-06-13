@@ -45,6 +45,7 @@
     font-size: 1rem;
     line-height: 19px;
     display: flex;
+    overflow: auto;
   }
   
   .flex-container-2 {

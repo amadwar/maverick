@@ -115,7 +115,7 @@ function Video_devops(){
        
        sx={{ height: 264, flexGrow: 1, maxWidth: 400, overflowY: 'auto' }}
        >
-      <StyledTreeItem nodeId="1" label="DevOps">
+      <StyledTreeItem nodeId="1" label={<Link className="link" to="/devops">DevOps</Link>}>
       <StyledTreeItem nodeId="2" label={checked ? <div className="checked"> <img className="heck" src={check} /><Link className="link" to="/video_devops">Introduction to Azure DevOps</Link></div> : <Link className="link" to="/video_devops">Introduction to Azure DevOps</Link>} />
       <StyledTreeItem nodeId="3" label={<Link className="link" to="/video_devops2">Terraform and Azure DevOps</Link>} />
       <StyledTreeItem nodeId="4" label={ <Link className="link" to="/video_devops">Continuous Integration</Link>} />

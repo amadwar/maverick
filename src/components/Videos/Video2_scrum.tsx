@@ -116,7 +116,7 @@ function Video_Scrum2(){
        sx={{ height: 264, flexGrow: 1, maxWidth: 400, overflowY: 'auto' }}
        >
 
-       <StyledTreeItem nodeId="1" label="Scrum">
+       <StyledTreeItem nodeId="1" label={<Link className="link" to="/scrum">Scrum</Link>}>
         <StyledTreeItem nodeId="2" label={ <Link className="link" to="/Video_Scrum1">Intro to Scrum in Under 10 Minutes</Link>} />
         <StyledTreeItem nodeId="3" label={checked ? <div className="checked"> <img className="heck" src={check} /><Link className="link" to="/Video_Scrum2">Introduction to Scrum - 7 Minutes</Link></div> :<Link className="link" to="Video_Scrum2">Introduction to Scrum - 7 Minutes </Link>} />
         <StyledTreeItem nodeId="4" label={<Link className="link" to="/Video_Scrum3">3 Key Points for Scrum Masters in the new Scrum Guide 2022</Link>} />

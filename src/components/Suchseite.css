@@ -84,13 +84,10 @@
     align-self: center;
     align-items: stretch;
     margin-left: 1rem;
-    margin-top: 3rem;
-    padding-top: 1rem;
-    padding-bottom: 1rem;
-    padding-left: 1rem;
-    padding-right: 1rem;
-    
+    margin-top: 1rem;
+    padding: 1rem;
     display: flex;
+    
   }
   
   
@@ -139,7 +136,7 @@
   .button {
     width: 30%;
     background-color: #98c1d980;
-    margin-top: 2rem;
+    margin-top: 1rem;
     border: 2px solid #5ddae4;
     border-radius: 15px;
     height: 10%;
@@ -161,18 +158,14 @@
   
     }
 
-    .badge{
-      
+    .badgen {
+      display: flex;
       flex-direction: row;
       font-size: medium;
-      padding-bottom: 1rem;
-      padding-left: 1rem;
-      padding-right: 1rem;
-      padding-top: 1rem;
-      margin-bottom: 1rem;
-      overflow-y:auto;
-      overflow-x: auto;
-      white-space:initial;
-      justify-content:center;
-      
-    }
+      flex-wrap: wrap;
+      gap: 0.3rem; /* Dieser Wert stellt den Abstand zwischen den Badges dar. Passen Sie ihn nach Bedarf an. */
+      justify-content: center;
+      align-items: center;
+  }
+    
+    

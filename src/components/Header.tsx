@@ -27,7 +27,47 @@ const Header: React.FC = () => {
 
   const handleSearch = (e: React.FormEvent) => {
     e.preventDefault();
-    if(inputValue.trim().toLowerCase() === 'brista'){
+    if(inputValue.trim().toLowerCase() === 'teamleitung'){
+      setShowNoResultsMessage(false);
+      navigate('/suchseite_teamleitung');
+    }
+    if(inputValue.trim().toLowerCase() === 'immobilien'){
+      setShowNoResultsMessage(false);
+      navigate('/suchseite_immobilien');
+    }
+    if(inputValue.trim().toLowerCase() === 'projektmanagement'){
+      setShowNoResultsMessage(false);
+      navigate('/suchseite_projektmanagement');
+    }
+    if(inputValue.trim().toLowerCase() === 'campingmanagement'){
+      setShowNoResultsMessage(false);
+      navigate('/suchseite_campingmanagement');
+    }
+    if(inputValue.trim().toLowerCase() === 'meditation'){
+      setShowNoResultsMessage(false);
+      navigate('/suchseite_meditation');
+    }
+    if(inputValue.trim().toLowerCase() === 'kommunizieren'){
+      setShowNoResultsMessage(false);
+      navigate('/suchseite_kommunizieren');
+    }
+    if(inputValue.trim().toLowerCase() === 'malen'){
+      setShowNoResultsMessage(false);
+      navigate('/suchseite_malen');
+    }
+    if(inputValue.trim().toLowerCase() === 'basteln'){
+      setShowNoResultsMessage(false);
+      navigate('/suchseite_basteln');
+    }
+    if(inputValue.trim().toLowerCase() === 'stricken'){
+      setShowNoResultsMessage(false);
+      navigate('/suchseite_stricken');
+    }
+    if(inputValue.trim().toLowerCase() === 'gärtner'){
+      setShowNoResultsMessage(false);
+      navigate('/suchseite_gaertner');
+    }
+    if(inputValue.trim().toLowerCase() === 'barista'){
       setShowNoResultsMessage(false);
       navigate('/suchseite_brista');
     }

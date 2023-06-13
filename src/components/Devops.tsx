@@ -21,11 +21,7 @@ function Devops(){
 
 
 
-    const grafik2="./grafik2.png";
-    const grafik4 = "./grafik4.png";
-    const grafik6 = "./grafik6.png";
-    const grafik = "./grafik.png";
-    const frame = "./frame.svg";
+   
     
 
     function MinusSquare(props: SvgIconProps) {
@@ -111,7 +107,7 @@ function Devops(){
        defaultEndIcon={<CloseSquare />}
        sx={{ height: 264, flexGrow: 1, maxWidth: 400, overflowY: 'auto' }}
        >
-      <StyledTreeItem nodeId="1" label="DevOps">
+      <StyledTreeItem nodeId="1" label="Devops">
         <StyledTreeItem nodeId="2" label={<Link className="link" to="/video_devops">Introduction to Azure DevOps</Link>} />
         <StyledTreeItem nodeId="3" label={<Link className="link" to="/video_devops2">Terraform and Azure DevOps</Link>} />
         <StyledTreeItem nodeId="4" label={<Link className="link" to="/video_devops3">Continuous Integration</Link>} />
@@ -126,10 +122,10 @@ function Devops(){
         <div className="rectangle-6">
           <span>Videos</span>
           <div className="videos">
-            <div><Link className="link" to="/video_devops">< GetLearningResource  link="https://entitygraph.azurewebsites.net/api/s/REAL_UI_MockUP_TdF/entities/yecw2rUlywA?property=sdo.identifier"/></Link>  </div>
-            <div><Link className="link" to="/video_devops2">< GetLearningResource  link="https://entitygraph.azurewebsites.net/api/s/REAL_UI_MockUP_TdF/entities/Llx4TeU2Hms?property=sdo.identifier"/></Link>  </div>
-            <div><Link className="link" to="/video_devops3">< GetLearningResource  link="https://entitygraph.azurewebsites.net/api/s/REAL_UI_MockUP_TdF/entities/jRgLSMlp28U?property=sdo.identifier"/></Link>  </div>
-            <div><Link className="link" to="/video_devops4">< GetLearningResource  link="https://entitygraph.azurewebsites.net/api/s/REAL_UI_MockUP_TdF/entities/CqTVIOzBRno?property=sdo.identifier"/></Link>  </div>
+            <Link className="link" to="/video_devops">< GetLearningResource  link="https://entitygraph.azurewebsites.net/api/s/REAL_UI_MockUP_TdF/entities/yecw2rUlywA?property=sdo.identifier"/></Link>  
+            <Link className="link" to="/video_devops2">< GetLearningResource  link="https://entitygraph.azurewebsites.net/api/s/REAL_UI_MockUP_TdF/entities/Llx4TeU2Hms?property=sdo.identifier"/></Link>  
+            <Link className="link" to="/video_devops3">< GetLearningResource  link="https://entitygraph.azurewebsites.net/api/s/REAL_UI_MockUP_TdF/entities/jRgLSMlp28U?property=sdo.identifier"/></Link>  
+            <Link className="link" to="/video_devops4">< GetLearningResource  link="https://entitygraph.azurewebsites.net/api/s/REAL_UI_MockUP_TdF/entities/CqTVIOzBRno?property=sdo.identifier"/></Link>  
             
             
           </div>

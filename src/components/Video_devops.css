@@ -42,15 +42,16 @@
     justify-content: flex-start;
     align-self: flex-start;
     align-items: center;
-    overflow-x: auto;
+    overflow: auto;
     white-space: nowrap;
     padding: 1rem;
     margin-left: 1.25rem;
   }
   
   .rectangle-1 {
+    display: flex;
     height: 100%;
-    background-color: #FFFF;
+    background-color: #FFFFFF;
     border: 2px solid #5ddae4;
     border-radius: 0px;
     flex-direction: column;
@@ -59,7 +60,9 @@
     align-items: stretch;
     padding: 1rem 2rem;
     margin: 0 1.25rem;
-  }
+    overflow: auto; /* Falls notwendig, um sicherzustellen, dass alle Elemente durch Scrollen sichtbar sind */
+}
+
   
   .videos {
     display: flex;

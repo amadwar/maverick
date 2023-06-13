@@ -3,6 +3,7 @@ import "../Suchseite.css";
 import { Link } from 'react-router-dom'; 
 import ClosableBadge from "../ClosableBadge";
 import { useNavigate } from 'react-router-dom';
+import Badge from "../Badge";
 function Suchseite_scrum() {
   
   const navigate = useNavigate(); 
@@ -29,12 +30,12 @@ function Suchseite_scrum() {
       <div className="rectangle-10">
       <span className="text1">Personalisiere deinen Lernpfad</span>
       <span className="text2">Welche Themen sind bei dir bereits bekannt?</span>
-      <div className="badge">
-      <ClosableBadge text="Intro to Scrum in Under 10 Minutes" />{" "}
-      <ClosableBadge text="Introduction to Scrum - 7 Minutes" />{" "}
-      <ClosableBadge text="3 Key Points for Scrum Masters in the new Scrum Guide 2022" />{" "}
-      <ClosableBadge text="Bad Low Profile Coolers Beware: Scythe Is Coming! " />{" "}
-      <ClosableBadge text="COSM - STOCHASTIC PROCESSES - INTRODUCTION " />{" "}
+      <div className="badgen">
+      <Badge text="Intro to Scrum in Under 10 Minutes" />{" "}
+      <Badge text="Introduction to Scrum - 7 Minutes" />{" "}
+      <Badge text="3 Key Points for Scrum Masters in the new Scrum Guide 2022" />{" "}
+      <Badge text="Bad Low Profile Coolers Beware: Scythe Is Coming! " />{" "}
+      <Badge text="COSM - STOCHASTIC PROCESSES - INTRODUCTION " />{" "}
       </div>
       
       

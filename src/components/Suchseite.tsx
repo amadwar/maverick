@@ -3,6 +3,7 @@ import "./Suchseite.css";
 import { Link } from 'react-router-dom'; 
 import ClosableBadge from "./ClosableBadge";
 import { useNavigate } from 'react-router-dom';
+import Badge from "./Badge";
 function Suchseite() {
   
   const navigate = useNavigate(); 
@@ -31,13 +32,15 @@ function Suchseite() {
       <div className="rectangle-10">
       <span className="text1">Personalisiere deinen Lernpfad</span>
       <span className="text2">Welche Themen sind bei dir bereits bekannt?</span>
-      <div className="badge">
-      <ClosableBadge text="Introduction to Azure DevOps" />{" "}
-      <ClosableBadge text="Terraform and Azure DevOps" />{" "}
-      <ClosableBadge text="Continuous Integration, Continuous Deployment (CI-CD) with Azure DevOps" />{" "}
-      <ClosableBadge text="Retrospectives: Be Agile and Thrive " />{" "}
+      <div className="badgen">
+      <Badge text="Introduction to Azure DevOps" />
+      <Badge text="Terraform and Azure DevOps" />
+      <Badge text="Continuous Integration, Continuous Deployment (CI-CD) with Azure DevOps" />
+      <Badge text="Retrospectives: Be Agile and Thrive " />
+      
       </div>
       
+
       
 
         

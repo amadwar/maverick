@@ -34,19 +34,23 @@
 }
 
 .rectangle-6 {
+  display: flex; 
   height: 100%;
-  background-color: #FFFF;
+  background-color: #FFFFFF;
   border: 2px solid #5ddae4;
   border-radius: 0px;
   flex-direction: column;
   justify-content: flex-start;
   align-self: flex-start;
   align-items: stretch;
-  overflow-x: auto;
+  overflow: auto;
   white-space: nowrap;
   padding: 1rem;
   margin-left: 1.25rem;
+  flex-wrap: wrap; /* Hier hinzugefügt */
 }
+
+
 
 .rectangle-1 {
   height: 100%;
@@ -59,6 +63,7 @@
   align-items: stretch;
   padding: 1rem 2rem;
   margin: 0 1.25rem;
+  
 }
 
 .videos {
