@@ -9,14 +9,71 @@ import Collapse from '@mui/material/Collapse';
 import { useSpring, animated } from "@react-spring/web";
 import { TransitionProps } from '@mui/material/transitions';
 import { Link } from "react-router-dom";
-import GetLearningResource from "../../getVideoDaten";
+import axios from "axios";
+import { useEffect, useState } from "react";
 
 
+interface CosineSimilarity {
+    "@type": string;
+    "@value": string;
+  }
+  
+  interface Identifier {
+    "@value": string;
+  }
+  
+  interface Teaches {
+    "@id": string;
+  }
+  
+  interface ThumbnailUrl {
+    "@type": string;
+    "@value": string;
+  }
+  
+  interface Title {
+    "@value": string;
+  }
+  
+  interface Url {
+    "@type": string;
+    "@value": string;
+  }
+  
+  interface TermCode {
+    "@value": string;
+  }
+  
+  interface LearningResource {
+    "@id": string;
+    "@type": string[];
+    "https://schema.org/cosineSimilarity"?: CosineSimilarity[];
+    "https://schema.org/identifier"?: Identifier[];
+    "https://schema.org/teaches"?: Teaches[];
+    "https://schema.org/thumbnailUrl"?: ThumbnailUrl[];
+    "https://schema.org/title"?: Title[];
+    "https://schema.org/url"?: Url[];
+    "https://schema.org/termCode"?: TermCode[];
+  }
 
 
 function Informatik(){
 
-    
+    const [data, setData] = useState<LearningResource[]>([]);
+
+    useEffect(() => {
+      const fetchData = async () => {
+        try {
+          const response = await axios.get<LearningResource[]>("./Informatik_Studium.json");
+          setData(response.data);
+        } catch (error) {
+          console.error(error);
+        }
+      };
+  
+      fetchData();
+    }, []);
+
 
     function MinusSquare(props: SvgIconProps) {
       return (
@@ -86,48 +143,54 @@ function Informatik(){
     
 
 
-  return (
-    <div className="lernpfad-scrum">
-      
-      
-      <span className="scrum">Informatik Studium</span>
-      <div className="flex-container">
-      <div className="rectangle-1">  
-        <TreeView
-       aria-label="customized"
-       defaultExpanded={['1']}
-       defaultCollapseIcon={<MinusSquare />}
-       defaultExpandIcon={<PlusSquare />}
-       defaultEndIcon={<CloseSquare />}
-       sx={{ height: 264, flexGrow: 1, maxWidth: 400, overflowY: 'auto' }}
-       >
-      <StyledTreeItem nodeId="1" label="Informatik Studium">
-        <StyledTreeItem nodeId="2" label={<Link className="link" to="/video_informatik1">SO SO, DU willst also INFORMATIK STUDIEREN</Link>} />
-        <StyledTreeItem nodeId="3" label={<Link className="link" to="/video_informatik2">INFORMATIK studieren ohne Vorkenntnisse?!</Link>} />
-        <StyledTreeItem nodeId="4" label={<Link className="link" to="/video_informatik3">Duales Studium der Informatik!</Link>} />
-        <StyledTreeItem nodeId="5" label={<Link className="link" to="/video_informatik4">Aufnahmeprüfung Uni CAMBRIDGE UNIVERSITY – Integral berechnen, Computer Science TMUA</Link>} />
-        <StyledTreeItem nodeId="6" label={<Link className="link" to="/video_informatik5">Mathematical Informatics at the University of Tokyo</Link>} />
-       </StyledTreeItem>
-       </TreeView>
-        
-      
-
-
-        </div>
-        <div className="rectangle-6">
+    return (
+        <div className="lernpfad-scrum">
+          {data.length ? (  // überprüft, ob Daten vorhanden sind
+            <>
+              <span className="scrum">{data[1]["https://schema.org/termCode"]?.map(title => title["@value"]).join(', ')}</span>
+              <div className="flex-container">
+                <div className="rectangle-1">  
+                  <TreeView
+                    aria-label="customized"
+                    defaultExpanded={['1']}
+                    defaultCollapseIcon={<MinusSquare />}
+                    defaultExpandIcon={<PlusSquare />}
+                    defaultEndIcon={<CloseSquare />}
+                    sx={{ height: 264, flexGrow: 1, maxWidth: 400, overflowY: 'auto' }}
+                    >
+                    <StyledTreeItem nodeId="1" label={data[1]["https://schema.org/termCode"]?.map(title => title["@value"]).join(', ')}>
+                      <StyledTreeItem nodeId="2" label={<Link className="link" to="/video_informatik1"> {data[0]["https://schema.org/title"]?.map(title => title["@value"]).join(', ')} </Link>} />
+                      <StyledTreeItem nodeId="3" label={<Link className="link" to="/video_informatik2">{data[2]["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</Link>} />
+                      <StyledTreeItem nodeId="4" label={<Link className="link" to="/video_informatik3">{data[3]["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</Link>} />
+                      <StyledTreeItem nodeId="5" label={<Link className="link" to="/video_informatik4">{data[4]["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</Link>} />
+                      <StyledTreeItem nodeId="6" label={<Link className="link" to="/video_informatik5">{data[5]["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</Link>} />
+                    </StyledTreeItem>
+                  </TreeView>
+                </div>
+                <div className="rectangle-6">
           <span>Videos</span>
           <div className="videos">
-            <div><Link className="link" to="/video_informatik1">< GetLearningResource  link="https://entitygraph.azurewebsites.net/api/s/REAL_UI_MockUP_TdF/entities/c9k8BTd0Bbw?property=sdo.identifier"/></Link>  </div>
-            <div><Link className="link" to="/video_informatik2">< GetLearningResource  link="https://entitygraph.azurewebsites.net/api/s/REAL_UI_MockUP_TdF/entities/S4ZfMMFKwk4?property=sdo.identifier"/></Link>  </div>
-            <div><Link className="link" to="/video_informatik3">< GetLearningResource  link="https://entitygraph.azurewebsites.net/api/s/REAL_UI_MockUP_TdF/entities/F8HEgYGJPY4?property=sdo.identifier"/></Link>  </div>
-            <div><Link className="link" to="/video_informatik4">< GetLearningResource  link="https://entitygraph.azurewebsites.net/api/s/REAL_UI_MockUP_TdF/entities/2dbPP7BIZJ4?property=sdo.identifier"/></Link>  </div>
-            <div><Link className="link" to="/video_informatik5">< GetLearningResource  link="https://entitygraph.azurewebsites.net/api/s/REAL_UI_MockUP_TdF/entities/u3uS2wiDdE8?property=sdo.identifier"/></Link>  </div>
-            
+            <div><Link className="link" to="/video_informatik1"><img className="img" src={data[0]["https://schema.org/thumbnailUrl"]?.map(thumbnail => thumbnail["@value"]).join(', ')} alt="Thumbnail" /></Link><h6 style={{whiteSpace: "pre-line"}}>{data[0]["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</h6> </div>
+            <div><Link className="link" to="/video_informatik2"><img className="img" src={data[2]["https://schema.org/thumbnailUrl"]?.map(thumbnail => thumbnail["@value"]).join(', ')} alt="Thumbnail" /></Link><h6 style={{whiteSpace: "pre-line"}}>{data[2]["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</h6>  </div>
+            <div><Link className="link" to="/video_informatik3"><img className="img" src={data[3]["https://schema.org/thumbnailUrl"]?.map(thumbnail => thumbnail["@value"]).join(', ')} alt="Thumbnail" /></Link><h6 style={{whiteSpace: "pre-line"}}>{data[3]["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</h6>  </div>
+            <div><Link className="link" to="/video_informatik4"><img className="img" src={data[4]["https://schema.org/thumbnailUrl"]?.map(thumbnail => thumbnail["@value"]).join(', ')} alt="Thumbnail" /></Link><h6 style={{whiteSpace: "pre-line"}}>{data[4]["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</h6>  </div>
+            <div><Link className="link" to="/video_informatik5"><img className="img" src={data[5]["https://schema.org/thumbnailUrl"]?.map(thumbnail => thumbnail["@value"]).join(', ')} alt="Thumbnail" /></Link><h6 style={{whiteSpace: "pre-line"}}>{data[5]["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</h6>  </div>
+          </div>
+          <p>Article</p>
+          <div className="videos">
+          
+          <a href={data[6]["https://schema.org/url"]?.map(url => url["@value"]).join(', ')} >{data[6]["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</a>
+
+
           </div>
         </div>
-      </div>
-    </div>
-  );
+              </div>
+            </>
+          ) : (
+            <p>Daten werden geladen...</p>  // wird angezeigt, wenn Daten noch nicht geladen sind
+          )}
+        </div>
+      );
 
 }
 

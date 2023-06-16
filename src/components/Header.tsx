@@ -27,6 +27,31 @@ const Header: React.FC = () => {
 
   const handleSearch = (e: React.FormEvent) => {
     e.preventDefault();
+    if(inputValue.trim().toLowerCase() === 'geschichte'){
+      setShowNoResultsMessage(false);
+      navigate('/suchseite_geschichte');
+    }
+    e.preventDefault();
+    if(inputValue.trim().toLowerCase() === 'soziologie'){
+      setShowNoResultsMessage(false);
+      navigate('/suchseite_sozialogie');
+    }
+    e.preventDefault();
+    if(inputValue.trim().toLowerCase() === 'volkswirtschaftslehre'){
+      setShowNoResultsMessage(false);
+      navigate('/suchseite_volkswirtschaftslehre');
+    }
+    e.preventDefault();
+    if(inputValue.trim().toLowerCase() === 'mathematik'){
+      setShowNoResultsMessage(false);
+      navigate('/suchseite_mathematik');
+    }
+    e.preventDefault();
+    if(inputValue.trim().toLowerCase() === 'physik'){
+      setShowNoResultsMessage(false);
+      navigate('/suchseite_physik');
+    }
+    e.preventDefault();
     if(inputValue.trim().toLowerCase() === 'elektrotechnik'){
       setShowNoResultsMessage(false);
       navigate('/suchseite_elektrotechnik');

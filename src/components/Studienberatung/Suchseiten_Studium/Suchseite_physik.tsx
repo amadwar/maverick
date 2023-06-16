@@ -53,14 +53,14 @@ interface LearningResource {
 
 
 
-function Suchseite_informatik() {
+function Suchseite_physik() {
   const [data, setData] = useState<LearningResource[]>([]);
   const navigate = useNavigate(); 
 
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await axios.get<LearningResource[]>("./Informatik_Studium.json");
+        const response = await axios.get<LearningResource[]>("./Physik_Studium.json");
         setData(response.data);
       } catch (error) {
         console.error(error);
@@ -71,7 +71,7 @@ function Suchseite_informatik() {
   }, []);
 
   const navigateToBiologie = () => {
-    navigate("/informatik");
+    navigate("/physik");
   }
 
   return (
@@ -81,7 +81,7 @@ function Suchseite_informatik() {
       <div className="rectangle-19">
         <h3>{data[1] && data[1]["https://schema.org/termCode"]?.map(title => title["@value"]).join(', ')}</h3>
         <span className="ein-softwareentwickler-englisch">
-        Das Informatikstudium ist das Studium der Fachrichtung Informatik. Es wird an Hochschulen mit einem akademischen Grad abgeschlossen. 
+        Als Physikstudium wird die Ausbildung zum Bachelor- oder Master der Physik sowie die Ausbildung der Lehramtskandidaten an einer Universität oder Technischen Hochschule bezeichnet. Zudem bezeichnet man damit auch jene Studiengänge, die als Abschluss den Titel Diplom-Physiker verleihen. 
         (Quelle Wikipedia)
         </span>
       </div>
@@ -95,7 +95,7 @@ function Suchseite_informatik() {
           <Badge text={data[3] && data[3]["https://schema.org/title"] ? data[3]["https://schema.org/title"].map(title => title["@value"]).join(', ') : ""} />{" "}
           <Badge text={data[4] && data[4]["https://schema.org/title"] ? data[4]["https://schema.org/title"].map(title => title["@value"]).join(', ') : ""} />{" "}
           <Badge text={data[5] && data[5]["https://schema.org/title"] ? data[5]["https://schema.org/title"].map(title => title["@value"]).join(', ') : ""}/>{" "}
-          <Badge text={data[5] && data[6]["https://schema.org/title"] ? data[6]["https://schema.org/title"].map(title => title["@value"]).join(', ') : ""}/>{" "}
+          
         </div>
       </div>
      
@@ -105,4 +105,4 @@ function Suchseite_informatik() {
   );
 }
 
-export default Suchseite_informatik;
+export default Suchseite_physik;

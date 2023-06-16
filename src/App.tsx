@@ -168,6 +168,21 @@ import Video_chemie1 from "./components/Studienberatung/Videos_Chemie/Video1_che
 import Video_chemie2 from "./components/Studienberatung/Videos_Chemie/Video2_chemie";
 import Video_chemie3 from "./components/Studienberatung/Videos_Chemie/Video3_chemie";
 import Video_chemie4 from "./components/Studienberatung/Videos_Chemie/Video4_chemie";
+import Video_elektrotechnik1 from "./components/Studienberatung/Videos_elektrotechnik/Video1_elektrotechnik";
+import Video_elektrotechnik2 from "./components/Studienberatung/Videos_elektrotechnik/Video2_elektrotechnik";
+import Video_elektrotechnik3 from "./components/Studienberatung/Videos_elektrotechnik/Video3_elektrotechnik";
+import Video_elektrotechnik4 from "./components/Studienberatung/Videos_elektrotechnik/Video4_elektrotechnik";
+import Video_elektrotechnik5 from "./components/Studienberatung/Videos_elektrotechnik/Video5_elektrotechnik";
+import Suchseite_physik from "./components/Studienberatung/Suchseiten_Studium/Suchseite_physik";
+import Suchseite_mathematik from "./components/Studienberatung/Suchseiten_Studium/Suchseite_mathematik";
+import Suchseite_volkswirtschaftslehre from "./components/Studienberatung/Suchseiten_Studium/Suchseite_volkswirtschaftslehre";
+import Suchseite_sozialogie from "./components/Studienberatung/Suchseiten_Studium/Suchseite_sozialogie";
+import Suchseite_geschichte from "./components/Studienberatung/Suchseiten_Studium/Suchseite_geschichte";
+import Video_geschichte5 from "./components/Studienberatung/Videos_geschichte/Video5_geschichte";
+import Video_geschichte4 from "./components/Studienberatung/Videos_geschichte/Video4_geschichte";
+import Video_geschichte3 from "./components/Studienberatung/Videos_geschichte/Video3_geschichte";
+import Video_geschichte2 from "./components/Studienberatung/Videos_geschichte/Video2_geschichte";
+import Video_geschichte1 from "./components/Studienberatung/Videos_geschichte/Video1_geschichte";
 
 
 
@@ -437,6 +452,51 @@ function App(){
               <>
                 <Header />
                 <Suchseite_Biologie/>
+              </>
+            }
+          />
+          <Route
+            path="suchseite_geschichte"
+            element={
+              <>
+                <Header />
+                <Suchseite_geschichte/>
+              </>
+            }
+          />
+          <Route
+            path="suchseite_sozialogie"
+            element={
+              <>
+                <Header />
+                <Suchseite_sozialogie/>
+              </>
+            }
+          />
+          <Route
+            path="suchseite_volkswirtschaftslehre"
+            element={
+              <>
+                <Header />
+                <Suchseite_volkswirtschaftslehre/>
+              </>
+            }
+          />
+          <Route
+            path="suchseite_mathematik"
+            element={
+              <>
+                <Header />
+                <Suchseite_mathematik/>
+              </>
+            }
+          />
+          <Route
+            path="suchseite_physik"
+            element={
+              <>
+                <Header />
+                <Suchseite_physik/>
               </>
             }
           />
@@ -1266,7 +1326,7 @@ function App(){
             element={
               <>
                 <Header />
-                <Video_jura5/>
+                <Video_elektrotechnik1/>
               </>
             }
           />
@@ -1275,7 +1335,7 @@ function App(){
             element={
               <>
                 <Header />
-                <Video_jura5/>
+                <Video_elektrotechnik2/>
               </>
             }
           />
@@ -1284,7 +1344,7 @@ function App(){
             element={
               <>
                 <Header />
-                <Video_jura5/>
+                <Video_elektrotechnik3/>
               </>
             }
           />
@@ -1293,7 +1353,7 @@ function App(){
             element={
               <>
                 <Header />
-                <Video_jura5/>
+                <Video_elektrotechnik4/>
               </>
             }
           />
@@ -1302,7 +1362,7 @@ function App(){
             element={
               <>
                 <Header />
-                <Video_jura5/>
+                <Video_elektrotechnik5/>
               </>
             }
           />
@@ -1438,6 +1498,96 @@ function App(){
               <>
                 <Header />
                 <Video_chemie5/>
+              </>
+            }
+          />
+          <Route
+            path="video_geschichte1"
+            element={
+              <>
+                <Header />
+                <Video_geschichte1/>
+              </>
+            }
+          />
+          <Route
+            path="video_geschichte2"
+            element={
+              <>
+                <Header />
+                <Video_geschichte2/>
+              </>
+            }
+          />
+          <Route
+            path="video_geschichte3"
+            element={
+              <>
+                <Header />
+                <Video_geschichte3/>
+              </>
+            }
+          />
+          <Route
+            path="video_geschichte4"
+            element={
+              <>
+                <Header />
+                <Video_geschichte4/>
+              </>
+            }
+          />
+          <Route
+            path="video_geschichte5"
+            element={
+              <>
+                <Header />
+                <Video_geschichte5/>
+              </>
+            }
+          />
+          <Route
+            path="video_sozialogie1"
+            element={
+              <>
+                <Header />
+                <Video_geschichte5/>
+              </>
+            }
+          />
+          <Route
+            path="video_sozialogie2"
+            element={
+              <>
+                <Header />
+                <Video_geschichte5/>
+              </>
+            }
+          />
+          <Route
+            path="video_sozialogie3"
+            element={
+              <>
+                <Header />
+                <Video_geschichte5/>
+              </>
+            }
+          />
+          <Route
+            path="video_sozialogie4"
+            element={
+              <>
+                <Header />
+                <Video_geschichte5/>
+              </>
+            }
+          />
+          <Route
+            path="video_sozialogie5"
+            element={
+              <>
+                <Header />
+                <Video_geschichte5/>
               </>
             }
           />
@@ -1646,7 +1796,7 @@ function App(){
             path="geschichte"
             element={
               <>
-               
+               <Header />
                 <Geschichte />
               </>
             }
@@ -1655,7 +1805,7 @@ function App(){
             path="volkswirtschaftslehre"
             element={
               <>
-               
+               <Header />
                 <Volkswirtschaftslehre />
               </>
             }
@@ -1664,7 +1814,7 @@ function App(){
             path="mathematik"
             element={
               <>
-               
+               <Header />
                 <Mathematik />
               </>
             }
@@ -1673,7 +1823,7 @@ function App(){
             path="physik"
             element={
               <>
-               
+               <Header />
                 <Physik />
               </>
             }

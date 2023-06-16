@@ -61,13 +61,13 @@ interface CosineSimilarity {
 
 
 
-function Video_jura2(){
+function Video_geschichte1(){
 
   const [data, setData] = useState<LearningResource[]>([]);
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await axios.get<LearningResource[]>("./Jura_Studium.json");
+        const response = await axios.get<LearningResource[]>("./Geschichte_Studium.json");
         setData(response.data);
       } catch (error) {
         console.error(error);
@@ -171,21 +171,21 @@ function Video_jura2(){
                 defaultEndIcon={<CloseSquare/>}
                 sx={{ height: 264, flexGrow: 1, maxWidth: 400, overflowY: 'auto' }}
               >
-                <StyledTreeItem nodeId="1" label={<Link className="link" to="/jura">{data?.[1]?.["https://schema.org/termCode"]?.map(title => title["@value"]).join(', ')}</Link>}>
-                  <StyledTreeItem nodeId="2" label={<Link className="link" to="/video_jura1"> {data?.[0]?.["https://schema.org/title"]?.map(title => title["@value"]).join(', ')} </Link>} />
-                  <StyledTreeItem nodeId="3" label={checked ? <div className="checked"> <img className="heck" src={check} /><Link className="link" to="/video_jura2">{data?.[2]?.["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</Link></div> :<Link className="link" to="/video_jura2">{data?.[2]?.["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</Link>} />
-                  <StyledTreeItem nodeId="4" label={<Link className="link" to="/video_jura3">{data?.[3]?.["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</Link>} />
-                  <StyledTreeItem nodeId="5" label={<Link className="link" to="/video_jura4">{data?.[4]?.["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</Link>} />
-                 <StyledTreeItem nodeId="6" label={<Link className="link" to="/video_jura5">{data?.[5]?.["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</Link>} />
+                <StyledTreeItem nodeId="1" label={<Link className="link" to="/geschichte">{data?.[1]?.["https://schema.org/termCode"]?.map(title => title["@value"]).join(', ')}</Link>}>
+                  <StyledTreeItem nodeId="2" label={checked ? <div className="checked"> <img className="heck" src={check} /><Link className="link" to="/video_geschichte1">{data?.[0]?.["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</Link></div> :<Link className="link" to="/video_geschichte1"> {data?.[0]?.["https://schema.org/title"]?.map(title => title["@value"]).join(', ')} </Link>} />
+                  <StyledTreeItem nodeId="3" label={<Link className="link" to="/video_geschichte2">{data?.[2]?.["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</Link>} />
+                  <StyledTreeItem nodeId="4" label={<Link className="link" to="/video_geschichte3">{data?.[3]?.["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</Link>} />
+                  <StyledTreeItem nodeId="5" label={<Link className="link" to="/video_geschichte4">{data?.[4]?.["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</Link>} />
+                 <StyledTreeItem nodeId="6" label={<Link className="link" to="/video_geschichte5">{data?.[5]?.["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</Link>} />
                 </StyledTreeItem>   
               </TreeView>
                
             </div>
             <div className="rectangle-6">
-              <h3>{data?.[2]?.["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</h3>
+              <h3>{data?.[0]?.["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</h3>
               <div className="video">
               <VideoGallery1 
-                  src={data?.[2]?.["https://schema.org/url"]?.map(url => url["@value"]).join(', ')??""}
+                  src={data?.[0]?.["https://schema.org/url"]?.map(url => url["@value"]).join(', ')??""}
                   width="600px" 
                   height="400px"
                 />
@@ -204,7 +204,7 @@ function Video_jura2(){
       
     }
     
-    export default Video_jura2;
+    export default Video_geschichte1;
 
 
 

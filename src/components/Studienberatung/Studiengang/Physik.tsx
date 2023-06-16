@@ -159,27 +159,27 @@ function Physik(){
                     sx={{ height: 264, flexGrow: 1, maxWidth: 400, overflowY: 'auto' }}
                     >
                     <StyledTreeItem nodeId="1" label={data[1]["https://schema.org/termCode"]?.map(title => title["@value"]).join(', ')}>
-                      <StyledTreeItem nodeId="2" label={<Link className="link" to="/video_bwl1"> {data[0]["https://schema.org/title"]?.map(title => title["@value"]).join(', ')} </Link>} />
-                      <StyledTreeItem nodeId="3" label={<Link className="link" to="/video_bwl2">{data[2]["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</Link>} />
-                      <StyledTreeItem nodeId="4" label={<Link className="link" to="/video_bwl3">{data[3]["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</Link>} />
-                      <StyledTreeItem nodeId="5" label={<Link className="link" to="/video_bwl4">{data[4]["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</Link>} />
-                      <StyledTreeItem nodeId="6" label={<Link className="link" to="/video_bwl5">{data[5]["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</Link>} />
+                      <StyledTreeItem nodeId="2" label={<Link className="link" to="/video_physik1"> {data[0]["https://schema.org/title"]?.map(title => title["@value"]).join(', ')} </Link>} />
+                      <StyledTreeItem nodeId="3" label={<Link className="link" to="/video_physik2">{data[2]["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</Link>} />
+                      <StyledTreeItem nodeId="4" label={<Link className="link" to="/video_physik3">{data[3]["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</Link>} />
+                      <StyledTreeItem nodeId="5" label={<Link className="link" to="/video_physik4">{data[4]["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</Link>} />
+                      <StyledTreeItem nodeId="6" label={<Link className="link" to="/video_physik5">{data[5]["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</Link>} />
                     </StyledTreeItem>
                   </TreeView>
                 </div>
                 <div className="rectangle-6">
           <span>Videos</span>
           <div className="videos">
-            <div><Link className="link" to="/video_bwl1"><img className="img" src={data[0]["https://schema.org/thumbnailUrl"]?.map(thumbnail => thumbnail["@value"]).join(', ')} alt="Thumbnail" /></Link>  </div>
-            <div><Link className="link" to="/video_bwl2"><img className="img" src={data[2]["https://schema.org/thumbnailUrl"]?.map(thumbnail => thumbnail["@value"]).join(', ')} alt="Thumbnail" /></Link>  </div>
-            <div><Link className="link" to="/video_bwl3"><img className="img" src={data[3]["https://schema.org/thumbnailUrl"]?.map(thumbnail => thumbnail["@value"]).join(', ')} alt="Thumbnail" /></Link>  </div>
-            <div><Link className="link" to="/video_bwl4"><img className="img" src={data[4]["https://schema.org/thumbnailUrl"]?.map(thumbnail => thumbnail["@value"]).join(', ')} alt="Thumbnail" /></Link>  </div>
-            <div><Link className="link" to="/video_bwl5"><img className="img" src={data[5]["https://schema.org/thumbnailUrl"]?.map(thumbnail => thumbnail["@value"]).join(', ')} alt="Thumbnail" /></Link>  </div>
+            <div><Link className="link" to="/video_physik1"><img className="img" src={data[0]["https://schema.org/thumbnailUrl"]?.map(thumbnail => thumbnail["@value"]).join(', ')} alt="Thumbnail" /></Link><h6 style={{whiteSpace: "pre-line"}}>{data[0]["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</h6> </div>
+            <div><Link className="link" to="/video_physik2"><img className="img" src={data[2]["https://schema.org/thumbnailUrl"]?.map(thumbnail => thumbnail["@value"]).join(', ')} alt="Thumbnail" /></Link><h6 style={{whiteSpace: "pre-line"}}>{data[2]["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</h6>  </div>
+            <div><Link className="link" to="/video_physik3"><img className="img" src={data[3]["https://schema.org/thumbnailUrl"]?.map(thumbnail => thumbnail["@value"]).join(', ')} alt="Thumbnail" /></Link><h6 style={{whiteSpace: "pre-line"}}>{data[3]["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</h6>  </div>
+            <div><Link className="link" to="/video_physik4"><img className="img" src={data[4]["https://schema.org/thumbnailUrl"]?.map(thumbnail => thumbnail["@value"]).join(', ')} alt="Thumbnail" /></Link><h6 style={{whiteSpace: "pre-line"}}>{data[4]["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</h6>  </div>
+            <div><Link className="link" to="/video_physik5"><img className="img" src={data[5]["https://schema.org/thumbnailUrl"]?.map(thumbnail => thumbnail["@value"]).join(', ')} alt="Thumbnail" /></Link><h6 style={{whiteSpace: "pre-line"}}>{data[5]["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</h6>  </div>
           </div>
           <p>Article</p>
           <div className="videos">
           
-         
+          
 
           </div>
         </div>

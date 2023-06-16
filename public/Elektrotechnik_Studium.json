@@ -1,212 +1,212 @@
 [
   {
-    "@id": "_:n74be63003960470d8d897193056c8738b1",
+    "@id": "_:n8422b83a1c184ac8a363c869989451c1b4",
     "@type": [
       "https://schema.org/LearningResource"
     ],
     "https://schema.org/cosineSimilarity": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#float",
-        "@value": "0.6748738618870074"
+        "@value": "0.6798071115482724"
       }
     ],
     "https://schema.org/identifier": [
       {
-        "@value": "PHe0bXAIuk0"
+        "@value": "FUAR0hiPjbY"
       }
     ],
     "https://schema.org/teaches": [
       {
-        "@id": "_:n74be63003960470d8d897193056c8738b2"
+        "@id": "_:n8422b83a1c184ac8a363c869989451c1b2"
       }
     ],
     "https://schema.org/thumbnailUrl": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
-        "@value": "https://i.ytimg.com/vi/PHe0bXAIuk0/hq720.jpg"
+        "@value": "https://i.ytimg.com/vi/FUAR0hiPjbY/hq720.jpg"
       }
     ],
     "https://schema.org/title": [
       {
-        "@value": "How The Economic Machine Works by Ray Dalio "
+        "@value": "Leitungssucher! (Testboy 26) ElektroM "
       }
     ],
     "https://schema.org/url": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
-        "@value": "https://www.youtube.com/watch?v=PHe0bXAIuk0"
+        "@value": "https://www.youtube.com/watch?v=FUAR0hiPjbY"
       }
     ]
   },
   {
-    "@id": "_:n74be63003960470d8d897193056c8738b2",
+    "@id": "_:n8422b83a1c184ac8a363c869989451c1b2",
     "@type": [
       "https://schema.org/DefinedTerm"
     ],
     "https://schema.org/termCode": [
       {
-        "@value": "Volkswirtschaftslehre studieren"
+        "@value": "Elektrotechnik studieren"
       }
     ]
   },
   {
-    "@id": "_:n74be63003960470d8d897193056c8738b4",
+    "@id": "_:n8422b83a1c184ac8a363c869989451c1b1",
     "@type": [
       "https://schema.org/LearningResource"
     ],
     "https://schema.org/cosineSimilarity": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#float",
-        "@value": "0.63062405982517"
+        "@value": "0.6836331991247914"
       }
     ],
     "https://schema.org/identifier": [
       {
-        "@value": "jph_CTpjNAY"
+        "@value": "0tFovkCI0lE"
       }
     ],
     "https://schema.org/teaches": [
       {
-        "@id": "_:n74be63003960470d8d897193056c8738b2"
+        "@id": "_:n8422b83a1c184ac8a363c869989451c1b2"
       }
     ],
     "https://schema.org/thumbnailUrl": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
-        "@value": "https://i.ytimg.com/vi/jph_CTpjNAY/hqdefault.jpg?sqp=-oaymwEXCJADEOABSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDvDmkaZD1bOsrcfEinnRVBszhrsg"
+        "@value": "https://i.ytimg.com/vi/0tFovkCI0lE/hq720.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGH8gJygyMA8=&rs=AOn4CLAAwt9gO4YUnackOsrr74s95fqoaQ"
       }
     ],
     "https://schema.org/title": [
       {
-        "@value": "The Theory of Production - Economics A2 Level Unit 3 "
+        "@value": "Elektrotechnik Grundlagen 1 "
       }
     ],
     "https://schema.org/url": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
-        "@value": "https://www.youtube.com/watch?v=jph_CTpjNAY"
+        "@value": "https://www.youtube.com/watch?v=0tFovkCI0lE"
       }
     ]
   },
   {
-    "@id": "_:n74be63003960470d8d897193056c8738b3",
+    "@id": "_:n8422b83a1c184ac8a363c869989451c1b5",
     "@type": [
       "https://schema.org/LearningResource"
     ],
     "https://schema.org/cosineSimilarity": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#float",
-        "@value": "0.6712703723058869"
+        "@value": "0.7054582398343636"
       }
     ],
     "https://schema.org/identifier": [
       {
-        "@value": "goXcUtm3BuM"
+        "@value": "VB0BMIuyWZQ"
       }
     ],
     "https://schema.org/teaches": [
       {
-        "@id": "_:n74be63003960470d8d897193056c8738b2"
+        "@id": "_:n8422b83a1c184ac8a363c869989451c1b2"
       }
     ],
     "https://schema.org/thumbnailUrl": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
-        "@value": "https://i.ytimg.com/vi/goXcUtm3BuM/hq720.jpg"
+        "@value": "https://i.ytimg.com/vi/VB0BMIuyWZQ/hq720.jpg"
       }
     ],
     "https://schema.org/title": [
       {
-        "@value": "The WORST Economy- Econ in Real Life "
+        "@value": "Wechselrichter Erklärt "
       }
     ],
     "https://schema.org/url": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
-        "@value": "https://www.youtube.com/watch?v=goXcUtm3BuM"
+        "@value": "https://www.youtube.com/watch?v=VB0BMIuyWZQ"
       }
     ]
   },
   {
-    "@id": "_:n74be63003960470d8d897193056c8738b5",
+    "@id": "_:n8422b83a1c184ac8a363c869989451c1b3",
     "@type": [
       "https://schema.org/LearningResource"
     ],
     "https://schema.org/cosineSimilarity": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#float",
-        "@value": "0.6401036918640205"
+        "@value": "0.724310878613959"
       }
     ],
     "https://schema.org/identifier": [
       {
-        "@value": "6Bc2ASCAEps"
+        "@value": "Qu3j6Wr-lYE"
       }
     ],
     "https://schema.org/teaches": [
       {
-        "@id": "_:n74be63003960470d8d897193056c8738b2"
+        "@id": "_:n8422b83a1c184ac8a363c869989451c1b2"
       }
     ],
     "https://schema.org/thumbnailUrl": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
-        "@value": "https://i.ytimg.com/vi/6Bc2ASCAEps/hqdefault.jpg?sqp=-oaymwEXCJADEOABSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC_VXkbNeWrcnJiv7REtleRBR2LmA"
+        "@value": "https://i.ytimg.com/vi/Qu3j6Wr-lYE/hq720.jpg"
       }
     ],
     "https://schema.org/title": [
       {
-        "@value": "Fiscal policy versus monetary policy in the IS-LM model "
+        "@value": "Elektrischer Strom Erklärt "
       }
     ],
     "https://schema.org/url": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
-        "@value": "https://www.youtube.com/watch?v=6Bc2ASCAEps"
+        "@value": "https://www.youtube.com/watch?v=Qu3j6Wr-lYE"
       }
     ]
   },
   {
-    "@id": "_:n74be63003960470d8d897193056c8738b6",
+    "@id": "_:n8422b83a1c184ac8a363c869989451c1b6",
     "@type": [
       "https://schema.org/LearningResource"
     ],
     "https://schema.org/cosineSimilarity": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#float",
-        "@value": "0.6559061408685026"
+        "@value": "0.721836555929941"
       }
     ],
     "https://schema.org/identifier": [
       {
-        "@value": "X0KOV0o1P30"
+        "@value": "KaaSWus_21w"
       }
     ],
     "https://schema.org/teaches": [
       {
-        "@id": "_:n74be63003960470d8d897193056c8738b2"
+        "@id": "_:n8422b83a1c184ac8a363c869989451c1b2"
       }
     ],
     "https://schema.org/thumbnailUrl": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
-        "@value": "https://i.ytimg.com/vi/X0KOV0o1P30/hq720_2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYXiBeKF4wDw==&rs=AOn4CLABNFnUV-jX_KR_UlJpJnCkDZtsjg"
+        "@value": "https://i.ytimg.com/vi/KaaSWus_21w/hqdefault.jpg?sqp=-oaymwEXCJADEOABSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAuEIhM_IP6chtAVVbDgAovozUSBA"
       }
     ],
     "https://schema.org/title": [
       {
-        "@value": "3 Economic Rules of Thumb "
+        "@value": "Aufgabe 005 ::: Leitungsdimensionierung :: Leitungsberechnung ::: VDE 0298 :: Mathe :: Elektroniker "
       }
     ],
     "https://schema.org/url": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
-        "@value": "https://www.youtube.com/watch?v=X0KOV0o1P30"
+        "@value": "https://www.youtube.com/watch?v=KaaSWus_21w"
       }
     ]
   },
   {
-      "@id": "_:n74be63003960470d8d897193056c8738b7",
+      "@id": "_:n8422b83a1c184ac8a363c869989451c1b7",
       "@type": [
         "https://schema.org/LearningResource"
       ],
@@ -218,12 +218,12 @@
       ],
       "https://schema.org/identifier": [
         {
-          "@value": "202629"
+          "@value": "42033"
         }
       ],
       "https://schema.org/teaches": [
         {
-          "@id": "_:n74be63003960470d8d897193056c8738b2"
+          "@id": "_:n8422b83a1c184ac8a363c869989451c1b2"
         }
       ],
       "https://schema.org/thumbnailUrl": [
@@ -234,14 +234,14 @@
       ],
       "https://schema.org/title": [
         {
-          "@value": "Wirtschaftspolitik  "
+          "@value": "Elektrischer Strom und Stromstärke "
         }
       ],
       "https://schema.org/url": [
         {
           "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
-          "@value": "https://de.serlo.org/202629"
+          "@value": "https://de.serlo.org/42033"
         }
       ]
-    }  
+    } 
 ]

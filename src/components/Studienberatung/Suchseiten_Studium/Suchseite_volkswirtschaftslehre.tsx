@@ -53,14 +53,14 @@ interface LearningResource {
 
 
 
-function Suchseite_informatik() {
+function Suchseite_volkswirtschaftslehre() {
   const [data, setData] = useState<LearningResource[]>([]);
   const navigate = useNavigate(); 
 
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await axios.get<LearningResource[]>("./Informatik_Studium.json");
+        const response = await axios.get<LearningResource[]>("./Volkswirtschaftslehre_Studium.json");
         setData(response.data);
       } catch (error) {
         console.error(error);
@@ -71,7 +71,7 @@ function Suchseite_informatik() {
   }, []);
 
   const navigateToBiologie = () => {
-    navigate("/informatik");
+    navigate("/volkswirtschaftslehre");
   }
 
   return (
@@ -81,8 +81,8 @@ function Suchseite_informatik() {
       <div className="rectangle-19">
         <h3>{data[1] && data[1]["https://schema.org/termCode"]?.map(title => title["@value"]).join(', ')}</h3>
         <span className="ein-softwareentwickler-englisch">
-        Das Informatikstudium ist das Studium der Fachrichtung Informatik. Es wird an Hochschulen mit einem akademischen Grad abgeschlossen. 
-        (Quelle Wikipedia)
+        Die Volkswirtschaftslehre (auch Nationalökonomie oder wirtschaftliche Staatswissenschaften kurz VWL) bezeichnet im deutschsprachigen Kontext ein Teilgebiet der Wirtschaftswissenschaft. Sie untersucht Zusammenhänge bei der Erzeugung und Verteilung von Gütern und Produktionsfaktoren.
+        
         </span>
       </div>
 
@@ -105,4 +105,4 @@ function Suchseite_informatik() {
   );
 }
 
-export default Suchseite_informatik;
+export default Suchseite_volkswirtschaftslehre;
