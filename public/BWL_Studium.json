@@ -1,0 +1,247 @@
+[
+  {
+    "@id": "_:na9d04066689b494a9ec1ec9e5c3736c0b4",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6251362225014447"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "r5DoqfQ8rvk"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:na9d04066689b494a9ec1ec9e5c3736c0b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/r5DoqfQ8rvk/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Office Hours: The Solow Model: Investments vs. Ideas "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=r5DoqfQ8rvk"
+      }
+    ]
+  },
+  {
+    "@id": "_:na9d04066689b494a9ec1ec9e5c3736c0b2",
+    "@type": [
+      "https://schema.org/DefinedTerm"
+    ],
+    "https://schema.org/termCode": [
+      {
+        "@value": "Betriebswirtschaftslehre studieren"
+      }
+    ]
+  },
+  {
+    "@id": "_:na9d04066689b494a9ec1ec9e5c3736c0b3",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6290148988320243"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "VaZLXTULXqE"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:na9d04066689b494a9ec1ec9e5c3736c0b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/VaZLXTULXqE/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Present Worth - Fundamentals of Engineering Economics "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=VaZLXTULXqE"
+      }
+    ]
+  },
+  {
+    "@id": "_:na9d04066689b494a9ec1ec9e5c3736c0b1",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6722334467240471"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "jph_CTpjNAY"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:na9d04066689b494a9ec1ec9e5c3736c0b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/jph_CTpjNAY/hqdefault.jpg?sqp=-oaymwEXCJADEOABSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDvDmkaZD1bOsrcfEinnRVBszhrsg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "The Theory of Production - Economics A2 Level Unit 3 "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=jph_CTpjNAY"
+      }
+    ]
+  },
+  {
+    "@id": "_:na9d04066689b494a9ec1ec9e5c3736c0b5",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6781448936163916"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "PHe0bXAIuk0"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:na9d04066689b494a9ec1ec9e5c3736c0b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/PHe0bXAIuk0/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "How The Economic Machine Works by Ray Dalio "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=PHe0bXAIuk0"
+      }
+    ]
+  },
+  {
+    "@id": "_:na9d04066689b494a9ec1ec9e5c3736c0b6",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6284597393658179"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "mqUIyHmtDho"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:na9d04066689b494a9ec1ec9e5c3736c0b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/mqUIyHmtDho/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "HSC Business Studies Operations Summary "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=mqUIyHmtDho"
+      }
+    ]
+  },
+  {
+      "@id": "_:na9d04066689b494a9ec1ec9e5c3736c0b7",
+      "@type": [
+        "https://schema.org/LearningResource"
+      ],
+      "https://schema.org/cosineSimilarity": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#float",
+          "@value": ""
+        }
+      ],
+      "https://schema.org/identifier": [
+        {
+          "@value": "139705"
+        }
+      ],
+      "https://schema.org/teaches": [
+        {
+          "@id": "_:na9d04066689b494a9ec1ec9e5c3736c0b2"
+        }
+      ],
+      "https://schema.org/thumbnailUrl": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+          "@value": ""
+        }
+      ],
+      "https://schema.org/title": [
+        {
+          "@value": "Der Betrieb "
+        }
+      ],
+      "https://schema.org/url": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+          "@value": "https://de.serlo.org/139705"
+        }
+      ]
+    }  
+]

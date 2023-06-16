@@ -13,7 +13,7 @@ import GetVideo from "../../getvideo";
 
 
 
-function video_medizin3(){
+function Video_medizin3(){
 
 
 
@@ -153,4 +153,4 @@ function video_medizin3(){
 
 }
 
-export default video_medizin3;
+export default Video_medizin3;

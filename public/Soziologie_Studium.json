@@ -1,0 +1,208 @@
+[
+  {
+    "@id": "_:n8dc7c5ba347a4369a6d656cde073d17ab4",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5709693737763688"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "StMXdmt9etE"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n8dc7c5ba347a4369a6d656cde073d17ab2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/StMXdmt9etE/hqdefault.jpg?sqp=-oaymwEXCJADEOABSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAg5n3Zb-qfpm_jPbDIeviincV-4Q"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": ": Social Structures "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=StMXdmt9etE"
+      }
+    ]
+  },
+  {
+    "@id": "_:n8dc7c5ba347a4369a6d656cde073d17ab2",
+    "@type": [
+      "https://schema.org/DefinedTerm"
+    ],
+    "https://schema.org/termCode": [
+      {
+        "@value": "Soziologie studieren"
+      }
+    ]
+  },
+  {
+    "@id": "_:n8dc7c5ba347a4369a6d656cde073d17ab1",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5531023022345756"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "OZ8E9M1WqMg"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n8dc7c5ba347a4369a6d656cde073d17ab2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/OZ8E9M1WqMg/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": ": 'Social Class' in An Inspector Calls: Key Quotes & Analysis "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=OZ8E9M1WqMg"
+      }
+    ]
+  },
+  {
+    "@id": "_:n8dc7c5ba347a4369a6d656cde073d17ab5",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5390726068311752"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "Llw-qVPhzug"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n8dc7c5ba347a4369a6d656cde073d17ab2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/Llw-qVPhzug/hqdefault.jpg?sqp=-oaymwEXCJADEOABSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAfURUT_JpBlvRad8DnwJmwOLkFUA"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": ": GED Social Studies 2018 - War of 1812 Question "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=Llw-qVPhzug"
+      }
+    ]
+  },
+  {
+    "@id": "_:n8dc7c5ba347a4369a6d656cde073d17ab6",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6945001375409494"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "_s6E4UbkpHo"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n8dc7c5ba347a4369a6d656cde073d17ab2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/_s6E4UbkpHo/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": ": Why study a Sociology degree at university? "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=_s6E4UbkpHo"
+      }
+    ]
+  },
+  {
+    "@id": "_:n8dc7c5ba347a4369a6d656cde073d17ab3",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6958796793176837"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "-5e2tPyKNdw"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n8dc7c5ba347a4369a6d656cde073d17ab2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/-5e2tPyKNdw/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": ": EMERGENCE OF SOCIOLOGY, CHAPTER 1, SOCIOLOGY, UPSC,IAS SOCIOLOGY "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=-5e2tPyKNdw"
+      }
+    ]
+  }
+]

@@ -1,0 +1,248 @@
+[
+  {
+    "@id": "_:n65cafd6fffde440a83a14de354dc7df6b6",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6759772414528293"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "qXXOBgC4a4Y"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n65cafd6fffde440a83a14de354dc7df6b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/qXXOBgC4a4Y/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "A-Level Chemistry Revision - Part 1 - Mass Spectrometry "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=qXXOBgC4a4Y"
+      }
+    ]
+  },
+  {
+    "@id": "_:n65cafd6fffde440a83a14de354dc7df6b2",
+    "@type": [
+      "https://schema.org/DefinedTerm"
+    ],
+    "https://schema.org/termCode": [
+      {
+        "@value": "Chemie studieren"
+      }
+    ]
+  },
+  {
+    "@id": "_:n65cafd6fffde440a83a14de354dc7df6b5",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6908050794884177"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "3RqEIr8NtMI"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n65cafd6fffde440a83a14de354dc7df6b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/3RqEIr8NtMI/hqdefault.jpg?sqp=-oaymwEXCJADEOABSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDXNTFqwiDqJP2Mh9yESFn1GuAwnQ"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Vibration of Molecules CHEM Study "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=3RqEIr8NtMI"
+      }
+    ]
+  },
+  {
+    "@id": "_:n65cafd6fffde440a83a14de354dc7df6b3",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.7246922944470284"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "mk-hXiwarTQ"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n65cafd6fffde440a83a14de354dc7df6b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/mk-hXiwarTQ/hqdefault.jpg?sqp=-oaymwEXCJADEOABSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBBuY7KCaF-UDTp6nauv5PKIFIXLw"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "General chemistry for freshman ,chapter 1 Essential ideas in chemistry  part 1 "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=mk-hXiwarTQ"
+      }
+    ]
+  },
+  {
+    "@id": "_:n65cafd6fffde440a83a14de354dc7df6b1",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6774269832080357"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "ndGt5xraLZc"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n65cafd6fffde440a83a14de354dc7df6b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/ndGt5xraLZc/hqdefault.jpg?sqp=-oaymwEXCJADEOABSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB-zBVghK99vSQYua08CjPx9sysbw"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Chemistry Paper 6 - Summer 2018 - IGCSE (CIE) Exam Practice "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=ndGt5xraLZc"
+      }
+    ]
+  },
+  {
+    "@id": "_:n65cafd6fffde440a83a14de354dc7df6b4",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6795860220301639"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "Uz2CZXfX8e4"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n65cafd6fffde440a83a14de354dc7df6b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/Uz2CZXfX8e4/hqdefault.jpg?sqp=-oaymwEXCJADEOABSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA5XIAJcLnatOOaxECCLALMELKU4A"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "General chemistry [1012] for university freshman chapter 4 part 1 "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=Uz2CZXfX8e4"
+      }
+    ]
+  },
+  {
+      "@id": "_:n65cafd6fffde440a83a14de354dc7df6b7",
+      "@type": [
+        "https://schema.org/LearningResource"
+      ],
+      "https://schema.org/cosineSimilarity": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#float",
+          "@value": ""
+        }
+      ],
+      "https://schema.org/identifier": [
+        {
+          "@value": "155745"
+        }
+      ],
+      "https://schema.org/teaches": [
+        {
+          "@id": "_:n65cafd6fffde440a83a14de354dc7df6b2"
+        }
+      ],
+      "https://schema.org/thumbnailUrl": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+          "@value": ""
+        }
+      ],
+      "https://schema.org/title": [
+        {
+          "@value": "Stoffmenge und Mol "
+        }
+      ],
+      "https://schema.org/url": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+          "@value": "https://de.serlo.org/155745"
+        }
+      ]
+    }  
+]
+

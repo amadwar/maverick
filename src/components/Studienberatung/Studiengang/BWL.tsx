@@ -9,14 +9,71 @@ import Collapse from '@mui/material/Collapse';
 import { useSpring, animated } from "@react-spring/web";
 import { TransitionProps } from '@mui/material/transitions';
 import { Link } from "react-router-dom";
-import GetLearningResource from "../../getVideoDaten";
+import axios from "axios";
+import { useEffect, useState } from "react";
 
 
+interface CosineSimilarity {
+    "@type": string;
+    "@value": string;
+  }
+  
+  interface Identifier {
+    "@value": string;
+  }
+  
+  interface Teaches {
+    "@id": string;
+  }
+  
+  interface ThumbnailUrl {
+    "@type": string;
+    "@value": string;
+  }
+  
+  interface Title {
+    "@value": string;
+  }
+  
+  interface Url {
+    "@type": string;
+    "@value": string;
+  }
+  
+  interface TermCode {
+    "@value": string;
+  }
+  
+  interface LearningResource {
+    "@id": string;
+    "@type": string[];
+    "https://schema.org/cosineSimilarity"?: CosineSimilarity[];
+    "https://schema.org/identifier"?: Identifier[];
+    "https://schema.org/teaches"?: Teaches[];
+    "https://schema.org/thumbnailUrl"?: ThumbnailUrl[];
+    "https://schema.org/title"?: Title[];
+    "https://schema.org/url"?: Url[];
+    "https://schema.org/termCode"?: TermCode[];
+  }
 
 
 function BWL(){
 
-    
+    const [data, setData] = useState<LearningResource[]>([]);
+
+    useEffect(() => {
+      const fetchData = async () => {
+        try {
+          const response = await axios.get<LearningResource[]>("./BWL_Studium.json");
+          setData(response.data);
+        } catch (error) {
+          console.error(error);
+        }
+      };
+  
+      fetchData();
+    }, []);
+
 
     function MinusSquare(props: SvgIconProps) {
       return (
@@ -86,48 +143,54 @@ function BWL(){
     
 
 
-  return (
-    <div className="lernpfad-scrum">
-      
-      
-      <span className="scrum">Betriebswirtschaftslehre Studium</span>
-      <div className="flex-container">
-      <div className="rectangle-1">  
-        <TreeView
-       aria-label="customized"
-       defaultExpanded={['1']}
-       defaultCollapseIcon={<MinusSquare />}
-       defaultExpandIcon={<PlusSquare />}
-       defaultEndIcon={<CloseSquare />}
-       sx={{ height: 264, flexGrow: 1, maxWidth: 400, overflowY: 'auto' }}
-       >
-      <StyledTreeItem nodeId="1" label="Betriebswirtschaftslehre Studium">
-        <StyledTreeItem nodeId="2" label={<Link className="link" to="/video_bwl1">How The Economic Machine Works by Ray Dalio</Link>} />
-        <StyledTreeItem nodeId="3" label={<Link className="link" to="/video_bwl2">he Theory of Production - Economics A2 Level Unit 3</Link>} />
-        <StyledTreeItem nodeId="4" label={<Link className="link" to="/video_bwl3">Present Worth - Fundamentals of Engineering Economics</Link>} />
-        <StyledTreeItem nodeId="5" label={<Link className="link" to="/video_bwl4">HSC Business Studies Operations Summary</Link>} />
-        <StyledTreeItem nodeId="6" label={<Link className="link" to="/video_bwl5">Office Hours: The Solow Model: Investments vs. Ideas</Link>} />
-       </StyledTreeItem>
-       </TreeView>
-        
-      
-
-
-        </div>
-        <div className="rectangle-6">
-          <span>Videos</span>
+    return (
+        <div className="lernpfad-scrum">
+          {data.length ? (  // überprüft, ob Daten vorhanden sind
+            <>
+              <span className="scrum">{data[1]["https://schema.org/termCode"]?.map(title => title["@value"]).join(', ')}</span>
+              <div className="flex-container">
+                <div className="rectangle-1">  
+                  <TreeView
+                    aria-label="customized"
+                    defaultExpanded={['1']}
+                    defaultCollapseIcon={<MinusSquare />}
+                    defaultExpandIcon={<PlusSquare />}
+                    defaultEndIcon={<CloseSquare />}
+                    sx={{ height: 264, flexGrow: 1, maxWidth: 400, overflowY: 'auto' }}
+                    >
+                    <StyledTreeItem nodeId="1" label={data[1]["https://schema.org/termCode"]?.map(title => title["@value"]).join(', ')}>
+                      <StyledTreeItem nodeId="2" label={<Link className="link" to="/video_bwl1"> {data[0]["https://schema.org/title"]?.map(title => title["@value"]).join(', ')} </Link>} />
+                      <StyledTreeItem nodeId="3" label={<Link className="link" to="/video_bwl2">{data[2]["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</Link>} />
+                      <StyledTreeItem nodeId="4" label={<Link className="link" to="/video_bwl3">{data[3]["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</Link>} />
+                      <StyledTreeItem nodeId="5" label={<Link className="link" to="/video_bwl4">{data[4]["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</Link>} />
+                      <StyledTreeItem nodeId="6" label={<Link className="link" to="/video_bwl5">{data[5]["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</Link>} />
+                    </StyledTreeItem>
+                  </TreeView>
+                </div>
+                <div className="rectangle-6">
+          <h3>Videos</h3>
           <div className="videos">
-            <div><Link className="link" to="/video_bwl1">< GetLearningResource  link="https://entitygraph.azurewebsites.net/api/s/REAL_UI_MockUP_TdF/entities/PHe0bXAIuk0?property=sdo.identifier"/></Link>  </div>
-            <div><Link className="link" to="/video_bwl2">< GetLearningResource  link="https://entitygraph.azurewebsites.net/api/s/REAL_UI_MockUP_TdF/entities/jph_CTpjNAY?property=sdo.identifier"/></Link>  </div>
-            <div><Link className="link" to="/video_bwl3">< GetLearningResource  link="https://entitygraph.azurewebsites.net/api/s/REAL_UI_MockUP_TdF/entities/VaZLXTULXqE?property=sdo.identifier"/></Link>  </div>
-            <div><Link className="link" to="/video_bwl4">< GetLearningResource  link="https://entitygraph.azurewebsites.net/api/s/REAL_UI_MockUP_TdF/entities/mqUIyHmtDho?property=sdo.identifier"/></Link>  </div>
-            <div><Link className="link" to="/video_bwl5">< GetLearningResource  link="https://entitygraph.azurewebsites.net/api/s/REAL_UI_MockUP_TdF/entities/r5DoqfQ8rvk?property=sdo.identifier"/></Link>  </div>
-            
+            <div><Link className="link" to="/video_bwl1"><img className="img" src={data[0]["https://schema.org/thumbnailUrl"]?.map(thumbnail => thumbnail["@value"]).join(', ')} alt="Thumbnail" /></Link><h6 style={{whiteSpace: "pre-line"}}>{data[0]["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</h6> </div>
+            <div><Link className="link" to="/video_bwl2"><img className="img" src={data[2]["https://schema.org/thumbnailUrl"]?.map(thumbnail => thumbnail["@value"]).join(', ')} alt="Thumbnail" /></Link><h6 style={{whiteSpace: "pre-line"}}>{data[2]["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</h6>  </div>
+            <div><Link className="link" to="/video_bwl3"><img className="img" src={data[3]["https://schema.org/thumbnailUrl"]?.map(thumbnail => thumbnail["@value"]).join(', ')} alt="Thumbnail" /></Link><h6 style={{whiteSpace: "pre-line"}}>{data[3]["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</h6>  </div>
+            <div><Link className="link" to="/video_bwl4"><img className="img" src={data[4]["https://schema.org/thumbnailUrl"]?.map(thumbnail => thumbnail["@value"]).join(', ')} alt="Thumbnail" /></Link><h6 style={{whiteSpace: "pre-line"}}>{data[4]["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</h6>  </div>
+            <div><Link className="link" to="/video_bwl5"><img className="img" src={data[5]["https://schema.org/thumbnailUrl"]?.map(thumbnail => thumbnail["@value"]).join(', ')} alt="Thumbnail" /></Link><h6 style={{whiteSpace: "pre-line"}}>{data[5]["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</h6>  </div>
+          </div>
+          <h3>Article</h3>
+          <div className="videos">
+          
+          <a href={data[6]["https://schema.org/url"]?.map(url => url["@value"]).join(', ')} >{data[6]["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</a>
+
+
           </div>
         </div>
-      </div>
-    </div>
-  );
+              </div>
+            </>
+          ) : (
+            <p>Daten werden geladen...</p>  // wird angezeigt, wenn Daten noch nicht geladen sind
+          )}
+        </div>
+      );
 
 }
 

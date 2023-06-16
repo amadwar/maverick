@@ -1,0 +1,247 @@
+[
+  {
+    "@id": "_:n5116962230314431b8c109ba4826c4ebb5",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6181697725624182"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "p1zGS10CAKM"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n5116962230314431b8c109ba4826c4ebb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/p1zGS10CAKM/hqdefault.jpg?sqp=-oaymwEXCJADEOABSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD_XioJZNmAgr1B30KGDeumXtq4vg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "IMPORTANT DIAGRAMS TO KNOW IN BIOLOGY (PART 1)| CXC Biology Tutor "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=p1zGS10CAKM"
+      }
+    ]
+  },
+  {
+    "@id": "_:n5116962230314431b8c109ba4826c4ebb2",
+    "@type": [
+      "https://schema.org/DefinedTerm"
+    ],
+    "https://schema.org/termCode": [
+      {
+        "@value": "Biologie studieren"
+      }
+    ]
+  },
+  {
+    "@id": "_:n5116962230314431b8c109ba4826c4ebb4",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6125029605840993"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "1pUzctS-0ug"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n5116962230314431b8c109ba4826c4ebb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/1pUzctS-0ug/hqdefault.jpg?sqp=-oaymwEXCJADEOABSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDKDLDO9wHVMXijKTEvD9aR8bpmMQ"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Biology Paper 6 - Summer 2018 - IGCSE (CIE) Exam Practice "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=1pUzctS-0ug"
+      }
+    ]
+  },
+  {
+    "@id": "_:n5116962230314431b8c109ba4826c4ebb6",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6668322210139538"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "pbehw_aKmzs"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n5116962230314431b8c109ba4826c4ebb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/pbehw_aKmzs/hqdefault.jpg?sqp=-oaymwEXCJADEOABSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBHrSN56qcbvHNlNRAqhHHIdNXAhg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Biology Paper 2 - Summer 2017 - IGCSE (CIE) Exam Practice "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=pbehw_aKmzs"
+      }
+    ]
+  },
+  {
+    "@id": "_:n5116962230314431b8c109ba4826c4ebb1",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6077723842670482"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "vVHv-AGxaIo"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n5116962230314431b8c109ba4826c4ebb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/vVHv-AGxaIo/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Exams 2022 A-level Biology- Paper 1. Learn ALL of the topics on the advanced information list "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=vVHv-AGxaIo"
+      }
+    ]
+  },
+  {
+    "@id": "_:n5116962230314431b8c109ba4826c4ebb3",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6352464921886511"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "wI5tcvnqu7Y"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n5116962230314431b8c109ba4826c4ebb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/wI5tcvnqu7Y/hqdefault.jpg?sqp=-oaymwEXCJADEOABSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCe-ZEkUbUFWDdj-Mee2vPRKHl5Kg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Studying Ecosystems - Core Practicals - GCSE Biology (9-1) 9.5 - 9.6 "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=wI5tcvnqu7Y"
+      }
+    ]
+  },
+  {
+      "@id": "_:n5116962230314431b8c109ba4826c4ebb7",
+      "@type": [
+        "https://schema.org/LearningResource"
+      ],
+      "https://schema.org/cosineSimilarity": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#float",
+          "@value": ""
+        }
+      ],
+      "https://schema.org/identifier": [
+        {
+          "@value": "27023"
+        }
+      ],
+      "https://schema.org/teaches": [
+        {
+          "@id": "_:n5116962230314431b8c109ba4826c4ebb2"
+        }
+      ],
+      "https://schema.org/thumbnailUrl": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+          "@value": ""
+        }
+      ],
+      "https://schema.org/title": [
+        {
+          "@value": "Wie funktionieren Experimente? "
+        }
+      ],
+      "https://schema.org/url": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+          "@value": "https://de.serlo.org/27023"
+        }
+      ]
+    } 
+]

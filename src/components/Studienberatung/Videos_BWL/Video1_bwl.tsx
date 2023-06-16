@@ -10,12 +10,72 @@ import { useSpring, animated } from "@react-spring/web";
 import { TransitionProps } from '@mui/material/transitions';
 import { Link } from "react-router-dom";
 import GetVideo from "../../getvideo";
+import { useEffect, useState } from "react";
+import axios from "axios";
+import VideoGallery1 from "../../getYoutubeVideo";
+
+interface CosineSimilarity {
+    "@type": string;
+    "@value": string;
+  }
+  
+  interface Identifier {
+    "@value": string;
+  }
+  
+  interface Teaches {
+    "@id": string;
+  }
+  
+  interface ThumbnailUrl {
+    "@type": string;
+    "@value": string;
+  }
+  
+  interface Title {
+    "@value": string;
+  }
+  
+  interface Url {
+    "@type": string;
+    "@value": string;
+  }
+  
+  interface TermCode {
+    "@value": string;
+  }
+  
+  interface LearningResource {
+    "@id": string;
+    "@type": string[];
+    "https://schema.org/cosineSimilarity"?: CosineSimilarity[];
+    "https://schema.org/identifier"?: Identifier[];
+    "https://schema.org/teaches"?: Teaches[];
+    "https://schema.org/thumbnailUrl"?: ThumbnailUrl[];
+    "https://schema.org/title"?: Title[];
+    "https://schema.org/url"?: Url[];
+    "https://schema.org/termCode"?: TermCode[];
+  }
+  
 
 
 
-function video_bwl1(){
 
+function Video_bwl1(){
 
+  const [data, setData] = useState<LearningResource[]>([]);
+  useEffect(() => {
+    const fetchData = async () => {
+      try {
+        const response = await axios.get<LearningResource[]>("./BWL_Studium.json");
+        setData(response.data);
+      } catch (error) {
+        console.error(error);
+      }
+    };
+
+    fetchData();
+  }, []);
 
    const check="./check.svg.svg";
    const minus="./minus.svg.png";
@@ -98,57 +158,56 @@ function video_bwl1(){
     
 
 
-  return (
-    <div className="lernpfad-scrum">
-      
-      
-      <span className="scrum">Betriebswirtschaftslehre Studium</span>
-      <div className="flex-container">
-      <div className="rectangle-1">  
-        <TreeView
-       aria-label="customized"
-       defaultExpanded={['1']}
-       defaultCollapseIcon={<MinusSquare />}
-       defaultExpandIcon={<PlusSquare />}
-      
-       sx={{ height: 264, flexGrow: 1, maxWidth: 400, overflowY: 'auto' }}
-       >
-
-
-
-
-       <StyledTreeItem nodeId="1" label={<Link className="link" to="/bwl">Betriebswirtschaftslehre</Link>}>
-        <StyledTreeItem nodeId="2" label={checked ? <div className="checked"> <img className="heck" src={check} /><Link className="link" to="/video_bwl1">How The Economic Machine Works by Ray Dalio</Link></div> :<Link className="link" to="/video_bwl1">How The Economic Machine Works by Ray Dalio</Link>} />
-        <StyledTreeItem nodeId="3" label={<Link className="link" to="/video_bwl2">he Theory of Production - Economics A2 Level Unit 3</Link>} />
-        <StyledTreeItem nodeId="4" label={<Link className="link" to="/video_bwl3">Present Worth - Fundamentals of Engineering Economics</Link>} />
-        <StyledTreeItem nodeId="5" label={<Link className="link" to="/video_bwl4">HSC Business Studies Operations Summary</Link>} />
-        <StyledTreeItem nodeId="6" label={<Link className="link" to="/video_bwl5">Office Hours: The Solow Model: Investments vs. Ideas</Link>} />
-       </StyledTreeItem>
-
-      
-       </TreeView>
-        
-      
-
-
-        </div>
-        <div className="rectangle-6">
-          <h3>How The Economic Machine Works by Ray Dalio</h3>
-          
-            <div className="video"><GetVideo link="https://entitygraph.azurewebsites.net/api/s/REAL_UI_MockUP_TdF/entities/PHe0bXAIuk0?property=sdo.identifier" width="600px" height="400px"/></div>
-          
-          <p>Ist dieses Video hilfreich?</p>
-          <div className="Feedback">
+    return (
+        <div className="lernpfad-scrum">
+          <span className="scrum">{data?.[1]?.["https://schema.org/termCode"]?.map(title => title["@value"]).join(', ')}</span>
+          <div className="flex-container">
+            <div className="rectangle-1">  
+              <TreeView
+                aria-label="customized"
+                defaultExpanded={['1']}
+                defaultCollapseIcon={<MinusSquare />}
+                defaultExpandIcon={<PlusSquare />}
+                defaultEndIcon={<CloseSquare/>}
+                sx={{ height: 264, flexGrow: 1, maxWidth: 400, overflowY: 'auto' }}
+              >
+                <StyledTreeItem nodeId="1" label={<Link className="link" to="/bwl">{data?.[1]?.["https://schema.org/termCode"]?.map(title => title["@value"]).join(', ')}</Link>}>
+                  <StyledTreeItem nodeId="2" label={checked ? <div className="checked"> <img className="heck" src={check} /><Link className="link" to="/video_bwl1">{data?.[0]?.["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</Link></div> :<Link className="link" to="/video_bwl1"> {data?.[0]?.["https://schema.org/title"]?.map(title => title["@value"]).join(', ')} </Link>} />
+                  <StyledTreeItem nodeId="3" label={<Link className="link" to="/video_bwl2">{data?.[2]?.["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</Link>} />
+                  <StyledTreeItem nodeId="4" label={<Link className="link" to="/video_bwl3">{data?.[3]?.["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</Link>} />
+                  <StyledTreeItem nodeId="5" label={<Link className="link" to="/video_bwl4">{data?.[4]?.["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</Link>} />
+                 <StyledTreeItem nodeId="6" label={<Link className="link" to="/video_bwl5">{data?.[5]?.["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</Link>} />
+                </StyledTreeItem>   
+              </TreeView>
+               
+            </div>
+            <div className="rectangle-6">
+              <h3>{data?.[0]?.["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</h3>
+              <div className="video">
+              <VideoGallery1 
+                  src={data?.[0]?.["https://schema.org/url"]?.map(url => url["@value"]).join(', ')??""}
+                  width="600px" 
+                  height="400px"
+                />
+              </div>
+              <p>Ist dieses Video hilfreich?</p>
+              <div className="Feedback">
             <img className="check" src={check} onClick={handleCheckClick}/>
             <img className="minus" src={minus} onClick={handleMinusClick}/>
 
 
+            </div>
+             </div>
           </div>
         </div>
-      </div>
-    </div>
-  );
+      );
+      
+    }
+    
+    export default Video_bwl1;
 
-}
 
-export default video_bwl1;
+
+
+
+   

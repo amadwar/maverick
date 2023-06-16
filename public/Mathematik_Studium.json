@@ -1,0 +1,208 @@
+[
+  {
+    "@id": "_:ne4594e05ce104f6c9ce3f46ce0b1c33db3",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.7084415669478875"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "h4P3iOLHXf8"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:ne4594e05ce104f6c9ce3f46ce0b1c33db2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/h4P3iOLHXf8/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": ": Mathe studieren JA/NEIN? – Meine Erfahrung mit dem Mathe Studium "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=h4P3iOLHXf8"
+      }
+    ]
+  },
+  {
+    "@id": "_:ne4594e05ce104f6c9ce3f46ce0b1c33db2",
+    "@type": [
+      "https://schema.org/DefinedTerm"
+    ],
+    "https://schema.org/termCode": [
+      {
+        "@value": "Mathematik studieren"
+      }
+    ]
+  },
+  {
+    "@id": "_:ne4594e05ce104f6c9ce3f46ce0b1c33db5",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6798493219751692"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "yfpW_I74AZI"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:ne4594e05ce104f6c9ce3f46ce0b1c33db2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/yfpW_I74AZI/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": ": Maths Help Online - Factorising "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=yfpW_I74AZI"
+      }
+    ]
+  },
+  {
+    "@id": "_:ne4594e05ce104f6c9ce3f46ce0b1c33db6",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6834601977558432"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "pVASDIvpB9c"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:ne4594e05ce104f6c9ce3f46ce0b1c33db2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/pVASDIvpB9c/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": ": MA.5.FR.2.4 - Breaking Down the B.E.S.T Standards for Math [FOR TEACHERS] "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=pVASDIvpB9c"
+      }
+    ]
+  },
+  {
+    "@id": "_:ne4594e05ce104f6c9ce3f46ce0b1c33db1",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6666686511192448"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "1f5UaxP8dOQ"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:ne4594e05ce104f6c9ce3f46ce0b1c33db2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/1f5UaxP8dOQ/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": ": The Best School Supplies for Learning Math "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=1f5UaxP8dOQ"
+      }
+    ]
+  },
+  {
+    "@id": "_:ne4594e05ce104f6c9ce3f46ce0b1c33db4",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6982048351889796"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "uupjxztr2q8"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:ne4594e05ce104f6c9ce3f46ce0b1c33db2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/uupjxztr2q8/hq720.jpg?v=60663d58"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": ": Oxford University Math Professor Sits High School Maths Exam "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=uupjxztr2q8"
+      }
+    ]
+  }
+]

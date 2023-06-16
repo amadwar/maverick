@@ -1,0 +1,208 @@
+[
+  {
+    "@id": "_:n8d2f7db110b646fab4f35afc7cf635d9b6",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6935345333090308"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "DmyirWN3LU8"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n8d2f7db110b646fab4f35afc7cf635d9b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/DmyirWN3LU8/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": ": 4 Fields of Physics "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=DmyirWN3LU8"
+      }
+    ]
+  },
+  {
+    "@id": "_:n8d2f7db110b646fab4f35afc7cf635d9b2",
+    "@type": [
+      "https://schema.org/DefinedTerm"
+    ],
+    "https://schema.org/termCode": [
+      {
+        "@value": "Physik studieren"
+      }
+    ]
+  },
+  {
+    "@id": "_:n8d2f7db110b646fab4f35afc7cf635d9b4",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6875432389721217"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "AyJqXamg8Dw"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n8d2f7db110b646fab4f35afc7cf635d9b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/AyJqXamg8Dw/hqdefault.jpg?sqp=-oaymwEXCJADEOABSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCD69hwu5vkloz62gDnqXI81MN9EA"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": ": Physics Class 11 Chapter 1 Part I|Physical World|Physics Chapter 1 for Class 11| "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=AyJqXamg8Dw"
+      }
+    ]
+  },
+  {
+    "@id": "_:n8d2f7db110b646fab4f35afc7cf635d9b5",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6832894831340897"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "wfvU8Umh0oc"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n8d2f7db110b646fab4f35afc7cf635d9b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/wfvU8Umh0oc/hqdefault.jpg?sqp=-oaymwEXCJADEOABSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDtgfksUcA_lbJSHBKa9DyA6SRXPQ"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": ": General physics [1011] for freshman common course , part one (introduction ) በ አማረኛ "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=wfvU8Umh0oc"
+      }
+    ]
+  },
+  {
+    "@id": "_:n8d2f7db110b646fab4f35afc7cf635d9b3",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6884494757339215"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "JV7oVImOXEw"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n8d2f7db110b646fab4f35afc7cf635d9b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/JV7oVImOXEw/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": ": Druck berechnen - Physik | Lehrerschmidt - einfach erklärt! "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=JV7oVImOXEw"
+      }
+    ]
+  },
+  {
+    "@id": "_:n8d2f7db110b646fab4f35afc7cf635d9b1",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6953116775891499"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "SWkc7hQVyys"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n8d2f7db110b646fab4f35afc7cf635d9b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/SWkc7hQVyys/hq720.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgUShBMA8=&rs=AOn4CLDfhq3t2UDbCBFrxZBSHVTju07Cjg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": ": Physics Lecture Chapter 7: Work and Kinetic Energy "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=SWkc7hQVyys"
+      }
+    ]
+  }
+]

@@ -1,0 +1,247 @@
+[
+  {
+    "@id": "_:n74be63003960470d8d897193056c8738b1",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6748738618870074"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "PHe0bXAIuk0"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n74be63003960470d8d897193056c8738b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/PHe0bXAIuk0/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": ": How The Economic Machine Works by Ray Dalio "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=PHe0bXAIuk0"
+      }
+    ]
+  },
+  {
+    "@id": "_:n74be63003960470d8d897193056c8738b2",
+    "@type": [
+      "https://schema.org/DefinedTerm"
+    ],
+    "https://schema.org/termCode": [
+      {
+        "@value": "Volkswirtschaftslehre studieren"
+      }
+    ]
+  },
+  {
+    "@id": "_:n74be63003960470d8d897193056c8738b4",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.63062405982517"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "jph_CTpjNAY"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n74be63003960470d8d897193056c8738b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/jph_CTpjNAY/hqdefault.jpg?sqp=-oaymwEXCJADEOABSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDvDmkaZD1bOsrcfEinnRVBszhrsg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": ": The Theory of Production - Economics A2 Level Unit 3 "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=jph_CTpjNAY"
+      }
+    ]
+  },
+  {
+    "@id": "_:n74be63003960470d8d897193056c8738b3",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6712703723058869"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "goXcUtm3BuM"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n74be63003960470d8d897193056c8738b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/goXcUtm3BuM/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": ": The WORST Economy- Econ in Real Life "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=goXcUtm3BuM"
+      }
+    ]
+  },
+  {
+    "@id": "_:n74be63003960470d8d897193056c8738b5",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6401036918640205"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "6Bc2ASCAEps"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n74be63003960470d8d897193056c8738b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/6Bc2ASCAEps/hqdefault.jpg?sqp=-oaymwEXCJADEOABSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC_VXkbNeWrcnJiv7REtleRBR2LmA"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": ": Fiscal policy versus monetary policy in the IS-LM model "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=6Bc2ASCAEps"
+      }
+    ]
+  },
+  {
+    "@id": "_:n74be63003960470d8d897193056c8738b6",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6559061408685026"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "X0KOV0o1P30"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n74be63003960470d8d897193056c8738b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/X0KOV0o1P30/hq720_2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYXiBeKF4wDw==&rs=AOn4CLABNFnUV-jX_KR_UlJpJnCkDZtsjg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": ": 3 Economic Rules of Thumb "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=X0KOV0o1P30"
+      }
+    ]
+  },
+  {
+      "@id": "_:n74be63003960470d8d897193056c8738b7",
+      "@type": [
+        "https://schema.org/LearningResource"
+      ],
+      "https://schema.org/cosineSimilarity": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#float",
+          "@value": ""
+        }
+      ],
+      "https://schema.org/identifier": [
+        {
+          "@value": "202629"
+        }
+      ],
+      "https://schema.org/teaches": [
+        {
+          "@id": "_:n74be63003960470d8d897193056c8738b2"
+        }
+      ],
+      "https://schema.org/thumbnailUrl": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+          "@value": ""
+        }
+      ],
+      "https://schema.org/title": [
+        {
+          "@value": ": Wirtschaftspolitik  "
+        }
+      ],
+      "https://schema.org/url": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+          "@value": "https://de.serlo.org/202629"
+        }
+      ]
+    }  
+]

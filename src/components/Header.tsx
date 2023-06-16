@@ -27,6 +27,46 @@ const Header: React.FC = () => {
 
   const handleSearch = (e: React.FormEvent) => {
     e.preventDefault();
+    if(inputValue.trim().toLowerCase() === 'elektrotechnik'){
+      setShowNoResultsMessage(false);
+      navigate('/suchseite_elektrotechnik');
+    }
+    if(inputValue.trim().toLowerCase() === 'psychologie'){
+      setShowNoResultsMessage(false);
+      navigate('/suchseite_psychologie');
+    }
+    if(inputValue.trim().toLowerCase() === 'jura'){
+      setShowNoResultsMessage(false);
+      navigate('/suchseite_jura');
+    }
+    if(inputValue.trim().toLowerCase() === 'architektur'){
+      setShowNoResultsMessage(false);
+      navigate('/suchseite_architektur');
+    }
+    if(inputValue.trim().toLowerCase() === 'chemie'){
+      setShowNoResultsMessage(false);
+      navigate('/suchseite_chemie');
+    }
+    if(inputValue.trim().toLowerCase() === 'biologie'){
+      setShowNoResultsMessage(false);
+      navigate('/suchseite_biologie');
+    }
+    if(inputValue.trim().toLowerCase() === 'informatik'){
+      setShowNoResultsMessage(false);
+      navigate('/suchseite_informatik');
+    }
+    if(inputValue.trim().toLowerCase() === 'medizin'){
+      setShowNoResultsMessage(false);
+      navigate('/suchseite_medizin');
+    }
+    if(inputValue.trim().toLowerCase() === 'bwl'){
+      setShowNoResultsMessage(false);
+      navigate('/suchseite_bwl');
+    }
+    if(inputValue.trim().toLowerCase() === 'maschinenbau'){
+      setShowNoResultsMessage(false);
+      navigate('/suchseite_maschienenbau');
+    }
     if(inputValue.trim().toLowerCase() === 'teamleitung'){
       setShowNoResultsMessage(false);
       navigate('/suchseite_teamleitung');

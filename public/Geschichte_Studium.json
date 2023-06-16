@@ -1,0 +1,208 @@
+[
+  {
+    "@id": "_:n3e4f7cee54f84288b7b9db05f8e85754b4",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6275542352989218"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "liZDYPRt-M4"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n3e4f7cee54f84288b7b9db05f8e85754b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/liZDYPRt-M4/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": ": Weimar Germany 1919-29 revision for GCSE and IGCSE History "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=liZDYPRt-M4"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3e4f7cee54f84288b7b9db05f8e85754b2",
+    "@type": [
+      "https://schema.org/DefinedTerm"
+    ],
+    "https://schema.org/termCode": [
+      {
+        "@value": "Geschichte studieren"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3e4f7cee54f84288b7b9db05f8e85754b5",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6358023760454253"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "ffzmDrxvw0g"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n3e4f7cee54f84288b7b9db05f8e85754b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/ffzmDrxvw0g/hqdefault.jpg?sqp=-oaymwEXCJADEOABSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDT__D8JnaKUcPgrJKoksfg_9THRQ"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": ": A History Teacher Reacts | \"The Bronze Age Collapse (Parts 1-2)\" by Extra History "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=ffzmDrxvw0g"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3e4f7cee54f84288b7b9db05f8e85754b6",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5922561838321208"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "Llw-qVPhzug"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n3e4f7cee54f84288b7b9db05f8e85754b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/Llw-qVPhzug/hqdefault.jpg?sqp=-oaymwEXCJADEOABSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAfURUT_JpBlvRad8DnwJmwOLkFUA"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": ": GED Social Studies 2018 - War of 1812 Question "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=Llw-qVPhzug"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3e4f7cee54f84288b7b9db05f8e85754b3",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6068414271209132"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "tRFeqEr5R-o"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n3e4f7cee54f84288b7b9db05f8e85754b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/tRFeqEr5R-o/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": ": ILLUSTRATIVE EXAMPLE:  SRIVIJAYA EMPIRE "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=tRFeqEr5R-o"
+      }
+    ]
+  },
+  {
+    "@id": "_:n3e4f7cee54f84288b7b9db05f8e85754b1",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5955018893805695"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "C_Ls9zGkEFw"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n3e4f7cee54f84288b7b9db05f8e85754b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/C_Ls9zGkEFw/hq720.jpg?v=5fa9d5e1"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": ": How did Europe React to the Fall of Constantinople? by History Matters | A History Teacher Reacts "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=C_Ls9zGkEFw"
+      }
+    ]
+  }
+]
