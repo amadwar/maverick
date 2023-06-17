@@ -1,0 +1,208 @@
+[
+  {
+    "@id": "_:nd5cbd0a7d7b14204950455b6fcc0364db1",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6412458922116036"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "AtuGtGuyKRA"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nd5cbd0a7d7b14204950455b6fcc0364db2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/AtuGtGuyKRA/hq720.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBMgSCh_MA8=&rs=AOn4CLB06BmzOI-g5aVFRl8QDV4hMcmhWw"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": ": Q&A with Cambridge A Level Psychology assessment expert, Seth Alper "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=AtuGtGuyKRA"
+      }
+    ]
+  },
+  {
+    "@id": "_:nd5cbd0a7d7b14204950455b6fcc0364db2",
+    "@type": [
+      "https://schema.org/DefinedTerm"
+    ],
+    "https://schema.org/termCode": [
+      {
+        "@value": "Psychologie studieren"
+      }
+    ]
+  },
+  {
+    "@id": "_:nd5cbd0a7d7b14204950455b6fcc0364db4",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6260236016861405"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "oOLGiUpT124"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nd5cbd0a7d7b14204950455b6fcc0364db2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/oOLGiUpT124/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": ": INFJ in the eye of a clinical psychologist: special edition.  Rarest personality type in the world "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=oOLGiUpT124"
+      }
+    ]
+  },
+  {
+    "@id": "_:nd5cbd0a7d7b14204950455b6fcc0364db5",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.662208523327747"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "58s-UI2EcpQ"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nd5cbd0a7d7b14204950455b6fcc0364db2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/58s-UI2EcpQ/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": ": psychology unit 3 learning ethio freshman course classical conditioning "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=58s-UI2EcpQ"
+      }
+    ]
+  },
+  {
+    "@id": "_:nd5cbd0a7d7b14204950455b6fcc0364db3",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6454438533740469"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "S2CdeuG1STE"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nd5cbd0a7d7b14204950455b6fcc0364db2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/S2CdeuG1STE/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": ": Should I major in psychology? "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=S2CdeuG1STE"
+      }
+    ]
+  },
+  {
+    "@id": "_:nd5cbd0a7d7b14204950455b6fcc0364db6",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.646136185792147"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "HMPIvOUvqPA"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nd5cbd0a7d7b14204950455b6fcc0364db2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/HMPIvOUvqPA/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": ": What is Forensic Psychology? "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=HMPIvOUvqPA"
+      }
+    ]
+  }
+]

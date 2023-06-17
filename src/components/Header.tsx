@@ -27,6 +27,26 @@ const Header: React.FC = () => {
 
   const handleSearch = (e: React.FormEvent) => {
     e.preventDefault();
+    if(inputValue.trim().toLowerCase() === 'philosophie'){
+      setShowNoResultsMessage(false);
+      navigate('/suchseite_philosophie');
+    }
+    if(inputValue.trim().toLowerCase() === 'pädagogik'){
+      setShowNoResultsMessage(false);
+      navigate('/suchseite_paedagogik');
+    }
+    if(inputValue.trim().toLowerCase() === 'medienwissenschaft'){
+      setShowNoResultsMessage(false);
+      navigate('/suchseite_medienwissenschaft');
+    }
+    if(inputValue.trim().toLowerCase() === 'politikwissenschaft'){
+      setShowNoResultsMessage(false);
+      navigate('/suchseite_politikwissenschaft');
+    }
+    if(inputValue.trim().toLowerCase() === 'sprachwissenschaft'){
+      setShowNoResultsMessage(false);
+      navigate('/suchseite_sprachwissenschaft');
+    }
     if(inputValue.trim().toLowerCase() === 'geschichte'){
       setShowNoResultsMessage(false);
       navigate('/suchseite_geschichte');

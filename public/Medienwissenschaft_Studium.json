@@ -1,0 +1,208 @@
+[
+  {
+    "@id": "_:nd1e4b9b16d7f4647b86230473fe2f84eb1",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6384347753102775"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "Pl8suQf_JVk"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nd1e4b9b16d7f4647b86230473fe2f84eb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/Pl8suQf_JVk/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Hypodermic Needle Theory: Media Theories "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=Pl8suQf_JVk"
+      }
+    ]
+  },
+  {
+    "@id": "_:nd1e4b9b16d7f4647b86230473fe2f84eb2",
+    "@type": [
+      "https://schema.org/DefinedTerm"
+    ],
+    "https://schema.org/termCode": [
+      {
+        "@value": "Medienwissenschaft studieren"
+      }
+    ]
+  },
+  {
+    "@id": "_:nd1e4b9b16d7f4647b86230473fe2f84eb5",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5690210099328907"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "u12Z4SimKQQ"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nd1e4b9b16d7f4647b86230473fe2f84eb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/u12Z4SimKQQ/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "MFA Communication programme 2023/24 "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=u12Z4SimKQQ"
+      }
+    ]
+  },
+  {
+    "@id": "_:nd1e4b9b16d7f4647b86230473fe2f84eb4",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5510844331705118"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "_hcvUfc2Lww"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nd1e4b9b16d7f4647b86230473fe2f84eb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/_hcvUfc2Lww/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Brauchen wir die Öffentlich-Rechtlichen noch? "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=_hcvUfc2Lww"
+      }
+    ]
+  },
+  {
+    "@id": "_:nd1e4b9b16d7f4647b86230473fe2f84eb3",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5422935197712921"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "Q1c6j5fdXiQ"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nd1e4b9b16d7f4647b86230473fe2f84eb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/Q1c6j5fdXiQ/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "The Media Wars: Why is Everyone so Angry? | Trailer "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=Q1c6j5fdXiQ"
+      }
+    ]
+  },
+  {
+    "@id": "_:nd1e4b9b16d7f4647b86230473fe2f84eb6",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6236017029928532"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "Q-K-23g_Hds"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nd1e4b9b16d7f4647b86230473fe2f84eb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/Q-K-23g_Hds/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "FREE Way to Market Your Content? | mediakits.com "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=Q-K-23g_Hds"
+      }
+    ]
+  }
+]

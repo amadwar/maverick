@@ -183,6 +183,36 @@ import Video_geschichte4 from "./components/Studienberatung/Videos_geschichte/Vi
 import Video_geschichte3 from "./components/Studienberatung/Videos_geschichte/Video3_geschichte";
 import Video_geschichte2 from "./components/Studienberatung/Videos_geschichte/Video2_geschichte";
 import Video_geschichte1 from "./components/Studienberatung/Videos_geschichte/Video1_geschichte";
+import Video_sozialogie5 from "./components/Studienberatung/Videos_siziologie/Video5_soziologie";
+import Video_sozialogie4 from "./components/Studienberatung/Videos_siziologie/Video4_soziologie";
+import Video_sozialogie3 from "./components/Studienberatung/Videos_siziologie/Video3_soziologie";
+import Video_sozialogie2 from "./components/Studienberatung/Videos_siziologie/Video2_soziologie";
+import Video_sozialogie1 from "./components/Studienberatung/Videos_siziologie/Video1_soziologie";
+import Video_physik4 from "./components/Studienberatung/Videos_Physik/Video4_physik";
+import Video_physik5 from "./components/Studienberatung/Videos_Physik/Video5_physik";
+import Video_physik3 from "./components/Studienberatung/Videos_Physik/Video3_physik";
+import Video_physik2 from "./components/Studienberatung/Videos_Physik/Video2_physik";
+import Video_physik1 from "./components/Studienberatung/Videos_Physik/Video1_physik";
+import Video_mathematik5 from "./components/Studienberatung/Videos_mathematik/Video5_mathematik";
+import Video_mathematik4 from "./components/Studienberatung/Videos_mathematik/Video4_mathematik";
+import Video_mathematik3 from "./components/Studienberatung/Videos_mathematik/Video3_mathematik";
+import Video_mathematik2 from "./components/Studienberatung/Videos_mathematik/Video2_mathematik";
+import Video_mathematik1 from "./components/Studienberatung/Videos_mathematik/Video1_mathematik";
+import Video_volkswirtschaftslehre5 from "./components/Studienberatung/Videos_volkswirtschaftslehre/Video5_volkswirtschaftslehre";
+import Video_volkswirtschaftslehre4 from "./components/Studienberatung/Videos_volkswirtschaftslehre/Video4_volkswirtschaftslehre";
+import Video_volkswirtschaftslehre3 from "./components/Studienberatung/Videos_volkswirtschaftslehre/Video3_volkswirtschaftslehre";
+import Video_volkswirtschaftslehre2 from "./components/Studienberatung/Videos_volkswirtschaftslehre/Video2_volkswirtschaftslehre";
+import Video_volkswirtschaftslehre1 from "./components/Studienberatung/Videos_volkswirtschaftslehre/Video1_volkswirtschaftslehre";
+import Philosophie from "./components/Studienberatung/Studiengang/Philosophie";
+import Paedagogik from "./components/Studienberatung/Studiengang/Pädagogik";
+import Sprachwissenschaft from "./components/Studienberatung/Studiengang/Sprachwissenschaft";
+import Medienwissenschaft from "./components/Studienberatung/Studiengang/Medienwissenschaft";
+import Politikwissenschaft from "./components/Studienberatung/Studiengang/Politikwissenschaft";
+import Suchseite_philosophie from "./components/Studienberatung/Suchseiten_Studium/Suchseite_philosophie";
+import Suchseite_paedagogik from "./components/Studienberatung/Suchseiten_Studium/Suchseite_paedagogik";
+import Suchseite_sprachwissenschaft from "./components/Studienberatung/Suchseiten_Studium/Suchseite_Sprachwissenschaft";
+import Suchseite_medienwissenschaft from "./components/Studienberatung/Suchseiten_Studium/Suchseite_medienwissenschaft";
+import Suchseite_politikwissenschaft from "./components/Studienberatung/Suchseiten_Studium/Suchseite_politikwissenschaft";
 
 
 
@@ -497,6 +527,51 @@ function App(){
               <>
                 <Header />
                 <Suchseite_physik/>
+              </>
+            }
+          />
+          <Route
+            path="suchseite_politikwissenschaft"
+            element={
+              <>
+                <Header />
+                <Suchseite_politikwissenschaft/>
+              </>
+            }
+          />
+          <Route
+            path="suchseite_medienwissenschaft"
+            element={
+              <>
+                <Header />
+                <Suchseite_medienwissenschaft/>
+              </>
+            }
+          />
+          <Route
+            path="suchseite_sprachwissenschaft"
+            element={
+              <>
+                <Header />
+                <Suchseite_sprachwissenschaft/>
+              </>
+            }
+          />
+          <Route
+            path="suchseite_paedagogik"
+            element={
+              <>
+                <Header />
+                <Suchseite_paedagogik/>
+              </>
+            }
+          />
+          <Route
+            path="suchseite_philosophie"
+            element={
+              <>
+                <Header />
+                <Suchseite_philosophie/>
               </>
             }
           />
@@ -1551,7 +1626,7 @@ function App(){
             element={
               <>
                 <Header />
-                <Video_geschichte5/>
+                <Video_sozialogie1/>
               </>
             }
           />
@@ -1560,7 +1635,7 @@ function App(){
             element={
               <>
                 <Header />
-                <Video_geschichte5/>
+                <Video_sozialogie2/>
               </>
             }
           />
@@ -1569,7 +1644,7 @@ function App(){
             element={
               <>
                 <Header />
-                <Video_geschichte5/>
+                <Video_sozialogie3/>
               </>
             }
           />
@@ -1578,7 +1653,7 @@ function App(){
             element={
               <>
                 <Header />
-                <Video_geschichte5/>
+                <Video_sozialogie4/>
               </>
             }
           />
@@ -1587,7 +1662,142 @@ function App(){
             element={
               <>
                 <Header />
-                <Video_geschichte5/>
+                <Video_sozialogie5/>
+              </>
+            }
+          />
+          <Route
+            path="video_volkswirtschaftslehre1"
+            element={
+              <>
+                <Header />
+                <Video_volkswirtschaftslehre1/>
+              </>
+            }
+          />
+          <Route
+            path="video_volkswirtschaftslehre2"
+            element={
+              <>
+                <Header />
+                <Video_volkswirtschaftslehre2/>
+              </>
+            }
+          />
+          <Route
+            path="video_volkswirtschaftslehre3"
+            element={
+              <>
+                <Header />
+                <Video_volkswirtschaftslehre3/>
+              </>
+            }
+          />
+          <Route
+            path="video_volkswirtschaftslehre4"
+            element={
+              <>
+                <Header />
+                <Video_volkswirtschaftslehre4/>
+              </>
+            }
+          />
+          <Route
+            path="video_volkswirtschaftslehre5"
+            element={
+              <>
+                <Header />
+                <Video_volkswirtschaftslehre5/>
+              </>
+            }
+          />
+          <Route
+            path="video_mathematik1"
+            element={
+              <>
+                <Header />
+                <Video_mathematik1/>
+              </>
+            }
+          />
+          <Route
+            path="video_mathematik2"
+            element={
+              <>
+                <Header />
+                <Video_mathematik2/>
+              </>
+            }
+          />
+          <Route
+            path="video_mathematik3"
+            element={
+              <>
+                <Header />
+                <Video_mathematik3/>
+              </>
+            }
+          />
+          <Route
+            path="video_mathematik4"
+            element={
+              <>
+                <Header />
+                <Video_mathematik4/>
+              </>
+            }
+          />
+          <Route
+            path="video_mathematik5"
+            element={
+              <>
+                <Header />
+                <Video_mathematik5/>
+              </>
+            }
+          />
+          <Route
+            path="video_physik1"
+            element={
+              <>
+                <Header />
+                <Video_physik1/>
+              </>
+            }
+          />
+          <Route
+            path="video_physik2"
+            element={
+              <>
+                <Header />
+                <Video_physik2/>
+              </>
+            }
+          />
+          <Route
+            path="video_physik3"
+            element={
+              <>
+                <Header />
+                <Video_physik3/>
+              </>
+            }
+          />
+          <Route
+            path="video_physik4"
+            element={
+              <>
+                <Header />
+                <Video_physik4/>
+              </>
+            }
+          />
+          <Route
+            path="video_physik5"
+            element={
+              <>
+                <Header />
+                <Video_physik5/>
               </>
             }
           />
@@ -1825,6 +2035,51 @@ function App(){
               <>
                <Header />
                 <Physik />
+              </>
+            }
+          />
+          <Route
+            path="politikwissenschaft"
+            element={
+              <>
+               <Header />
+                <Politikwissenschaft />
+              </>
+            }
+          />
+          <Route
+            path="medienwissenschaft"
+            element={
+              <>
+               <Header />
+                <Medienwissenschaft />
+              </>
+            }
+          />
+          <Route
+            path="sprachwissenschaft"
+            element={
+              <>
+               <Header />
+                <Sprachwissenschaft />
+              </>
+            }
+          />
+          <Route
+            path="paedagogik"
+            element={
+              <>
+               <Header />
+                <Paedagogik />
+              </>
+            }
+          />
+          <Route
+            path="philosophie"
+            element={
+              <>
+               <Header />
+                <Philosophie />
               </>
             }
           />

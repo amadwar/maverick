@@ -1,0 +1,208 @@
+[
+  {
+    "@id": "_:na09c734ed5a842738317b2152e50da6db4",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6289593613550306"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "L0xTXGahEus"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:na09c734ed5a842738317b2152e50da6db2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/L0xTXGahEus/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Mathematikvorlesung auf den Kopf gestellt "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=L0xTXGahEus"
+      }
+    ]
+  },
+  {
+    "@id": "_:na09c734ed5a842738317b2152e50da6db2",
+    "@type": [
+      "https://schema.org/DefinedTerm"
+    ],
+    "https://schema.org/termCode": [
+      {
+        "@value": "Pädagogik studieren"
+      }
+    ]
+  },
+  {
+    "@id": "_:na09c734ed5a842738317b2152e50da6db1",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6269765281773791"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "hkcqGU7l_zU"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:na09c734ed5a842738317b2152e50da6db2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/hkcqGU7l_zU/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Ontology, epistemology and research paradigm "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=hkcqGU7l_zU"
+      }
+    ]
+  },
+  {
+    "@id": "_:na09c734ed5a842738317b2152e50da6db6",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6331385903770999"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "DSupWyxNIN0"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:na09c734ed5a842738317b2152e50da6db2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/DSupWyxNIN0/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "5 Andragogy vs Pedagogy A Comparison of Process "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=DSupWyxNIN0"
+      }
+    ]
+  },
+  {
+    "@id": "_:na09c734ed5a842738317b2152e50da6db5",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6406907882783447"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "K631bNHV3UQ"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:na09c734ed5a842738317b2152e50da6db2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/K631bNHV3UQ/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Buchbesprechung zu Lois Lowry: \"Hüter der Erinnerung\" - von Schülern erklärt "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=K631bNHV3UQ"
+      }
+    ]
+  },
+  {
+    "@id": "_:na09c734ed5a842738317b2152e50da6db3",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6572318670021471"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "on-O5v3UcBk"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:na09c734ed5a842738317b2152e50da6db2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/on-O5v3UcBk/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "PARADOX 16 — Richard David Precht: „Bildung versus Wissen“ "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=on-O5v3UcBk"
+      }
+    ]
+  }
+]

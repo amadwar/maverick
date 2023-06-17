@@ -1,0 +1,247 @@
+[
+  {
+    "@id": "_:nd56b1bb9853e49b2a020a7b6a720b3bbb1",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.7291878265686365"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "f8pc7ROZx9o"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nd56b1bb9853e49b2a020a7b6a720b3bbb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/f8pc7ROZx9o/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Яагаад та хэл сурч чадахгүй байгаа вэ? Хэлний авъяастай хүмүүсийн нууц "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=f8pc7ROZx9o"
+      }
+    ]
+  },
+  {
+    "@id": "_:nd56b1bb9853e49b2a020a7b6a720b3bbb2",
+    "@type": [
+      "https://schema.org/DefinedTerm"
+    ],
+    "https://schema.org/termCode": [
+      {
+        "@value": "Sprachwissenschaft/Linguistik studieren"
+      }
+    ]
+  },
+  {
+    "@id": "_:nd56b1bb9853e49b2a020a7b6a720b3bbb4",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.7194417244090392"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "pSqH1t6UQPE"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nd56b1bb9853e49b2a020a7b6a720b3bbb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/pSqH1t6UQPE/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Präteritum unregelmäßige Verben | ich beschrieb, er bekam | B1 | Deutsch lernen "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=pSqH1t6UQPE"
+      }
+    ]
+  },
+  {
+    "@id": "_:nd56b1bb9853e49b2a020a7b6a720b3bbb6",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.7180955845788796"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "1QDzm6_usOE"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nd56b1bb9853e49b2a020a7b6a720b3bbb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/1QDzm6_usOE/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Mythos Germanistik - der Campus-Magazin-Check - ARD-alpha "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=1QDzm6_usOE"
+      }
+    ]
+  },
+  {
+    "@id": "_:nd56b1bb9853e49b2a020a7b6a720b3bbb3",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.7143178904633358"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "41GOopBw-9E"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nd56b1bb9853e49b2a020a7b6a720b3bbb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/41GOopBw-9E/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "German For Beginners Lesson 1 -  Alphabet, Phonetics and Words | German Lehrer "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=41GOopBw-9E"
+      }
+    ]
+  },
+  {
+    "@id": "_:nd56b1bb9853e49b2a020a7b6a720b3bbb5",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.7891802299234232"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "n3zXbfiVZ7o"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nd56b1bb9853e49b2a020a7b6a720b3bbb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/n3zXbfiVZ7o/hqdefault.jpg?sqp=-oaymwEXCJADEOABSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAFgGdZExhp88VO24MyjkQCoD16TA"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Sprache - Wandel & Varietäten - Zusammenfassung für das Abitur Themenfeld \"Sprache - Medien - Lesen\" "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=n3zXbfiVZ7o"
+      }
+    ]
+  },
+  {
+      "@id": "_:nd56b1bb9853e49b2a020a7b6a720b3bbb7",
+      "@type": [
+        "https://schema.org/LearningResource"
+      ],
+      "https://schema.org/cosineSimilarity": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#float",
+          "@value": ""
+        }
+      ],
+      "https://schema.org/identifier": [
+        {
+          "@value": "251634"
+        }
+      ],
+      "https://schema.org/teaches": [
+        {
+          "@id": "_:nd56b1bb9853e49b2a020a7b6a720b3bbb2"
+        }
+      ],
+      "https://schema.org/thumbnailUrl": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+          "@value": ""
+        }
+      ],
+      "https://schema.org/title": [
+        {
+          "@value": "Sprachen lernen mit der Vera F. Birkenbihl-Methode "
+        }
+      ],
+      "https://schema.org/url": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+          "@value": "https://de.serlo.org/251634"
+        }
+      ]
+    }  
+]

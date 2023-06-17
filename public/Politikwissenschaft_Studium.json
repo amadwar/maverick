@@ -1,0 +1,208 @@
+[
+  {
+    "@id": "_:nf662a0a25ac24056aa9d0bf431d8d2aab5",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5566142187313756"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "Llw-qVPhzug"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nf662a0a25ac24056aa9d0bf431d8d2aab2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/Llw-qVPhzug/hqdefault.jpg?sqp=-oaymwEXCJADEOABSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAfURUT_JpBlvRad8DnwJmwOLkFUA"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "GED Social Studies 2018 - War of 1812 Question "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=Llw-qVPhzug"
+      }
+    ]
+  },
+  {
+    "@id": "_:nf662a0a25ac24056aa9d0bf431d8d2aab2",
+    "@type": [
+      "https://schema.org/DefinedTerm"
+    ],
+    "https://schema.org/termCode": [
+      {
+        "@value": "Politikwissenschaft studieren"
+      }
+    ]
+  },
+  {
+    "@id": "_:nf662a0a25ac24056aa9d0bf431d8d2aab3",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5932793173471207"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "p5DK68VtSv0"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nf662a0a25ac24056aa9d0bf431d8d2aab2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/p5DK68VtSv0/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "The Politicization of the Arts "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=p5DK68VtSv0"
+      }
+    ]
+  },
+  {
+    "@id": "_:nf662a0a25ac24056aa9d0bf431d8d2aab4",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5886370884773624"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "y32cFdicW1U"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nf662a0a25ac24056aa9d0bf431d8d2aab2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/y32cFdicW1U/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "International Relations 101 (#1): Introduction "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=y32cFdicW1U"
+      }
+    ]
+  },
+  {
+    "@id": "_:nf662a0a25ac24056aa9d0bf431d8d2aab1",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5542219731603624"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "5kRfScZW0RE"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nf662a0a25ac24056aa9d0bf431d8d2aab2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/5kRfScZW0RE/hq720.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-DoACuAiKAgwIABABGGUgVyhYMA8=&rs=AOn4CLDuJkCtO7S9mQSYVMsZzUGuWW-Gcg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Legitimation staatlichen Handelns im Bereich der Wirtschaftspolitik einfach erklärt! (Abitur) "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=5kRfScZW0RE"
+      }
+    ]
+  },
+  {
+    "@id": "_:nf662a0a25ac24056aa9d0bf431d8d2aab6",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6269242682236824"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "JaBCHbuI1EI"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nf662a0a25ac24056aa9d0bf431d8d2aab2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/JaBCHbuI1EI/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Biedermeier - Literaturepoche einfach erklärt - Merkmale, Literatur, Geschichte, Vertreter "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=JaBCHbuI1EI"
+      }
+    ]
+  }
+]

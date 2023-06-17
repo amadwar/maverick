@@ -1,0 +1,247 @@
+[
+  {
+    "@id": "_:n309b94c5ef864b8d90a9e4c8cd3d47cfb4",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.7010849917917905"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "hdCBGWcd4qw"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n309b94c5ef864b8d90a9e4c8cd3d47cfb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/hdCBGWcd4qw/hqdefault.jpg?sqp=-oaymwEXCJADEOABSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC9TiYPhFrmUYbjmG7Vp1qRCtQ-ZQ"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "1.1 An Introduction to General Philosophy "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=hdCBGWcd4qw"
+      }
+    ]
+  },
+  {
+    "@id": "_:n309b94c5ef864b8d90a9e4c8cd3d47cfb2",
+    "@type": [
+      "https://schema.org/DefinedTerm"
+    ],
+    "https://schema.org/termCode": [
+      {
+        "@value": "Philosophie studieren"
+      }
+    ]
+  },
+  {
+    "@id": "_:n309b94c5ef864b8d90a9e4c8cd3d47cfb3",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.712515707640107"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "oU2Z9J-MijI"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n309b94c5ef864b8d90a9e4c8cd3d47cfb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/oU2Z9J-MijI/hq720.jpg?v=61fc414e"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Why is philosophy important? "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=oU2Z9J-MijI"
+      }
+    ]
+  },
+  {
+    "@id": "_:n309b94c5ef864b8d90a9e4c8cd3d47cfb1",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.7061563776763947"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "sKXaY_reAcg"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n309b94c5ef864b8d90a9e4c8cd3d47cfb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/sKXaY_reAcg/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Was ist Philosophie? · Basics, Einführung, Grundlagen "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=sKXaY_reAcg"
+      }
+    ]
+  },
+  {
+    "@id": "_:n309b94c5ef864b8d90a9e4c8cd3d47cfb5",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6625586088000708"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "MAZ8awuILJg"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n309b94c5ef864b8d90a9e4c8cd3d47cfb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/MAZ8awuILJg/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "The Epistemic Regress Problem - Epistemology | WIRELESS PHILOSOPHY "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=MAZ8awuILJg"
+      }
+    ]
+  },
+  {
+    "@id": "_:n309b94c5ef864b8d90a9e4c8cd3d47cfb6",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6666591347983399"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "nXmJwPj6c9s"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n309b94c5ef864b8d90a9e4c8cd3d47cfb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/nXmJwPj6c9s/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Richard David Precht - Vorlesung zur Erkenntnistheorie (2011) - Leuphana Universität "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=nXmJwPj6c9s"
+      }
+    ]
+  },
+  {
+      "@id": "_:n309b94c5ef864b8d90a9e4c8cd3d47cfb7",
+      "@type": [
+        "https://schema.org/LearningResource"
+      ],
+      "https://schema.org/cosineSimilarity": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#float",
+          "@value": ""
+        }
+      ],
+      "https://schema.org/identifier": [
+        {
+          "@value": "85960"
+        }
+      ],
+      "https://schema.org/teaches": [
+        {
+          "@id": "_:n309b94c5ef864b8d90a9e4c8cd3d47cfb2"
+        }
+      ],
+      "https://schema.org/thumbnailUrl": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+          "@value": ""
+        }
+      ],
+      "https://schema.org/title": [
+        {
+          "@value": "Der philosophische Blick auf das gute Leben "
+        }
+      ],
+      "https://schema.org/url": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+          "@value": "https://de.serlo.org/85960"
+        }
+      ]
+    }
+]
