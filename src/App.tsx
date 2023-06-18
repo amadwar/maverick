@@ -213,6 +213,31 @@ import Suchseite_paedagogik from "./components/Studienberatung/Suchseiten_Studiu
 import Suchseite_sprachwissenschaft from "./components/Studienberatung/Suchseiten_Studium/Suchseite_Sprachwissenschaft";
 import Suchseite_medienwissenschaft from "./components/Studienberatung/Suchseiten_Studium/Suchseite_medienwissenschaft";
 import Suchseite_politikwissenschaft from "./components/Studienberatung/Suchseiten_Studium/Suchseite_politikwissenschaft";
+import Video_politikwissenschaft5 from "./components/Studienberatung/Videos_politikwissenschaft/Video5_politikwissenschaft";
+import Video_politikwissenschaft4 from "./components/Studienberatung/Videos_politikwissenschaft/Video4_politikwissenschaft";
+import Video_politikwissenschaft3 from "./components/Studienberatung/Videos_politikwissenschaft/Video3_politikwissenschaft";
+import Video_politikwissenschaft2 from "./components/Studienberatung/Videos_politikwissenschaft/Video2_politikwissenschaft";
+import Video_politikwissenschaft1 from "./components/Studienberatung/Videos_politikwissenschaft/Video1_politikwissenschaft";
+import Video_medienwissenschaft5 from "./components/Studienberatung/Videos_medienwissenschaft/Video5_medienwissenschaft";
+import Video_medienwissenschaft4 from "./components/Studienberatung/Videos_medienwissenschaft/Video4_medienwissenschaft";
+import Video_medienwissenschaft3 from "./components/Studienberatung/Videos_medienwissenschaft/Video3_medienwissenschaft";
+import Video_medienwissenschaft2 from "./components/Studienberatung/Videos_medienwissenschaft/Video2_medienwissenschaft";
+import Video_medienwissenschaft1 from "./components/Studienberatung/Videos_medienwissenschaft/Video1_medienwissenschaft";
+import Video_sprachwissenschaft5 from "./components/Studienberatung/Videos_sprachwissenschaft/Video5_sprachwissenschaft";
+import Video_sprachwissenschaft4 from "./components/Studienberatung/Videos_sprachwissenschaft/Video4_sprachwissenschaft";
+import Video_sprachwissenschaft3 from "./components/Studienberatung/Videos_sprachwissenschaft/Video3_sprachwissenschaft";
+import Video_sprachwissenschaft2 from "./components/Studienberatung/Videos_sprachwissenschaft/Video2_sprachwissenschaft";
+import Video_sprachwissenschaft1 from "./components/Studienberatung/Videos_sprachwissenschaft/Video1_sprachwissenschaft";
+import Video_paedagogik5 from "./components/Studienberatung/Videos_paedagogik/Video5_paedagogik";
+import Video_paedagogik4 from "./components/Studienberatung/Videos_paedagogik/Video4_paedagogik";
+import Video_paedagogik3 from "./components/Studienberatung/Videos_paedagogik/Video3_paedagogik";
+import Video_paedagogik2 from "./components/Studienberatung/Videos_paedagogik/Video2_paedagogik";
+import Video_paedagogik1 from "./components/Studienberatung/Videos_paedagogik/Video1_paedagogik";
+import Video_philosophie5 from "./components/Studienberatung/Videos_philosophie/Video5_philosophie";
+import Video_philosophie4 from "./components/Studienberatung/Videos_philosophie/Video4_philosophie";
+import Video_philosophie3 from "./components/Studienberatung/Videos_philosophie/Video3_philosophie";
+import Video_philosophie2 from "./components/Studienberatung/Videos_philosophie/Video2_philosophie";
+import Video_philosophie1 from "./components/Studienberatung/Videos_philosophie/Video1_philosophie";
 
 
 
@@ -1798,6 +1823,231 @@ function App(){
               <>
                 <Header />
                 <Video_physik5/>
+              </>
+            }
+          />
+          <Route
+            path="video_politikwissenschaft1"
+            element={
+              <>
+                <Header />
+                <Video_politikwissenschaft1/>
+              </>
+            }
+          />
+          <Route
+            path="video_politikwissenschaft2"
+            element={
+              <>
+                <Header />
+                <Video_politikwissenschaft2/>
+              </>
+            }
+          />
+          <Route
+            path="video_politikwissenschaft3"
+            element={
+              <>
+                <Header />
+                <Video_politikwissenschaft3/>
+              </>
+            }
+          />
+          <Route
+            path="video_politikwissenschaft4"
+            element={
+              <>
+                <Header />
+                <Video_politikwissenschaft4/>
+              </>
+            }
+          />
+          <Route
+            path="video_politikwissenschaft5"
+            element={
+              <>
+                <Header />
+                <Video_politikwissenschaft5/>
+              </>
+            }
+          />
+          <Route
+            path="video_medienwissenschaft1"
+            element={
+              <>
+                <Header />
+                <Video_medienwissenschaft1/>
+              </>
+            }
+          />
+          <Route
+            path="video_medienwissenschaft2"
+            element={
+              <>
+                <Header />
+                <Video_medienwissenschaft2/>
+              </>
+            }
+          />
+          <Route
+            path="video_medienwissenschaft3"
+            element={
+              <>
+                <Header />
+                <Video_medienwissenschaft3/>
+              </>
+            }
+          />
+          <Route
+            path="video_medienwissenschaft4"
+            element={
+              <>
+                <Header />
+                <Video_medienwissenschaft4/>
+              </>
+            }
+          />
+          <Route
+            path="video_medienwissenschaft5"
+            element={
+              <>
+                <Header />
+                <Video_medienwissenschaft5/>
+              </>
+            }
+          />
+          <Route
+            path="video_sprachwissenschaft1"
+            element={
+              <>
+                <Header />
+                <Video_sprachwissenschaft1/>
+              </>
+            }
+          />
+          <Route
+            path="video_sprachwissenschaft2"
+            element={
+              <>
+                <Header />
+                <Video_sprachwissenschaft2/>
+              </>
+            }
+          />
+          <Route
+            path="video_sprachwissenschaft3"
+            element={
+              <>
+                <Header />
+                <Video_sprachwissenschaft3/>
+              </>
+            }
+          />
+          <Route
+            path="video_sprachwissenschaft4"
+            element={
+              <>
+                <Header />
+                <Video_sprachwissenschaft4/>
+              </>
+            }
+          />
+          <Route
+            path="video_sprachwissenschaft5"
+            element={
+              <>
+                <Header />
+                <Video_sprachwissenschaft5/>
+              </>
+            }
+          />
+          <Route
+            path="video_paedagogik1"
+            element={
+              <>
+                <Header />
+                <Video_paedagogik1/>
+              </>
+            }
+          />
+          <Route
+            path="video_paedagogik2"
+            element={
+              <>
+                <Header />
+                <Video_paedagogik2/>
+              </>
+            }
+          />
+          <Route
+            path="video_paedagogik3"
+            element={
+              <>
+                <Header />
+                <Video_paedagogik3/>
+              </>
+            }
+          />
+          <Route
+            path="video_paedagogik4"
+            element={
+              <>
+                <Header />
+                <Video_paedagogik4/>
+              </>
+            }
+          />
+          <Route
+            path="video_paedagogik5"
+            element={
+              <>
+                <Header />
+                <Video_paedagogik5/>
+              </>
+            }
+          />
+          <Route
+            path="video_philosophie1"
+            element={
+              <>
+                <Header />
+                <Video_philosophie1/>
+              </>
+            }
+          />
+          <Route
+            path="video_philosophie2"
+            element={
+              <>
+                <Header />
+                <Video_philosophie2/>
+              </>
+            }
+          />
+          <Route
+            path="video_philosophie3"
+            element={
+              <>
+                <Header />
+                <Video_philosophie3/>
+              </>
+            }
+          />
+          <Route
+            path="video_philosophie4"
+            element={
+              <>
+                <Header />
+                <Video_philosophie4/>
+              </>
+            }
+          />
+          <Route
+            path="video_philosophie5"
+            element={
+              <>
+                <Header />
+                <Video_philosophie5/>
               </>
             }
           />
