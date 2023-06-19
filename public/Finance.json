@@ -1,0 +1,208 @@
+[
+  {
+    "@id": "_:n25d259cc0cd64dd7a58a7ce447dd1bbeb3",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5892194964200907"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "LfQZMxJWjeY"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n25d259cc0cd64dd7a58a7ce447dd1bbeb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/LfQZMxJWjeY/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Überziehungskredit, Dispositionskredit, Kontokorrentkredit | Grundbegriffe der Wirtschaftslehre "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=LfQZMxJWjeY"
+      }
+    ]
+  },
+  {
+    "@id": "_:n25d259cc0cd64dd7a58a7ce447dd1bbeb2",
+    "@type": [
+      "https://schema.org/DefinedTerm"
+    ],
+    "https://schema.org/termCode": [
+      {
+        "@value": "Finance"
+      }
+    ]
+  },
+  {
+    "@id": "_:n25d259cc0cd64dd7a58a7ce447dd1bbeb6",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5835977623990566"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "LOAux9ZX5qE"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n25d259cc0cd64dd7a58a7ce447dd1bbeb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/LOAux9ZX5qE/hqdefault.jpg?sqp=-oaymwEXCJADEOABSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCuunNzTz5oimKTnNelButPfKsjTA"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Accounting Lecture 18 - Stock Issuances and Treasury Stock "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=LOAux9ZX5qE"
+      }
+    ]
+  },
+  {
+    "@id": "_:n25d259cc0cd64dd7a58a7ce447dd1bbeb1",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.609968690038869"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "NQfw-3_Ol60"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n25d259cc0cd64dd7a58a7ce447dd1bbeb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/NQfw-3_Ol60/hqdefault.jpg?sqp=-oaymwEXCJADEOABSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD-2rgMietwn7529oVndBLsWRriAg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Introduction to Financial Mathematics "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=NQfw-3_Ol60"
+      }
+    ]
+  },
+  {
+    "@id": "_:n25d259cc0cd64dd7a58a7ce447dd1bbeb4",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6039194443445031"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "TqF5tP0oLs0"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n25d259cc0cd64dd7a58a7ce447dd1bbeb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/TqF5tP0oLs0/hqdefault.jpg?sqp=-oaymwEXCJADEOABSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC40FagtPU-jmnmxnfsuOjIGnwZpA"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Why I Don't Recommend Quant Finance to Finance Grads "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=TqF5tP0oLs0"
+      }
+    ]
+  },
+  {
+    "@id": "_:n25d259cc0cd64dd7a58a7ce447dd1bbeb5",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6051534206767346"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "UGs1EXalrZo"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n25d259cc0cd64dd7a58a7ce447dd1bbeb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/UGs1EXalrZo/hqdefault.jpg?sqp=-oaymwEXCJADEOABSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDnA4J_oj8S5hgBgbZYMC0MAGYs9w"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Accounting Lecture 08 Part I - LIFO, FIFO & Average Cost "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=UGs1EXalrZo"
+      }
+    ]
+  }
+]

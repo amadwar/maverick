@@ -287,6 +287,49 @@ import Video_darstellungvonfunktionen4 from "./components/Studienfächer/Videos_
 import Video_darstellungvonfunktionen3 from "./components/Studienfächer/Videos_DarstellungvonFunktionen/Video3_darstellungvonfkt";
 import Video_darstellungvonfunktionen2 from "./components/Studienfächer/Videos_DarstellungvonFunktionen/Video2_darstellungvonfkt";
 import Video_darstellungvonfunktionen1 from "./components/Studienfächer/Videos_DarstellungvonFunktionen/Video1_darstellungvonfkt";
+import Video_ganzrationaleFkt5 from "./components/Studienfächer/Videos_DarstellungvonFunktionen/Video5_ganzrationalefunktion";
+import Video_ganzrationaleFkt1 from "./components/Studienfächer/Videos_GanzrationaleFunktion/Video1_ganzrationalefunktion";
+import Video_ganzrationaleFkt2 from "./components/Studienfächer/Videos_GanzrationaleFunktion/Video2_ganzrationalefunktion";
+import Video_ganzrationaleFkt3 from "./components/Studienfächer/Videos_GanzrationaleFunktion/Video3_ganzrationalefunktion";
+import Video_ganzrationaleFkt4 from "./components/Studienfächer/Videos_GanzrationaleFunktion/Video4_ganzrationalefunktion";
+import Video_potenzFkt5 from "./components/Studienfächer/Videos_PotenzFunktion/Video5_potenzfunktionen";
+import Video_potenzFkt4 from "./components/Studienfächer/Videos_PotenzFunktion/Video4_potenzfunktionen";
+import Video_potenzFkt3 from "./components/Studienfächer/Videos_PotenzFunktion/Video3_potenzfunktionen";
+import Video_potenzFkt2 from "./components/Studienfächer/Videos_PotenzFunktion/Video2_potenzfunktionen";
+import Video_potenzFkt1 from "./components/Studienfächer/Videos_PotenzFunktion/Video1_potenzfunktionen";
+import Video_wurzelFkt5 from "./components/Studienfächer/Videos_WurzelFunktion/Video5_wurzelFkt";
+import Video_wurzelFkt4 from "./components/Studienfächer/Videos_WurzelFunktion/Video4_wurzelFkt";
+import Video_wurzelFkt3 from "./components/Studienfächer/Videos_WurzelFunktion/Video3_wurzelFkt";
+import Video_wurzelFkt2 from "./components/Studienfächer/Videos_WurzelFunktion/Video2_wurzelFkt";
+import Video_wurzelFkt1 from "./components/Studienfächer/Videos_WurzelFunktion/Video1_wurzelFkt";
+import Video_eigenschaftenvonvektoren4 from "./components/Studienfächer/Videos_EigenschaftenvonVektoren/Video4_eigenschaftenvonvektoren";
+import Video_eigenschaftenvonvektoren5 from "./components/Studienfächer/Videos_EigenschaftenvonVektoren/Video5_eigenschaftenvonvektoren";
+import Video_eigenschaftenvonvektoren3 from "./components/Studienfächer/Videos_EigenschaftenvonVektoren/Video3_eigenschaftenvonvektoren";
+import Video_eigenschaftenvonvektoren2 from "./components/Studienfächer/Videos_EigenschaftenvonVektoren/Video2_eigenschaftenvonvektoren";
+import Video_eigenschaftenvonvektoren1 from "./components/Studienfächer/Videos_EigenschaftenvonVektoren/Video1_eigenschaftenvonvektoren";
+import Video_vektoroperationen1 from "./components/Studienfächer/Videos_Vektoroperationen/Video1_vektoroperationen";
+import Video_vektoroperationen2 from "./components/Studienfächer/Videos_Vektoroperationen/Video2_vektoroperationen";
+import Video_vektoroperationen3 from "./components/Studienfächer/Videos_Vektoroperationen/Video3_vektoroperationen";
+import Video_vektoroperationen4 from "./components/Studienfächer/Videos_Vektoroperationen/Video4_vektoroperationen";
+import Video_vektoroperationen5 from "./components/Studienfächer/Videos_Vektoroperationen/Video5_vektoroperationen";
+import Video_matrizen5 from "./components/Studienfächer/Videos_Matrizen/Video5_matrizen";
+import Video_matrizen4 from "./components/Studienfächer/Videos_Matrizen/Video4_matrizen";
+import Video_matrizen3 from "./components/Studienfächer/Videos_Matrizen/Video3_matrizen";
+import Video_matrizen2 from "./components/Studienfächer/Videos_Matrizen/Video2_matrizen";
+import Video_matrizen1 from "./components/Studienfächer/Videos_Matrizen/Video1_matrizen";
+import BusinessEnglish1 from "./components/Studienfächer/Fächer/BusinessEnglish1";
+import Teamwork from "./components/Studienfächer/Fächer/Teamwork";
+import Marketing from "./components/Studienfächer/Fächer/Marketing";
+import Finance from "./components/Studienfächer/Fächer/Finance";
+import Entrepreneurship from "./components/Studienfächer/Fächer/Entrepreneurship";
+import Businessfunctions from "./components/Studienfächer/Fächer/Businessfunctions";
+import Businesstypes from "./components/Studienfächer/Fächer/Businesstypes";
+import Suchseite_businessenglish from "./components/Studienfächer/Suchseiten/Suchseite_businessenglish1";
+import Video_businesstypes1 from "./components/Studienfächer/Videos_businesstypes/Video1_businesstypes";
+import Video_businesstypes2 from "./components/Studienfächer/Videos_businesstypes/Video2_businesstypes";
+import Video_businesstypes3 from "./components/Studienfächer/Videos_businesstypes/Video3_businesstypes";
+import Video_businesstypes4 from "./components/Studienfächer/Videos_businesstypes/Video4_businesstypes";
+import Video_businesstypes5 from "./components/Studienfächer/Videos_businesstypes/Video5_businesstypes";
 
 
 
@@ -701,6 +744,15 @@ function App(){
               <>
                 <Header />
                 <Suchseite_mathe1/>
+              </>
+            }
+          />
+          <Route
+            path="Suchseite_businessenglish"
+            element={
+              <>
+                <Header />
+                <Suchseite_businessenglish/>
               </>
             }
           />
@@ -2426,6 +2478,367 @@ function App(){
               </>
             }
           />
+          <Route
+            path="video_ganzrationaleFkt1"
+            element={
+              <>
+                <Header />
+                <Video_ganzrationaleFkt1/>
+              </>
+            }
+          />
+          <Route
+            path="video_ganzrationaleFkt2"
+            element={
+              <>
+                <Header />
+                <Video_ganzrationaleFkt2/>
+              </>
+            }
+          />
+          <Route
+            path="video_ganzrationaleFkt3"
+            element={
+              <>
+                <Header />
+                <Video_ganzrationaleFkt3/>
+              </>
+            }
+          />
+          <Route
+            path="video_ganzrationaleFkt4"
+            element={
+              <>
+                <Header />
+                <Video_ganzrationaleFkt4/>
+              </>
+            }
+          />
+          <Route
+            path="video_ganzrationaleFkt5"
+            element={
+              <>
+                <Header />
+                <Video_ganzrationaleFkt5/>
+              </>
+            }
+          />
+          <Route
+            path="video_potenzFkt1"
+            element={
+              <>
+                <Header />
+                <Video_potenzFkt1/>
+              </>
+            }
+          />
+          <Route
+            path="video_potenzFkt2"
+            element={
+              <>
+                <Header />
+                <Video_potenzFkt2/>
+              </>
+            }
+          />
+          <Route
+            path="video_potenzFkt3"
+            element={
+              <>
+                <Header />
+                <Video_potenzFkt3/>
+              </>
+            }
+          />
+          <Route
+            path="video_potenzFkt4"
+            element={
+              <>
+                <Header />
+                <Video_potenzFkt4/>
+              </>
+            }
+          />
+          <Route
+            path="video_potenzFkt5"
+            element={
+              <>
+                <Header />
+                <Video_potenzFkt5/>
+              </>
+            }
+          />
+          <Route
+            path="video_wurzelFkt1"
+            element={
+              <>
+                <Header />
+                <Video_wurzelFkt1/>
+              </>
+            }
+          />
+          <Route
+            path="video_wurzelFkt2"
+            element={
+              <>
+                <Header />
+                <Video_wurzelFkt2/>
+              </>
+            }
+          />
+          <Route
+            path="video_wurzelFkt3"
+            element={
+              <>
+                <Header />
+                <Video_wurzelFkt3/>
+              </>
+            }
+          />
+          <Route
+            path="video_wurzelFkt4"
+            element={
+              <>
+                <Header />
+                <Video_wurzelFkt4/>
+              </>
+            }
+          />
+          <Route
+            path="video_wurzelFkt5"
+            element={
+              <>
+                <Header />
+                <Video_wurzelFkt5/>
+              </>
+            }
+          />
+          <Route
+            path="video_eigenschaftenvonvektoren1"
+            element={
+              <>
+                <Header />
+                <Video_eigenschaftenvonvektoren1/>
+              </>
+            }
+          />
+          <Route
+            path="video_eigenschaftenvonvektoren2"
+            element={
+              <>
+                <Header />
+                <Video_eigenschaftenvonvektoren2/>
+              </>
+            }
+          />
+          <Route
+            path="video_eigenschaftenvonvektoren3"
+            element={
+              <>
+                <Header />
+                <Video_eigenschaftenvonvektoren3/>
+              </>
+            }
+          />
+          <Route
+            path="video_eigenschaftenvonvektoren4"
+            element={
+              <>
+                <Header />
+                <Video_eigenschaftenvonvektoren4/>
+              </>
+            }
+          />
+          <Route
+            path="video_eigenschaftenvonvektoren5"
+            element={
+              <>
+                <Header />
+                <Video_eigenschaftenvonvektoren5/>
+              </>
+            }
+          />
+          <Route
+            path="video_vektoroperationen1"
+            element={
+              <>
+                <Header />
+                <Video_vektoroperationen1/>
+              </>
+            }
+          />
+          <Route
+            path="video_vektoroperationen2"
+            element={
+              <>
+                <Header />
+                <Video_vektoroperationen2/>
+              </>
+            }
+          />
+          <Route
+            path="video_vektoroperationen3"
+            element={
+              <>
+                <Header />
+                <Video_vektoroperationen3/>
+              </>
+            }
+          />
+          <Route
+            path="video_vektoroperationen4"
+            element={
+              <>
+                <Header />
+                <Video_vektoroperationen4/>
+              </>
+            }
+          />
+          <Route
+            path="video_vektoroperationen5"
+            element={
+              <>
+                <Header />
+                <Video_vektoroperationen5/>
+              </>
+            }
+          />
+          <Route
+            path="video_matrizen1"
+            element={
+              <>
+                <Header />
+                <Video_matrizen1/>
+              </>
+            }
+          />
+          <Route
+            path="video_matrizen2"
+            element={
+              <>
+                <Header />
+                <Video_matrizen2/>
+              </>
+            }
+          />
+          <Route
+            path="video_matrizen3"
+            element={
+              <>
+                <Header />
+                <Video_matrizen3/>
+              </>
+            }
+          />
+          <Route
+            path="video_matrizen4"
+            element={
+              <>
+                <Header />
+                <Video_matrizen4/>
+              </>
+            }
+          />
+          <Route
+            path="video_matrizen5"
+            element={
+              <>
+                <Header />
+                <Video_matrizen5/>
+              </>
+            }
+          />
+          <Route
+            path="video_businesstypes1"
+            element={
+              <>
+                <Header />
+                <Video_businesstypes1/>
+              </>
+            }
+          />
+          <Route
+            path="video_businesstypes2"
+            element={
+              <>
+                <Header />
+                <Video_businesstypes2/>
+              </>
+            }
+          />
+          <Route
+            path="video_businesstypes3"
+            element={
+              <>
+                <Header />
+                <Video_businesstypes3/>
+              </>
+            }
+          />
+          <Route
+            path="video_businesstypes4"
+            element={
+              <>
+                <Header />
+                <Video_businesstypes4/>
+              </>
+            }
+          />
+          <Route
+            path="video_businesstypes5"
+            element={
+              <>
+                <Header />
+                <Video_businesstypes5/>
+              </>
+            }
+          />
+          <Route
+            path="video_Businessfunctions1"
+            element={
+              <>
+                <Header />
+                <Video_businesstypes5/>
+              </>
+            }
+          />
+          <Route
+            path="video_Businessfunctions2"
+            element={
+              <>
+                <Header />
+                <Video_businesstypes5/>
+              </>
+            }
+          />
+          <Route
+            path="video_Businessfunctions3"
+            element={
+              <>
+                <Header />
+                <Video_businesstypes5/>
+              </>
+            }
+          />
+          <Route
+            path="video_Businessfunctions4"
+            element={
+              <>
+                <Header />
+                <Video_businesstypes5/>
+              </>
+            }
+          />
+          <Route
+            path="video_Businessfunctions5"
+            element={
+              <>
+                <Header />
+                <Video_businesstypes5/>
+              </>
+            }
+          />
+          
 
 
           <Route
@@ -2821,6 +3234,69 @@ function App(){
               <>
                <Header />
                 <Matrizen/>
+              </>
+            }
+          />
+          <Route
+            path="businessenglish1"
+            element={
+              <>
+               <Header />
+                <BusinessEnglish1/>
+              </>
+            }
+          />
+          <Route
+            path="businesstypes"
+            element={
+              <>
+               <Header />
+                <Businesstypes/>
+              </>
+            }
+          />
+          <Route
+            path="Businessfunctions"
+            element={
+              <>
+               <Header />
+                <Businessfunctions/>
+              </>
+            }
+          />
+          <Route
+            path="entrpreneurship"
+            element={
+              <>
+               <Header />
+                <Entrepreneurship/>
+              </>
+            }
+          />
+          <Route
+            path="finance"
+            element={
+              <>
+               <Header />
+                <Finance/>
+              </>
+            }
+          />
+          <Route
+            path="marketing"
+            element={
+              <>
+               <Header />
+                <Marketing/>
+              </>
+            }
+          />
+          <Route
+            path="teamwork"
+            element={
+              <>
+               <Header />
+                <Teamwork/>
               </>
             }
           />

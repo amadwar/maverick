@@ -1,0 +1,208 @@
+[
+  {
+    "@id": "_:na36f9d03b18a49afa5d184cd5882a06cb6",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6256584580621336"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "_Cw9uXfgTLQ"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:na36f9d03b18a49afa5d184cd5882a06cb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/_Cw9uXfgTLQ/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Microsoft Teams - Best Features "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=_Cw9uXfgTLQ"
+      }
+    ]
+  },
+  {
+    "@id": "_:na36f9d03b18a49afa5d184cd5882a06cb2",
+    "@type": [
+      "https://schema.org/DefinedTerm"
+    ],
+    "https://schema.org/termCode": [
+      {
+        "@value": "Teamwork"
+      }
+    ]
+  },
+  {
+    "@id": "_:na36f9d03b18a49afa5d184cd5882a06cb4",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6297566632047602"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "Rj2EckhLg20"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:na36f9d03b18a49afa5d184cd5882a06cb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/Rj2EckhLg20/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Virtual Team Building Activities [IDEAS FOR REMOTE TEAMS] "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=Rj2EckhLg20"
+      }
+    ]
+  },
+  {
+    "@id": "_:na36f9d03b18a49afa5d184cd5882a06cb5",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.7050770548994006"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "TW_B1skghSY"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:na36f9d03b18a49afa5d184cd5882a06cb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/TW_B1skghSY/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Phasen der Teamentwicklung nach Tuckman: Alles Wichtige zur Teamuhr "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=TW_B1skghSY"
+      }
+    ]
+  },
+  {
+    "@id": "_:na36f9d03b18a49afa5d184cd5882a06cb3",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6519881148115235"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "G10q8lLQI0Q"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:na36f9d03b18a49afa5d184cd5882a06cb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/G10q8lLQI0Q/hq720.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-HYAC8BCKAgwIABABGDYgZShbMA8=&rs=AOn4CLAZ3uTji3H_soM0tAVrRXIqhww6_Q"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Getting started with groups and teams provisioning "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=G10q8lLQI0Q"
+      }
+    ]
+  },
+  {
+    "@id": "_:na36f9d03b18a49afa5d184cd5882a06cb1",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5774062103873604"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "pIV328dhR88"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:na36f9d03b18a49afa5d184cd5882a06cb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/pIV328dhR88/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Meeting Management Techniques for Project Managers | Effective Team Meetings | Invensis Learning "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=pIV328dhR88"
+      }
+    ]
+  }
+]

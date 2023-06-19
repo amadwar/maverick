@@ -1,0 +1,208 @@
+[
+  {
+    "@id": "_:n4860eb2da6c4425c913b51e18648bbb5b6",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5891070021688054"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "NK25beIsBfQ"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n4860eb2da6c4425c913b51e18648bbb5b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/NK25beIsBfQ/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "How to (not) choose a startup to join: lessons from Fast "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=NK25beIsBfQ"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4860eb2da6c4425c913b51e18648bbb5b2",
+    "@type": [
+      "https://schema.org/DefinedTerm"
+    ],
+    "https://schema.org/termCode": [
+      {
+        "@value": "Entrepreneurship"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4860eb2da6c4425c913b51e18648bbb5b3",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.619060805017247"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "OB2t8UvXMWU"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n4860eb2da6c4425c913b51e18648bbb5b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/OB2t8UvXMWU/hqdefault.jpg?sqp=-oaymwEXCJADEOABSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBokuxqbFEIYtHU3SBbH4rI1A-m_A"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Creating a Sales and Business Development Strategy - Entrepreneurship 101 2009/10 "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=OB2t8UvXMWU"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4860eb2da6c4425c913b51e18648bbb5b1",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5814218971109641"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "owS4NQmzv2w"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n4860eb2da6c4425c913b51e18648bbb5b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/owS4NQmzv2w/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "How to start your own business without investors | Nicholas Hänny | TEDxHochschuleLuzern "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=owS4NQmzv2w"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4860eb2da6c4425c913b51e18648bbb5b5",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5839248822086227"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "gdzkeVd20QQ"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n4860eb2da6c4425c913b51e18648bbb5b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/gdzkeVd20QQ/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "How to Market Your Business | Opening a Liquor Store "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=gdzkeVd20QQ"
+      }
+    ]
+  },
+  {
+    "@id": "_:n4860eb2da6c4425c913b51e18648bbb5b4",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6165323587402565"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "0H2dsCyFApY"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n4860eb2da6c4425c913b51e18648bbb5b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/0H2dsCyFApY/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Was unternimmt ein Unternehmer? | Reportage mit Willi Weitzel | Willi wills wissen "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=0H2dsCyFApY"
+      }
+    ]
+  }
+]

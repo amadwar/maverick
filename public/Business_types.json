@@ -1,0 +1,208 @@
+[
+  {
+    "@id": "_:n5bb94cc2b6d642c693573e0d456a968fb4",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5294427548316243"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "Xqer4ADWUd8"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n5bb94cc2b6d642c693573e0d456a968fb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/Xqer4ADWUd8/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Unternehmensformen erklärt: GmbH, AG, UG, GbR, Inc., Ltd uvm. einfach erklärt! "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=Xqer4ADWUd8"
+      }
+    ]
+  },
+  {
+    "@id": "_:n5bb94cc2b6d642c693573e0d456a968fb2",
+    "@type": [
+      "https://schema.org/DefinedTerm"
+    ],
+    "https://schema.org/termCode": [
+      {
+        "@value": "Business types"
+      }
+    ]
+  },
+  {
+    "@id": "_:n5bb94cc2b6d642c693573e0d456a968fb5",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.49654887499008493"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "-NBAV5dwepQ"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n5bb94cc2b6d642c693573e0d456a968fb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/-NBAV5dwepQ/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "B2B Sales Cold Calling: Objections, Roadblocks and Customer Stall Tactics "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=-NBAV5dwepQ"
+      }
+    ]
+  },
+  {
+    "@id": "_:n5bb94cc2b6d642c693573e0d456a968fb1",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5531984671571563"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "u6wG8pQaT3M"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n5bb94cc2b6d642c693573e0d456a968fb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/u6wG8pQaT3M/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Was ist eigentlich BUSINESS CASUAL? ● HERREN STYLE TIPPS "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=u6wG8pQaT3M"
+      }
+    ]
+  },
+  {
+    "@id": "_:n5bb94cc2b6d642c693573e0d456a968fb3",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5260330746107551"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "fCB8WMup9Qg"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n5bb94cc2b6d642c693573e0d456a968fb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/fCB8WMup9Qg/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "The 5 Types of Accountants "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=fCB8WMup9Qg"
+      }
+    ]
+  },
+  {
+    "@id": "_:n5bb94cc2b6d642c693573e0d456a968fb6",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5253518012527134"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "mqUIyHmtDho"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n5bb94cc2b6d642c693573e0d456a968fb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/mqUIyHmtDho/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "HSC Business Studies Operations Summary "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=mqUIyHmtDho"
+      }
+    ]
+  }
+]

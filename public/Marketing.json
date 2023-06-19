@@ -1,0 +1,208 @@
+[
+  {
+    "@id": "_:nb2b09cd972cb42318fbd8d62dabccf88b1",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5879656302434201"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "-bLvdX4KfR8"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nb2b09cd972cb42318fbd8d62dabccf88b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/-bLvdX4KfR8/hq720.jpg?v=5e3374b7"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Wie Du SICHER 1 Million € VERDIENST mit diesen 11 Marketing Tipps "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=-bLvdX4KfR8"
+      }
+    ]
+  },
+  {
+    "@id": "_:nb2b09cd972cb42318fbd8d62dabccf88b2",
+    "@type": [
+      "https://schema.org/DefinedTerm"
+    ],
+    "https://schema.org/termCode": [
+      {
+        "@value": "Marketing"
+      }
+    ]
+  },
+  {
+    "@id": "_:nb2b09cd972cb42318fbd8d62dabccf88b4",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6343697223873185"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "VzsNqYARnd0"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nb2b09cd972cb42318fbd8d62dabccf88b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/VzsNqYARnd0/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "What is Marketing? Marketing In The Real and Business World - Marketing 101 "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=VzsNqYARnd0"
+      }
+    ]
+  },
+  {
+    "@id": "_:nb2b09cd972cb42318fbd8d62dabccf88b6",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6064116081551378"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "ghFwpoH71NM"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nb2b09cd972cb42318fbd8d62dabccf88b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/ghFwpoH71NM/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "How to Develop a Marketing Strategy by Philip Kotler "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=ghFwpoH71NM"
+      }
+    ]
+  },
+  {
+    "@id": "_:nb2b09cd972cb42318fbd8d62dabccf88b3",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5995767421248168"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "LUbqRwp8NXI"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nb2b09cd972cb42318fbd8d62dabccf88b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/LUbqRwp8NXI/hqdefault.jpg?sqp=-oaymwEXCJADEOABSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCy0SNDyIjQolg2nsCObFSIbZcYvw"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "What is Digital Marketing? "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=LUbqRwp8NXI"
+      }
+    ]
+  },
+  {
+    "@id": "_:nb2b09cd972cb42318fbd8d62dabccf88b5",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6053160731618323"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "FT2mJBbU-wE"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nb2b09cd972cb42318fbd8d62dabccf88b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/FT2mJBbU-wE/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Marketing Mix: Promotion Strategy part 2 "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=FT2mJBbU-wE"
+      }
+    ]
+  }
+]

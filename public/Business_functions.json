@@ -1,0 +1,208 @@
+[
+  {
+    "@id": "_:nc16bbb31a6bc40d6b148849d1af5d3aab3",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.530475770069756"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "9rMYgG6tNkg"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nc16bbb31a6bc40d6b148849d1af5d3aab2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/9rMYgG6tNkg/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "What Does a Business Analyst Do Day to Day "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=9rMYgG6tNkg"
+      }
+    ]
+  },
+  {
+    "@id": "_:nc16bbb31a6bc40d6b148849d1af5d3aab2",
+    "@type": [
+      "https://schema.org/DefinedTerm"
+    ],
+    "https://schema.org/termCode": [
+      {
+        "@value": "Business functions"
+      }
+    ]
+  },
+  {
+    "@id": "_:nc16bbb31a6bc40d6b148849d1af5d3aab4",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6210373863152643"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "mqUIyHmtDho"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nc16bbb31a6bc40d6b148849d1af5d3aab2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/mqUIyHmtDho/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "HSC Business Studies Operations Summary "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=mqUIyHmtDho"
+      }
+    ]
+  },
+  {
+    "@id": "_:nc16bbb31a6bc40d6b148849d1af5d3aab5",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5415675305537946"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "15oDlYcqcFg"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nc16bbb31a6bc40d6b148849d1af5d3aab2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/15oDlYcqcFg/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "What Does A Business Analyst Do? The Easy Way to Understand What I Do! "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=15oDlYcqcFg"
+      }
+    ]
+  },
+  {
+    "@id": "_:nc16bbb31a6bc40d6b148849d1af5d3aab1",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5251121546226464"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "rSoDcwyoQRc"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nc16bbb31a6bc40d6b148849d1af5d3aab2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/rSoDcwyoQRc/hq720.jpg?v=60a904c4"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Introduction to Modern Internal Audit (Take Quiz in Description to get 1 CPE) "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=rSoDcwyoQRc"
+      }
+    ]
+  },
+  {
+    "@id": "_:nc16bbb31a6bc40d6b148849d1af5d3aab6",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5401562285343157"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "Y6zhGqOnPD4"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nc16bbb31a6bc40d6b148849d1af5d3aab2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/Y6zhGqOnPD4/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "IGCSE (O-level) Business Studies Paper 1 March 2020 Solved Cambridge International Exams "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=Y6zhGqOnPD4"
+      }
+    ]
+  }
+]
