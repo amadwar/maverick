@@ -330,6 +330,31 @@ import Video_businesstypes2 from "./components/Studienfächer/Videos_businesstyp
 import Video_businesstypes3 from "./components/Studienfächer/Videos_businesstypes/Video3_businesstypes";
 import Video_businesstypes4 from "./components/Studienfächer/Videos_businesstypes/Video4_businesstypes";
 import Video_businesstypes5 from "./components/Studienfächer/Videos_businesstypes/Video5_businesstypes";
+import Video_Businessfunctions5 from "./components/Studienfächer/Videos_businessfunctions/Video5_businessfunctions";
+import Video_Businessfunctions4 from "./components/Studienfächer/Videos_businessfunctions/Video4_businessfunctions";
+import Video_Businessfunctions3 from "./components/Studienfächer/Videos_businessfunctions/Video3_businessfunctions";
+import Video_Businessfunctions2 from "./components/Studienfächer/Videos_businessfunctions/Video2_businessfunctions";
+import Video_Businessfunctions1 from "./components/Studienfächer/Videos_businessfunctions/Video1_businessfunctions";
+import Video_entrpreneurship5 from "./components/Studienfächer/Videos_entrepreneurship/Video5_entrepreneurship";
+import Video_entrpreneurship4 from "./components/Studienfächer/Videos_entrepreneurship/Video4_entrepreneurship";
+import Video_entrpreneurship3 from "./components/Studienfächer/Videos_entrepreneurship/Video3_entrepreneurship";
+import Video_entrpreneurship2 from "./components/Studienfächer/Videos_entrepreneurship/Video2_entrepreneurship";
+import Video_entrpreneurship1 from "./components/Studienfächer/Videos_entrepreneurship/Video1_entrepreneurship";
+import Video_finance1 from "./components/Studienfächer/Videos_finance/Video1_finance";
+import Video_finance2 from "./components/Studienfächer/Videos_finance/Video2_finance";
+import Video_finance3 from "./components/Studienfächer/Videos_finance/Video3_finance";
+import Video_finance4 from "./components/Studienfächer/Videos_finance/Video4_finance";
+import Video_finance5 from "./components/Studienfächer/Videos_finance/Video5_finance";
+import Video_marketing1 from "./components/Studienfächer/Videos_marketing/Video1_marketing";
+import Video_marketing2 from "./components/Studienfächer/Videos_marketing/Video2_marketing";
+import Video_marketing3 from "./components/Studienfächer/Videos_marketing/Video3_marketing";
+import Video_marketing4 from "./components/Studienfächer/Videos_marketing/Video4_marketing";
+import Video_marketing5 from "./components/Studienfächer/Videos_marketing/Video5_marketing";
+import Video_teamwork1 from "./components/Studienfächer/Videos_teamwork/Video1_teamwork";
+import Video_teamwork2 from "./components/Studienfächer/Videos_teamwork/Video2_teamwork";
+import Video_teamwork3 from "./components/Studienfächer/Videos_teamwork/Video3_teamwork";
+import Video_teamwork4 from "./components/Studienfächer/Videos_teamwork/Video4_teamwork";
+import Video_teamwork5 from "./components/Studienfächer/Videos_teamwork/Video5_teamwork";
 
 
 
@@ -2798,7 +2823,7 @@ function App(){
             element={
               <>
                 <Header />
-                <Video_businesstypes5/>
+                <Video_Businessfunctions1/>
               </>
             }
           />
@@ -2807,7 +2832,7 @@ function App(){
             element={
               <>
                 <Header />
-                <Video_businesstypes5/>
+                <Video_Businessfunctions2/>
               </>
             }
           />
@@ -2816,7 +2841,7 @@ function App(){
             element={
               <>
                 <Header />
-                <Video_businesstypes5/>
+                <Video_Businessfunctions3/>
               </>
             }
           />
@@ -2825,7 +2850,7 @@ function App(){
             element={
               <>
                 <Header />
-                <Video_businesstypes5/>
+                <Video_Businessfunctions4/>
               </>
             }
           />
@@ -2834,11 +2859,190 @@ function App(){
             element={
               <>
                 <Header />
-                <Video_businesstypes5/>
+                <Video_Businessfunctions5/>
               </>
             }
           />
-          
+          <Route
+            path="video_entrpreneurship1"
+            element={
+              <>
+                <Header />
+                <Video_entrpreneurship1/>
+              </>
+            }
+          />
+          <Route
+            path="video_entrpreneurship2"
+            element={
+              <>
+                <Header />
+                <Video_entrpreneurship2/>
+              </>
+            }
+          />
+          <Route
+            path="video_entrpreneurship3"
+            element={
+              <>
+                <Header />
+                <Video_entrpreneurship3/>
+              </>
+            }
+          />
+          <Route
+            path="video_entrpreneurship4"
+            element={
+              <>
+                <Header />
+                <Video_entrpreneurship4/>
+              </>
+            }
+          />
+          <Route
+            path="video_entrpreneurship5"
+            element={
+              <>
+                <Header />
+                <Video_entrpreneurship5/>
+              </>
+            }
+          />
+          <Route
+            path="video_finance1"
+            element={
+              <>
+                <Header />
+                <Video_finance1/>
+              </>
+            }
+          />
+          <Route
+            path="video_finance2"
+            element={
+              <>
+                <Header />
+                <Video_finance2/>
+              </>
+            }
+          />
+          <Route
+            path="video_finance3"
+            element={
+              <>
+                <Header />
+                <Video_finance3/>
+              </>
+            }
+          />
+          <Route
+            path="video_finance4"
+            element={
+              <>
+                <Header />
+                <Video_finance4/>
+              </>
+            }
+          />
+          <Route
+            path="video_finance5"
+            element={
+              <>
+                <Header />
+                <Video_finance5/>
+              </>
+            }
+          />
+          <Route
+            path="video_marketing1"
+            element={
+              <>
+                <Header />
+                <Video_marketing1/>
+              </>
+            }
+          />
+          <Route
+            path="video_marketing2"
+            element={
+              <>
+                <Header />
+                <Video_marketing2/>
+              </>
+            }
+          />
+          <Route
+            path="video_marketing3"
+            element={
+              <>
+                <Header />
+                <Video_marketing3/>
+              </>
+            }
+          />
+          <Route
+            path="video_marketing4"
+            element={
+              <>
+                <Header />
+                <Video_marketing4/>
+              </>
+            }
+          />
+          <Route
+            path="video_marketing5"
+            element={
+              <>
+                <Header />
+                <Video_marketing5/>
+              </>
+            }
+          />
+          <Route
+            path="video_teamwork1"
+            element={
+              <>
+                <Header />
+                <Video_teamwork1/>
+              </>
+            }
+          />
+          <Route
+            path="video_teamwork2"
+            element={
+              <>
+                <Header />
+                <Video_teamwork2/>
+              </>
+            }
+          />
+          <Route
+            path="video_teamwork3"
+            element={
+              <>
+                <Header />
+                <Video_teamwork3/>
+              </>
+            }
+          />
+          <Route
+            path="video_teamwork4"
+            element={
+              <>
+                <Header />
+                <Video_teamwork4/>
+              </>
+            }
+          />
+          <Route
+            path="video_teamwork5"
+            element={
+              <>
+                <Header />
+                <Video_teamwork5/>
+              </>
+            }
+          />
 
 
           <Route
