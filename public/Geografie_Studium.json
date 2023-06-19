@@ -1,0 +1,247 @@
+[
+  {
+    "@id": "_:n6285bafd7c9d408583565f0e9a397f08b3",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.7280978317078621"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "rRAzB_9NiAI"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n6285bafd7c9d408583565f0e9a397f08b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/rRAzB_9NiAI/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Geography  የ 2013 የዩኒቨርስቲ  ተማሪዎች ኮመን ኮርስ  unit 1 ክፍል 1 Geography 2013 fresh man course unit 1 part 1 "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=rRAzB_9NiAI"
+      }
+    ]
+  },
+  {
+    "@id": "_:n6285bafd7c9d408583565f0e9a397f08b2",
+    "@type": [
+      "https://schema.org/DefinedTerm"
+    ],
+    "https://schema.org/termCode": [
+      {
+        "@value": "Geografie studieren"
+      }
+    ]
+  },
+  {
+    "@id": "_:n6285bafd7c9d408583565f0e9a397f08b6",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6064162383247751"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "3BQQbAyPm3M"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n6285bafd7c9d408583565f0e9a397f08b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/3BQQbAyPm3M/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Geomorphology: Superimposed and Antecedent drainage "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=3BQQbAyPm3M"
+      }
+    ]
+  },
+  {
+    "@id": "_:n6285bafd7c9d408583565f0e9a397f08b4",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5885088135411372"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "xNXj57Q0c8A"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n6285bafd7c9d408583565f0e9a397f08b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/xNXj57Q0c8A/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Geography Mapwork: Explanation of the Mapcode "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=xNXj57Q0c8A"
+      }
+    ]
+  },
+  {
+    "@id": "_:n6285bafd7c9d408583565f0e9a397f08b1",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6165996148835664"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "vTJjT8_sb00"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n6285bafd7c9d408583565f0e9a397f08b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/vTJjT8_sb00/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Geography Mapwork: Measurement of Distance and Area "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=vTJjT8_sb00"
+      }
+    ]
+  },
+  {
+    "@id": "_:n6285bafd7c9d408583565f0e9a397f08b5",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6893848552534259"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "rQohzKZAN7o"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n6285bafd7c9d408583565f0e9a397f08b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/rQohzKZAN7o/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "A Different Way to Teach Geography | Geography Teaching Tips "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=rQohzKZAN7o"
+      }
+    ]
+  },
+  {
+      "@id": "_:n6285bafd7c9d408583565f0e9a397f08b7",
+      "@type": [
+        "https://schema.org/LearningResource"
+      ],
+      "https://schema.org/cosineSimilarity": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#float",
+          "@value": ""
+        }
+      ],
+      "https://schema.org/identifier": [
+        {
+          "@value": "106089"
+        }
+      ],
+      "https://schema.org/teaches": [
+        {
+          "@id": "_:n6285bafd7c9d408583565f0e9a397f08b2"
+        }
+      ],
+      "https://schema.org/thumbnailUrl": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+          "@value": ""
+        }
+      ],
+      "https://schema.org/title": [
+        {
+          "@value": "Methoden in der Geographie "
+        }
+      ],
+      "https://schema.org/url": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+          "@value": "https://de.serlo.org/106089"
+        }
+      ]
+    }  
+]

@@ -42,7 +42,7 @@
   flex-direction: column;
   justify-content: flex-start;
   align-self: flex-start;
-  align-items: stretch;
+  align-items: flex-start;
   overflow: auto;
   white-space: nowrap;
   padding: 1rem;

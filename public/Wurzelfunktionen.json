@@ -1,0 +1,247 @@
+[
+  {
+    "@id": "_:nd9244eef0f20472e8eefb428531622dfb3",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5974959568509628"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "_JSOqSETQZ8"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nd9244eef0f20472e8eefb428531622dfb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/_JSOqSETQZ8/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Wurzelgleichungen mit ineinander geschachtelten Wurzeln, Beispiel vorgerechnet "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=_JSOqSETQZ8"
+      }
+    ]
+  },
+  {
+    "@id": "_:nd9244eef0f20472e8eefb428531622dfb2",
+    "@type": [
+      "https://schema.org/DefinedTerm"
+    ],
+    "https://schema.org/termCode": [
+      {
+        "@value": "Wurzelfunktionen"
+      }
+    ]
+  },
+  {
+    "@id": "_:nd9244eef0f20472e8eefb428531622dfb6",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5942160882653191"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "usBJBhB05Ig"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nd9244eef0f20472e8eefb428531622dfb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/usBJBhB05Ig/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "WURZELN VEREINFACHEN und Wurzeln zusammenfassen mit Variablen – Beispiele mit Brüchen "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=usBJBhB05Ig"
+      }
+    ]
+  },
+  {
+    "@id": "_:nd9244eef0f20472e8eefb428531622dfb5",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5953837238635438"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "gmNBUYJM42A"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nd9244eef0f20472e8eefb428531622dfb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/gmNBUYJM42A/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Potenzen und Wurzeln vereinfachen – Potenzen mit rationalen Exponenten (Klasse 10) "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=gmNBUYJM42A"
+      }
+    ]
+  },
+  {
+    "@id": "_:nd9244eef0f20472e8eefb428531622dfb1",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6914838896719991"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "mjciV6mTL8I"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nd9244eef0f20472e8eefb428531622dfb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/mjciV6mTL8I/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Wurzelgesetze, Rechenregeln für Wurzeln, Radizieren, Radikand, Wurzelexponent "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=mjciV6mTL8I"
+      }
+    ]
+  },
+  {
+    "@id": "_:nd9244eef0f20472e8eefb428531622dfb4",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6448890008509152"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "xa5vrWBjafg"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nd9244eef0f20472e8eefb428531622dfb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/xa5vrWBjafg/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Wurzeln addieren - Wurzelrechnung | Lehrerschmidt "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=xa5vrWBjafg"
+      }
+    ]
+  },
+  {
+      "@id": "_:nd9244eef0f20472e8eefb428531622dfb7",
+      "@type": [
+        "https://schema.org/LearningResource"
+      ],
+      "https://schema.org/cosineSimilarity": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#float",
+          "@value": ""
+        }
+      ],
+      "https://schema.org/identifier": [
+        {
+          "@value": "1757"
+        }
+      ],
+      "https://schema.org/teaches": [
+        {
+          "@id": "_:nd9244eef0f20472e8eefb428531622dfb2"
+        }
+      ],
+      "https://schema.org/thumbnailUrl": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+          "@value": ""
+        }
+      ],
+      "https://schema.org/title": [
+        {
+          "@value": "Wurzelfunktion"
+        }
+      ],
+      "https://schema.org/url": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+          "@value": "https://de.serlo.org/1757"
+        }
+      ]
+   }  
+]

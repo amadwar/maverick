@@ -1,0 +1,247 @@
+[
+  {
+    "@id": "_:n52a9bd51da0c4cacb57d582d755fe996b4",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.7066499671693888"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "UnVZs2EaEjI"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n52a9bd51da0c4cacb57d582d755fe996b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/UnVZs2EaEjI/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Ex:  Find the Intercepts, Asymptotes, and Hole of a Rational Function "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=UnVZs2EaEjI"
+      }
+    ]
+  },
+  {
+    "@id": "_:n52a9bd51da0c4cacb57d582d755fe996b2",
+    "@type": [
+      "https://schema.org/DefinedTerm"
+    ],
+    "https://schema.org/termCode": [
+      {
+        "@value": "Ganzrationale Funktionen"
+      }
+    ]
+  },
+  {
+    "@id": "_:n52a9bd51da0c4cacb57d582d755fe996b6",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6949149880064117"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "b25InOh-AUk"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n52a9bd51da0c4cacb57d582d755fe996b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/b25InOh-AUk/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Ganzrationale Funktionen bestimmen "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=b25InOh-AUk"
+      }
+    ]
+  },
+  {
+    "@id": "_:n52a9bd51da0c4cacb57d582d755fe996b5",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.7420868610689495"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "vlYTaVPMikA"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n52a9bd51da0c4cacb57d582d755fe996b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/vlYTaVPMikA/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Domain and Range of Rational Functions | General Mathematics | Prof D "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=vlYTaVPMikA"
+      }
+    ]
+  },
+  {
+    "@id": "_:n52a9bd51da0c4cacb57d582d755fe996b1",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.7323852435463367"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "sjhwB-MmghY"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n52a9bd51da0c4cacb57d582d755fe996b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/sjhwB-MmghY/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Verhalten im UNENDLICHEN – ganzrationale Funktionen, GRENZWERTE Polynomfunktion "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=sjhwB-MmghY"
+      }
+    ]
+  },
+  {
+    "@id": "_:n52a9bd51da0c4cacb57d582d755fe996b3",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.8113595583277197"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "9xEt_kuVnQk"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n52a9bd51da0c4cacb57d582d755fe996b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/9xEt_kuVnQk/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Eigenschaften ganzrationaler Funktionen "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=9xEt_kuVnQk"
+      }
+    ]
+  },
+  {
+      "@id": "_:n52a9bd51da0c4cacb57d582d755fe996b7",
+      "@type": [
+        "https://schema.org/LearningResource"
+      ],
+      "https://schema.org/cosineSimilarity": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#float",
+          "@value": ""
+        }
+      ],
+      "https://schema.org/identifier": [
+        {
+          "@value": "51369"
+        }
+      ],
+      "https://schema.org/teaches": [
+        {
+          "@id": "_:n52a9bd51da0c4cacb57d582d755fe996b2"
+        }
+      ],
+      "https://schema.org/thumbnailUrl": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+          "@value": ""
+        }
+      ],
+      "https://schema.org/title": [
+        {
+          "@value": "Ganzrationale Funktionen (Polynomfunktionen)"
+        }
+      ],
+      "https://schema.org/url": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+          "@value": "https://de.serlo.org/51369"
+        }
+      ]
+    }  
+]

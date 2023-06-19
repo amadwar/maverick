@@ -1,0 +1,208 @@
+[
+  {
+    "@id": "_:n9896caadcfc643a8949a58da7fa225dcb1",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5475080265333955"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "EE6z7YHe-aM"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n9896caadcfc643a8949a58da7fa225dcb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/EE6z7YHe-aM/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "The physics of running "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=EE6z7YHe-aM"
+      }
+    ]
+  },
+  {
+    "@id": "_:n9896caadcfc643a8949a58da7fa225dcb2",
+    "@type": [
+      "https://schema.org/DefinedTerm"
+    ],
+    "https://schema.org/termCode": [
+      {
+        "@value": "Sportwissenschaft studieren"
+      }
+    ]
+  },
+  {
+    "@id": "_:n9896caadcfc643a8949a58da7fa225dcb4",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.569929536518254"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "fF9qrV7P8tk"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n9896caadcfc643a8949a58da7fa225dcb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/fF9qrV7P8tk/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Action Words, Part 1 (Classroom Physical Activity Breaks) "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=fF9qrV7P8tk"
+      }
+    ]
+  },
+  {
+    "@id": "_:n9896caadcfc643a8949a58da7fa225dcb6",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5294035118033904"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "YaQaptix1t4"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n9896caadcfc643a8949a58da7fa225dcb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/YaQaptix1t4/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Simple Assessment With Plickers and Magnets "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=YaQaptix1t4"
+      }
+    ]
+  },
+  {
+    "@id": "_:n9896caadcfc643a8949a58da7fa225dcb5",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6616468085467193"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "cUPHpI9-aFc"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n9896caadcfc643a8949a58da7fa225dcb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/cUPHpI9-aFc/hqdefault.jpg?sqp=-oaymwEXCJADEOABSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBfrB2t6L6lp3_EqHyjdtwrDUrB1Q"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "#Deutsch #lernen B2, C1 Niveau #Thema Sport "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=cUPHpI9-aFc"
+      }
+    ]
+  },
+  {
+    "@id": "_:n9896caadcfc643a8949a58da7fa225dcb3",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5795611746276765"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "ruj7OPiY8fk"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n9896caadcfc643a8949a58da7fa225dcb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/ruj7OPiY8fk/hqdefault.jpg?sqp=-oaymwEXCJADEOABSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBH2Goun7O4C-e8FNCpV9h34IyslA"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Understanding Athletic Pubalgia & Pelvic Imbalances in Athletes with Dr Emily Splichal "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=ruj7OPiY8fk"
+      }
+    ]
+  }
+]

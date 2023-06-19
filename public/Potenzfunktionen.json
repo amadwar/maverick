@@ -1,0 +1,247 @@
+[
+  {
+    "@id": "_:n1568b43274fb4782bb9e6a1bab45bf78b5",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6709894665838697"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "6G3pDXxzvRA"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n1568b43274fb4782bb9e6a1bab45bf78b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/6G3pDXxzvRA/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Welche Potenzgesetze gibt es? Übersicht + Übung für Potenzgesetze mit Anwendungsaufgaben I Mathe "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=6G3pDXxzvRA"
+      }
+    ]
+  },
+  {
+    "@id": "_:n1568b43274fb4782bb9e6a1bab45bf78b2",
+    "@type": [
+      "https://schema.org/DefinedTerm"
+    ],
+    "https://schema.org/termCode": [
+      {
+        "@value": "Potenzfunktionen"
+      }
+    ]
+  },
+  {
+    "@id": "_:n1568b43274fb4782bb9e6a1bab45bf78b6",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6571722345061818"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "PA2kLyGRIzg"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n1568b43274fb4782bb9e6a1bab45bf78b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/PA2kLyGRIzg/hq720.jpg?v=63694a9d"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Potenzgesetze (ausführlich und komplett mit Beispielen) "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=PA2kLyGRIzg"
+      }
+    ]
+  },
+  {
+    "@id": "_:n1568b43274fb4782bb9e6a1bab45bf78b4",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6511808391270503"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "1l2kgi4DOOk"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n1568b43274fb4782bb9e6a1bab45bf78b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/1l2kgi4DOOk/hqdefault.jpg?sqp=-oaymwEXCJADEOABSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAoGdUQ07YF0vudHjueXroW1Nv1Yw"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Potato Potential Divider "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=1l2kgi4DOOk"
+      }
+    ]
+  },
+  {
+    "@id": "_:n1568b43274fb4782bb9e6a1bab45bf78b1",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6360915124329879"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "HzZnNx9EeaE"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n1568b43274fb4782bb9e6a1bab45bf78b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/HzZnNx9EeaE/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Potenzgesetze I Potenzregeln I musstewissen Mathe "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=HzZnNx9EeaE"
+      }
+    ]
+  },
+  {
+    "@id": "_:n1568b43274fb4782bb9e6a1bab45bf78b3",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6923337721749672"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "7BUVB-H_T9U"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n1568b43274fb4782bb9e6a1bab45bf78b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/7BUVB-H_T9U/hq720.jpg?v=5e5e62ac"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Potenzen: alles, was Du wissen musst: Definition, Potenzgesetze, negative und gebrochene Exponenten "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=7BUVB-H_T9U"
+      }
+    ]
+  },
+  {
+      "@id": "_:n1568b43274fb4782bb9e6a1bab45bf78b7",
+      "@type": [
+        "https://schema.org/LearningResource"
+      ],
+      "https://schema.org/cosineSimilarity": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#float",
+          "@value": ""
+        }
+      ],
+      "https://schema.org/identifier": [
+        {
+          "@value": "51404"
+        }
+      ],
+      "https://schema.org/teaches": [
+        {
+          "@id": "_:n1568b43274fb4782bb9e6a1bab45bf78b2"
+        }
+      ],
+      "https://schema.org/thumbnailUrl": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+          "@value": ""
+        }
+      ],
+      "https://schema.org/title": [
+        {
+          "@value": "Potenzfunktionen mit natürlichen Exponenten"
+        }
+      ],
+      "https://schema.org/url": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+          "@value": "https://de.serlo.org/51404"
+        }
+      ]
+    }  
+]

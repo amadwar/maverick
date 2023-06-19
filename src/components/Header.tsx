@@ -24,9 +24,33 @@ const Header: React.FC = () => {
       }
     };
   }, [timeoutId]);
-
+  
   const handleSearch = (e: React.FormEvent) => {
     e.preventDefault();
+    if(inputValue.trim().toLowerCase() === 'mathe1'){
+      setShowNoResultsMessage(false);
+      navigate('/suchseite_mathe1');
+    }
+    if(inputValue.trim().toLowerCase() === 'sportwissenschaft'){
+      setShowNoResultsMessage(false);
+      navigate('/suchseite_sportwissenschaft');
+    }
+    if(inputValue.trim().toLowerCase() === 'musikwissenschaft'){
+      setShowNoResultsMessage(false);
+      navigate('/suchseite_musikwissenschaft');
+    }
+    if(inputValue.trim().toLowerCase() === 'kunstgeschichte'){
+      setShowNoResultsMessage(false);
+      navigate('/suchseite_kunstgeschichte');
+    }
+    if(inputValue.trim().toLowerCase() === 'ethnologie'){
+      setShowNoResultsMessage(false);
+      navigate('/suchseite_ethnologie');
+    }
+    if(inputValue.trim().toLowerCase() === 'geografie'){
+      setShowNoResultsMessage(false);
+      navigate('/suchseite_geografie');
+    }
     if(inputValue.trim().toLowerCase() === 'philosophie'){
       setShowNoResultsMessage(false);
       navigate('/suchseite_philosophie');

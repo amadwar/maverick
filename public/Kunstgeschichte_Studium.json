@@ -1,0 +1,247 @@
+[
+  {
+    "@id": "_:ne8facd9d0b034e4e9116b49a8f0a59aab6",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.622417120723814"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "Jdbjzs2_1rY"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:ne8facd9d0b034e4e9116b49a8f0a59aab2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/Jdbjzs2_1rY/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "【This isn't ART?】Studying Art at University "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=Jdbjzs2_1rY"
+      }
+    ]
+  },
+  {
+    "@id": "_:ne8facd9d0b034e4e9116b49a8f0a59aab2",
+    "@type": [
+      "https://schema.org/DefinedTerm"
+    ],
+    "https://schema.org/termCode": [
+      {
+        "@value": "Kunstgeschichte studieren"
+      }
+    ]
+  },
+  {
+    "@id": "_:ne8facd9d0b034e4e9116b49a8f0a59aab1",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6539850282498308"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "0wuTi87mCyc"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:ne8facd9d0b034e4e9116b49a8f0a59aab2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/0wuTi87mCyc/hq720_2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYfyBAKDQwDw==&rs=AOn4CLDQ5bogiON7XJ2uICfBTjW8bWyisQ"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Let’s see William Kentridge at London’s Royal Academy of Arts. #art #arthistory #london "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=0wuTi87mCyc"
+      }
+    ]
+  },
+  {
+    "@id": "_:ne8facd9d0b034e4e9116b49a8f0a59aab4",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6537775939809862"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "z4jSchxv6t4"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:ne8facd9d0b034e4e9116b49a8f0a59aab2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/z4jSchxv6t4/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Henri Matisse Understanding Modern Art "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=z4jSchxv6t4"
+      }
+    ]
+  },
+  {
+    "@id": "_:ne8facd9d0b034e4e9116b49a8f0a59aab5",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5959520232442506"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "SNhmSdLDmto"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:ne8facd9d0b034e4e9116b49a8f0a59aab2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/SNhmSdLDmto/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "The Kiss by Gustav Klimt: Great Art Explained "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=SNhmSdLDmto"
+      }
+    ]
+  },
+  {
+    "@id": "_:ne8facd9d0b034e4e9116b49a8f0a59aab3",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5971853552382014"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "7csvWF6OU40"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:ne8facd9d0b034e4e9116b49a8f0a59aab2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/7csvWF6OU40/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "The Revolutionary Paintings of Jean-Michel Basquiat "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=7csvWF6OU40"
+      }
+    ]
+  },
+  {
+      "@id": "_:ne8facd9d0b034e4e9116b49a8f0a59aab7",
+      "@type": [
+        "https://schema.org/LearningResource"
+      ],
+      "https://schema.org/cosineSimilarity": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#float",
+          "@value": ""
+        }
+      ],
+      "https://schema.org/identifier": [
+        {
+          "@value": "214865"
+        }
+      ],
+      "https://schema.org/teaches": [
+        {
+          "@id": "_:ne8facd9d0b034e4e9116b49a8f0a59aab2"
+        }
+      ],
+      "https://schema.org/thumbnailUrl": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+          "@value": ""
+        }
+      ],
+      "https://schema.org/title": [
+        {
+          "@value": "Barock (um 1600-1720) "
+        }
+      ],
+      "https://schema.org/url": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+          "@value": "https://de.serlo.org/214865"
+        }
+      ]
+    }  
+]

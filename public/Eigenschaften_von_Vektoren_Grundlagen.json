@@ -1,0 +1,208 @@
+[
+  {
+    "@id": "_:n2afb5a9b075d4a68af97bc4514e73acfb6",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.7082094750052911"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "_YkIivLaVJs"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n2afb5a9b075d4a68af97bc4514e73acfb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/_YkIivLaVJs/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Introduction to Vectors "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=_YkIivLaVJs"
+      }
+    ]
+  },
+  {
+    "@id": "_:n2afb5a9b075d4a68af97bc4514e73acfb2",
+    "@type": [
+      "https://schema.org/DefinedTerm"
+    ],
+    "https://schema.org/termCode": [
+      {
+        "@value": "Eigenschaften von Vektoren (Grundlagen)"
+      }
+    ]
+  },
+  {
+    "@id": "_:n2afb5a9b075d4a68af97bc4514e73acfb1",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.685672154564191"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "R4nJTT60zU8"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n2afb5a9b075d4a68af97bc4514e73acfb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/R4nJTT60zU8/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Grundlagen VEKTOREN – Einstieg Vektorgeometrie einfach erklärt "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=R4nJTT60zU8"
+      }
+    ]
+  },
+  {
+    "@id": "_:n2afb5a9b075d4a68af97bc4514e73acfb3",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6176493649086336"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "a64RYUtIAYc"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n2afb5a9b075d4a68af97bc4514e73acfb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/a64RYUtIAYc/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "M4ML - Linear Algebra - 1.4 Operations with vectors "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=a64RYUtIAYc"
+      }
+    ]
+  },
+  {
+    "@id": "_:n2afb5a9b075d4a68af97bc4514e73acfb4",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6215031965471778"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "WXWH1mW8p2I"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n2afb5a9b075d4a68af97bc4514e73acfb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/WXWH1mW8p2I/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "MATHEMATICS - II (R18-M2) - Unit 4 - Class 1 - VECTOR DIFFERENTIATION - DEL & GRADIENT "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=WXWH1mW8p2I"
+      }
+    ]
+  },
+  {
+    "@id": "_:n2afb5a9b075d4a68af97bc4514e73acfb5",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6104242509591723"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "S3cwBadNqoc"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n2afb5a9b075d4a68af97bc4514e73acfb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/S3cwBadNqoc/hqdefault.jpg?sqp=-oaymwEXCJADEOABSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAJVqo0sWeR-B_8P1bZsXByN8h9fg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "scalar and vector triple product "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=S3cwBadNqoc"
+      }
+    ]
+  }
+]

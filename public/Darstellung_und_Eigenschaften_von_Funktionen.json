@@ -1,0 +1,248 @@
+[
+  {
+    "@id": "_:n07b20d6a64bf4514be2b73f77145ced2b6",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6525981199150429"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "ng1-04ka2Zs"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n07b20d6a64bf4514be2b73f77145ced2b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/ng1-04ka2Zs/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Funktionen einfach erklärt I musstewissen Mathe "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=ng1-04ka2Zs"
+      }
+    ]
+  },
+  {
+    "@id": "_:n07b20d6a64bf4514be2b73f77145ced2b2",
+    "@type": [
+      "https://schema.org/DefinedTerm"
+    ],
+    "https://schema.org/termCode": [
+      {
+        "@value": "Darstellung und Eigenschaften von Funktionen"
+      }
+    ]
+  },
+  {
+    "@id": "_:n07b20d6a64bf4514be2b73f77145ced2b3",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6605988296393126"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "7CqvQ7Of4gc"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n07b20d6a64bf4514be2b73f77145ced2b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/7CqvQ7Of4gc/hqdefault.jpg?sqp=-oaymwEXCJADEOABSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDhI-0jHIlvKe8kzOLNHar71cWoHw"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "ACT/SAT Math Review - Advanced Topics - Functions "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=7CqvQ7Of4gc"
+      }
+    ]
+  },
+  {
+    "@id": "_:n07b20d6a64bf4514be2b73f77145ced2b4",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6555577400806762"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "r4ZBN_Rg9Xo"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n07b20d6a64bf4514be2b73f77145ced2b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/r4ZBN_Rg9Xo/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Quadratische Funktionen: Anwendungsaufgaben Eigenschaften ablesen "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=r4ZBN_Rg9Xo"
+      }
+    ]
+  },
+  {
+    "@id": "_:n07b20d6a64bf4514be2b73f77145ced2b1",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6816988943110884"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "3umbQ-Sk_E0"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n07b20d6a64bf4514be2b73f77145ced2b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/3umbQ-Sk_E0/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Verkettung von Funktionen inkl. Ableitung | Mathe by Daniel Jung "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=3umbQ-Sk_E0"
+      }
+    ]
+  },
+  {
+    "@id": "_:n07b20d6a64bf4514be2b73f77145ced2b5",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6665344157873113"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "oQ3jQmHEElg"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n07b20d6a64bf4514be2b73f77145ced2b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/oQ3jQmHEElg/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Function Operations & Compositions "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=oQ3jQmHEElg"
+      }
+    ]
+  }
+  ,
+{
+    "@id": "_:n07b20d6a64bf4514be2b73f77145ced2b7",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": ""
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "1583"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n07b20d6a64bf4514be2b73f77145ced2b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": ""
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Was ist eine Funktion?"
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://de.serlo.org/1583"
+      }
+    ]
+  }
+]

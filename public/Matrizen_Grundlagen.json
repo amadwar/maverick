@@ -1,0 +1,247 @@
+[
+  {
+    "@id": "_:n932e23b232b54e56a3fb3a5e3b2c7414b3",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.7161792782427279"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "qhdzxMcqrhM"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n932e23b232b54e56a3fb3a5e3b2c7414b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/qhdzxMcqrhM/hqdefault.jpg?sqp=-oaymwEXCJADEOABSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCYLaKjzaiaOokEIEvbnrO6M0e_UQ"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Relations - Matrix Representation,  Digraph Representation,  Reflexive, Symmetric & Transitive "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=qhdzxMcqrhM"
+      }
+    ]
+  },
+  {
+    "@id": "_:n932e23b232b54e56a3fb3a5e3b2c7414b2",
+    "@type": [
+      "https://schema.org/DefinedTerm"
+    ],
+    "https://schema.org/termCode": [
+      {
+        "@value": "Matrizen (Grundlagen)"
+      }
+    ]
+  },
+  {
+    "@id": "_:n932e23b232b54e56a3fb3a5e3b2c7414b5",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6921786023273014"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "dJ7d9wwC2sw"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n932e23b232b54e56a3fb3a5e3b2c7414b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/dJ7d9wwC2sw/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "DETERMINANTE 3x3 Matrix berechnen – Regel von Sarrus, Matrizen, Beispiele "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=dJ7d9wwC2sw"
+      }
+    ]
+  },
+  {
+    "@id": "_:n932e23b232b54e56a3fb3a5e3b2c7414b1",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.733696019720698"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "Sf91gDhVZWU"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n932e23b232b54e56a3fb3a5e3b2c7414b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/Sf91gDhVZWU/hqdefault.jpg?sqp=-oaymwEXCJADEOABSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD8bFL8wGtkMvjArcd_ggULZVyncQ"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Diagonalisation of a 3x3 matrix "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=Sf91gDhVZWU"
+      }
+    ]
+  },
+  {
+    "@id": "_:n932e23b232b54e56a3fb3a5e3b2c7414b6",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.7227722178403857"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "yNZas4zs98s"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n932e23b232b54e56a3fb3a5e3b2c7414b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/yNZas4zs98s/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Eigenvectors of a 3x3 matrix (MathsCasts) "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=yNZas4zs98s"
+      }
+    ]
+  },
+  {
+    "@id": "_:n932e23b232b54e56a3fb3a5e3b2c7414b4",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.7172873313465549"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "u1VF3JQBOac"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n932e23b232b54e56a3fb3a5e3b2c7414b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/u1VF3JQBOac/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Inverse of 4x4 Matrix Using Row Operations "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=u1VF3JQBOac"
+      }
+    ]
+  },
+  {
+      "@id": "_:n932e23b232b54e56a3fb3a5e3b2c7414b7",
+      "@type": [
+        "https://schema.org/LearningResource"
+      ],
+      "https://schema.org/cosineSimilarity": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#float",
+          "@value": ""
+        }
+      ],
+      "https://schema.org/identifier": [
+        {
+          "@value": "2009"
+        }
+      ],
+      "https://schema.org/teaches": [
+        {
+          "@id": "_:n932e23b232b54e56a3fb3a5e3b2c7414b2"
+        }
+      ],
+      "https://schema.org/thumbnailUrl": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+          "@value": ""
+        }
+      ],
+      "https://schema.org/title": [
+        {
+          "@value": "Matrizen"
+        }
+      ],
+      "https://schema.org/url": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+          "@value": "https://de.serlo.org/2009"
+        }
+      ]
+   }  
+]

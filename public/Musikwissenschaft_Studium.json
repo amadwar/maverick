@@ -1,0 +1,208 @@
+[
+  {
+    "@id": "_:ne8556b3e690941599d0a44d1a77ae871b1",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6274355963902297"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "E5JjSK9De4I"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:ne8556b3e690941599d0a44d1a77ae871b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/E5JjSK9De4I/hqdefault.jpg?sqp=-oaymwEXCJADEOABSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBuMTIfImJBcwJuX_fnz7SxbYjpkA"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "study routine | a life of Cbse 10th grader |10th Grader Study vlog| Cbse class 10th study vlog "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=E5JjSK9De4I"
+      }
+    ]
+  },
+  {
+    "@id": "_:ne8556b3e690941599d0a44d1a77ae871b2",
+    "@type": [
+      "https://schema.org/DefinedTerm"
+    ],
+    "https://schema.org/termCode": [
+      {
+        "@value": "Musikwissenschaft studieren"
+      }
+    ]
+  },
+  {
+    "@id": "_:ne8556b3e690941599d0a44d1a77ae871b3",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6279427374869673"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "nfW4hazQO0s"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:ne8556b3e690941599d0a44d1a77ae871b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/nfW4hazQO0s/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "#6 LEARN FREE MUSIC THEORY "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=nfW4hazQO0s"
+      }
+    ]
+  },
+  {
+    "@id": "_:ne8556b3e690941599d0a44d1a77ae871b6",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.653478179851624"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "1b3DsDZRGeA"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:ne8556b3e690941599d0a44d1a77ae871b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/1b3DsDZRGeA/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "real time study with me (with music) 2 hour study with breaks (no talking) "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=1b3DsDZRGeA"
+      }
+    ]
+  },
+  {
+    "@id": "_:ne8556b3e690941599d0a44d1a77ae871b4",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.643182085400867"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "Djbs_mtYyVY"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:ne8556b3e690941599d0a44d1a77ae871b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/Djbs_mtYyVY/hqdefault.jpg?sqp=-oaymwEXCJADEOABSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCq23JnvnmX5y67RBx2n4JZyAj_iw"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Baritone Ukulele Tutorial: D minor Blues Scale and Improvisation Practice "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=Djbs_mtYyVY"
+      }
+    ]
+  },
+  {
+    "@id": "_:ne8556b3e690941599d0a44d1a77ae871b5",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.649006223995451"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "n2z02J4fJwg"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:ne8556b3e690941599d0a44d1a77ae871b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/n2z02J4fJwg/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "A Beginner's Guide to Music Theory "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=n2z02J4fJwg"
+      }
+    ]
+  }
+]

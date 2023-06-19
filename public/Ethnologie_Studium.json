@@ -1,0 +1,208 @@
+[
+  {
+    "@id": "_:nbb96d2986b7c41cd8daafe098bfe9acfb6",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.578550784664436"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "saSSlSQwlwg"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nbb96d2986b7c41cd8daafe098bfe9acfb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/saSSlSQwlwg/hqdefault.jpg?sqp=-oaymwEXCJADEOABSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDAt13yXIZK0htyiFROf3CO24WPHg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "The Cherokee language "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=saSSlSQwlwg"
+      }
+    ]
+  },
+  {
+    "@id": "_:nbb96d2986b7c41cd8daafe098bfe9acfb2",
+    "@type": [
+      "https://schema.org/DefinedTerm"
+    ],
+    "https://schema.org/termCode": [
+      {
+        "@value": "Ethnologie studieren"
+      }
+    ]
+  },
+  {
+    "@id": "_:nbb96d2986b7c41cd8daafe098bfe9acfb1",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5851568890112079"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "J5aglbgTEig"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nbb96d2986b7c41cd8daafe098bfe9acfb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/J5aglbgTEig/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "An introduction to the discipline of Anthropology "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=J5aglbgTEig"
+      }
+    ]
+  },
+  {
+    "@id": "_:nbb96d2986b7c41cd8daafe098bfe9acfb4",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5426051411461569"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "thCe-iqi8RY"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nbb96d2986b7c41cd8daafe098bfe9acfb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/thCe-iqi8RY/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Literacy in a Medieval Southern African City of Stone "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=thCe-iqi8RY"
+      }
+    ]
+  },
+  {
+    "@id": "_:nbb96d2986b7c41cd8daafe098bfe9acfb3",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5498266200690451"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "CptgGaIEeLw"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nbb96d2986b7c41cd8daafe098bfe9acfb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/CptgGaIEeLw/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "5 Most Disastrous Accounts of First Contact in History "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=CptgGaIEeLw"
+      }
+    ]
+  },
+  {
+    "@id": "_:nbb96d2986b7c41cd8daafe098bfe9acfb5",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5770201867204128"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "iq4bUZMQtyY"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nbb96d2986b7c41cd8daafe098bfe9acfb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/iq4bUZMQtyY/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Rights of Scheduled Tribes | பட்டியல் பழங்குடியினரின் உரிமைகள் | Rights of ST | TNPSC Group 1 Mains "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=iq4bUZMQtyY"
+      }
+    ]
+  }
+]

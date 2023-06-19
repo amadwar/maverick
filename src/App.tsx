@@ -238,6 +238,56 @@ import Video_philosophie4 from "./components/Studienberatung/Videos_philosophie/
 import Video_philosophie3 from "./components/Studienberatung/Videos_philosophie/Video3_philosophie";
 import Video_philosophie2 from "./components/Studienberatung/Videos_philosophie/Video2_philosophie";
 import Video_philosophie1 from "./components/Studienberatung/Videos_philosophie/Video1_philosophie";
+import Ethnologie from "./components/Studienberatung/Studiengang/Ethnologie";
+import Musikwissenschaft from "./components/Studienberatung/Studiengang/Musikwissenschaft";
+import Geographie from "./components/Studienberatung/Studiengang/Geographie";
+import Sportwissenschaft from "./components/Studienberatung/Studiengang/Sportwissenschaft";
+import Kunstgeschichte from "./components/Studienberatung/Studiengang/Kunstgeschichte";
+import Suchseite_ethnologie from "./components/Studienberatung/Suchseiten_Studium/Suchseite_ethnologie";
+import Suchseite_musikwissenschaft from "./components/Studienberatung/Suchseiten_Studium/Suchseite_musikwissenschaft";
+import Suchseite_geografie from "./components/Studienberatung/Suchseiten_Studium/Suchseite_geografie";
+import Suchseite_sportwissenschaft from "./components/Studienberatung/Suchseiten_Studium/Suchseite_sportwissenschaft";
+import Suchseite_kunstgeschichte from "./components/Studienberatung/Suchseiten_Studium/Suchseite_kunstgeschichte";
+import Video_kunstgeschichte4 from "./components/Studienberatung/Videos_kunstgeschichte/Video4_kunstgeschichte";
+import Video_kunstgeschichte5 from "./components/Studienberatung/Videos_kunstgeschichte/Video5_kunstgeschichte";
+import Video_kunstgeschichte3 from "./components/Studienberatung/Videos_kunstgeschichte/Video3_kunstgeschichte";
+import Video_kunstgeschichte2 from "./components/Studienberatung/Videos_kunstgeschichte/Video2_kunstgeschichte";
+import Video_kunstgeschichte1 from "./components/Studienberatung/Videos_kunstgeschichte/Video1_kunstgeschichte";
+import Video_sportwissenschaft5 from "./components/Studienberatung/Videos_sportwissenschaft/Video5_sportwissenschaft";
+import Video_sportwissenschaft4 from "./components/Studienberatung/Videos_sportwissenschaft/Video4_sportwissenschaft";
+import Video_sportwissenschaft3 from "./components/Studienberatung/Videos_sportwissenschaft/Video3_sportwissenschaft";
+import Video_sportwissenschaft2 from "./components/Studienberatung/Videos_sportwissenschaft/Video2_sportwissenschaft";
+import Video_sportwissenschaft1 from "./components/Studienberatung/Videos_sportwissenschaft/Video1_sportwissenschaft";
+import Video_geografie5 from "./components/Studienberatung/Videos_geografie/Video5_geografie";
+import Video_geografie4 from "./components/Studienberatung/Videos_geografie/Video4_geografie";
+import Video_geografie3 from "./components/Studienberatung/Videos_geografie/Video3_geografie";
+import Video_geografie2 from "./components/Studienberatung/Videos_geografie/Video2_geografie";
+import Video_geografie1 from "./components/Studienberatung/Videos_geografie/Video1_geografie";
+import Video_musikwissenschaft5 from "./components/Studienberatung/Videos_musikwissenschaft/Video5_musikwissenschaft";
+import Video_musikwissenschaft4 from "./components/Studienberatung/Videos_musikwissenschaft/Video4_musikwissenschaft";
+import Video_musikwissenschaft3 from "./components/Studienberatung/Videos_musikwissenschaft/Video3_musikwissenschaft";
+import Video_musikwissenschaft2 from "./components/Studienberatung/Videos_musikwissenschaft/Video2_musikwissenschaft";
+import Video_musikwissenschaft1 from "./components/Studienberatung/Videos_musikwissenschaft/Video1_musikwissenschaft";
+import Video_ethnologie5 from "./components/Studienberatung/Videos_ethnologie/Video5_ethnologie";
+import Video_ethnologie4 from "./components/Studienberatung/Videos_ethnologie/Video4_ethnologie";
+import Video_ethnologie3 from "./components/Studienberatung/Videos_ethnologie/Video3_ethnologie";
+import Video_ethnologie2 from "./components/Studienberatung/Videos_ethnologie/Video2_ethnologie";
+import Video_ethnologie1 from "./components/Studienberatung/Videos_ethnologie/Video1_ethnologie";
+import Mathe1 from "./components/Studienfächer/Mathe1";
+import WurzelFkt from "./components/Studienfächer/wurzelFkt";
+import PotenzFkt from "./components/Studienfächer/potenzFkt";
+import GanzrationaleFkt from "./components/Studienfächer/ganzratiomaleFkt";
+import DarstellungVonFkt from "./components/Studienfächer/darstellungvonFkt";
+import Eigenschaftenvonvektoren from "./components/Studienfächer/EigenschaftvonVektoren";
+import Vektoroperationen from "./components/Studienfächer/Vektoroperationen";
+import Matrizen from "./components/Studienfächer/Matrizen";
+import Suchseite_mathe1 from "./components/Studienfächer/Suchseiten/Suchseite_mathe1";
+import Video_darstellungvonfunktionen5 from "./components/Studienfächer/Videos_DarstellungvonFunktionen/Video5_darstellungvonfkt";
+import Video_darstellungvonfunktionen4 from "./components/Studienfächer/Videos_DarstellungvonFunktionen/Video4_darstellungvonfkt";
+import Video_darstellungvonfunktionen3 from "./components/Studienfächer/Videos_DarstellungvonFunktionen/Video3_darstellungvonfkt";
+import Video_darstellungvonfunktionen2 from "./components/Studienfächer/Videos_DarstellungvonFunktionen/Video2_darstellungvonfkt";
+import Video_darstellungvonfunktionen1 from "./components/Studienfächer/Videos_DarstellungvonFunktionen/Video1_darstellungvonfkt";
+
 
 
 
@@ -597,6 +647,60 @@ function App(){
               <>
                 <Header />
                 <Suchseite_philosophie/>
+              </>
+            }
+          />
+          <Route
+            path="suchseite_kunstgeschichte"
+            element={
+              <>
+                <Header />
+                <Suchseite_kunstgeschichte/>
+              </>
+            }
+          />
+          <Route
+            path="suchseite_sportwissenschaft"
+            element={
+              <>
+                <Header />
+                <Suchseite_sportwissenschaft/>
+              </>
+            }
+          />
+          <Route
+            path="suchseite_geografie"
+            element={
+              <>
+                <Header />
+                <Suchseite_geografie/>
+              </>
+            }
+          />
+          <Route
+            path="suchseite_musikwissenschaft"
+            element={
+              <>
+                <Header />
+                <Suchseite_musikwissenschaft/>
+              </>
+            }
+          />
+          <Route
+            path="suchseite_ethnologie"
+            element={
+              <>
+                <Header />
+                <Suchseite_ethnologie/>
+              </>
+            }
+          />
+          <Route
+            path="suchseite_mathe1"
+            element={
+              <>
+                <Header />
+                <Suchseite_mathe1/>
               </>
             }
           />
@@ -2051,7 +2155,277 @@ function App(){
               </>
             }
           />
+          <Route
+            path="video_kunstgeschichte1"
+            element={
+              <>
+                <Header />
+                <Video_kunstgeschichte1/>
+              </>
+            }
+          />
+          <Route
+            path="video_kunstgeschichte2"
+            element={
+              <>
+                <Header />
+                <Video_kunstgeschichte2/>
+              </>
+            }
+          />
+          <Route
+            path="video_kunstgeschichte3"
+            element={
+              <>
+                <Header />
+                <Video_kunstgeschichte3/>
+              </>
+            }
+          />
+          <Route
+            path="video_kunstgeschichte4"
+            element={
+              <>
+                <Header />
+                <Video_kunstgeschichte4/>
+              </>
+            }
+          />
+          <Route
+            path="video_kunstgeschichte5"
+            element={
+              <>
+                <Header />
+                <Video_kunstgeschichte5/>
+              </>
+            }
+          />
+          <Route
+            path="video_sportwissenschaft1"
+            element={
+              <>
+                <Header />
+                <Video_sportwissenschaft1/>
+              </>
+            }
+          />
+          <Route
+            path="video_sportwissenschaft2"
+            element={
+              <>
+                <Header />
+                <Video_sportwissenschaft2/>
+              </>
+            }
+          />
+          <Route
+            path="video_sportwissenschaft3"
+            element={
+              <>
+                <Header />
+                <Video_sportwissenschaft3/>
+              </>
+            }
+          />
+          <Route
+            path="video_sportwissenschaft4"
+            element={
+              <>
+                <Header />
+                <Video_sportwissenschaft4/>
+              </>
+            }
+          />
+          <Route
+            path="video_sportwissenschaft5"
+            element={
+              <>
+                <Header />
+                <Video_sportwissenschaft5/>
+              </>
+            }
+          />
+          <Route
+            path="video_geografie1"
+            element={
+              <>
+                <Header />
+                <Video_geografie1/>
+              </>
+            }
+          />
+          <Route
+            path="video_geografie2"
+            element={
+              <>
+                <Header />
+                <Video_geografie2/>
+              </>
+            }
+          />
+          <Route
+            path="video_geografie3"
+            element={
+              <>
+                <Header />
+                <Video_geografie3/>
+              </>
+            }
+          />
+          <Route
+            path="video_geografie4"
+            element={
+              <>
+                <Header />
+                <Video_geografie4/>
+              </>
+            }
+          />
+          <Route
+            path="video_geografie5"
+            element={
+              <>
+                <Header />
+                <Video_geografie5/>
+              </>
+            }
+          />
+          <Route
+            path="video_musikwissenschaft1"
+            element={
+              <>
+                <Header />
+                <Video_musikwissenschaft1/>
+              </>
+            }
+          />
+          <Route
+            path="video_musikwissenschaft2"
+            element={
+              <>
+                <Header />
+                <Video_musikwissenschaft2/>
+              </>
+            }
+          />
+          <Route
+            path="video_musikwissenschaft3"
+            element={
+              <>
+                <Header />
+                <Video_musikwissenschaft3/>
+              </>
+            }
+          />
+          <Route
+            path="video_musikwissenschaft4"
+            element={
+              <>
+                <Header />
+                <Video_musikwissenschaft4/>
+              </>
+            }
+          />
+          <Route
+            path="video_musikwissenschaft5"
+            element={
+              <>
+                <Header />
+                <Video_musikwissenschaft5/>
+              </>
+            }
+          />
           
+          <Route
+            path="video_ethnologie1"
+            element={
+              <>
+                <Header />
+                <Video_ethnologie1/>
+              </>
+            }
+          />
+          <Route
+            path="video_ethnologie2"
+            element={
+              <>
+                <Header />
+                <Video_ethnologie2/>
+              </>
+            }
+          />
+          <Route
+            path="video_ethnologie3"
+            element={
+              <>
+                <Header />
+                <Video_ethnologie3/>
+              </>
+            }
+          />
+          <Route
+            path="video_ethnologie4"
+            element={
+              <>
+                <Header />
+                <Video_ethnologie4/>
+              </>
+            }
+          />
+          <Route
+            path="video_ethnologie5"
+            element={
+              <>
+                <Header />
+                <Video_ethnologie5/>
+              </>
+            }
+          />
+          <Route
+            path="video_darstellungvonfunktionen1"
+            element={
+              <>
+                <Header />
+                <Video_darstellungvonfunktionen1/>
+              </>
+            }
+          />
+          <Route
+            path="video_darstellungvonfunktionen2"
+            element={
+              <>
+                <Header />
+                <Video_darstellungvonfunktionen2/>
+              </>
+            }
+          />
+          <Route
+            path="video_darstellungvonfunktionen3"
+            element={
+              <>
+                <Header />
+                <Video_darstellungvonfunktionen3/>
+              </>
+            }
+          />
+          <Route
+            path="video_darstellungvonfunktionen4"
+            element={
+              <>
+                <Header />
+                <Video_darstellungvonfunktionen4/>
+              </>
+            }
+          />
+          <Route
+            path="video_darstellungvonfunktionen5"
+            element={
+              <>
+                <Header />
+                <Video_darstellungvonfunktionen5/>
+              </>
+            }
+          />
 
 
           <Route
@@ -2330,6 +2704,123 @@ function App(){
               <>
                <Header />
                 <Philosophie />
+              </>
+            }
+          />
+          <Route
+            path="kunstgeschichte"
+            element={
+              <>
+               <Header />
+                <Kunstgeschichte />
+              </>
+            }
+          />
+          <Route
+            path="sportwissenschaft"
+            element={
+              <>
+               <Header />
+                <Sportwissenschaft />
+              </>
+            }
+          />
+          <Route
+            path="geografie"
+            element={
+              <>
+               <Header />
+                <Geographie />
+              </>
+            }
+          />
+          <Route
+            path="musikwissenschaft"
+            element={
+              <>
+               <Header />
+                <Musikwissenschaft />
+              </>
+            }
+          />
+          <Route
+            path="ethnologie"
+            element={
+              <>
+               <Header />
+                <Ethnologie/>
+              </>
+            }
+          />
+           <Route
+            path="mathe1"
+            element={
+              <>
+               <Header />
+                <Mathe1/>
+              </>
+            }
+          />
+          <Route
+            path="darstellung_und_eigenschaften_von_funktionen"
+            element={
+              <>
+               <Header />
+                <DarstellungVonFkt/>
+              </>
+            }
+          />
+          <Route
+            path="ganzrationalefunktionen"
+            element={
+              <>
+               <Header />
+                <GanzrationaleFkt/>
+              </>
+            }
+          />
+          <Route
+            path="potenzenfuntionen"
+            element={
+              <>
+               <Header />
+                <PotenzFkt/>
+              </>
+            }
+          />
+          <Route
+            path="wurzelfunktionen"
+            element={
+              <>
+               <Header />
+                <WurzelFkt/>
+              </>
+            }
+          />
+          <Route
+            path="eigenschaftvonvektoren"
+            element={
+              <>
+               <Header />
+                <Eigenschaftenvonvektoren/>
+              </>
+            }
+          />
+          <Route
+            path="vektoroperationen"
+            element={
+              <>
+               <Header />
+                <Vektoroperationen/>
+              </>
+            }
+          />
+          <Route
+            path="matrizen"
+            element={
+              <>
+               <Header />
+                <Matrizen/>
               </>
             }
           />
