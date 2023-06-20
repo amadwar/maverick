@@ -1,0 +1,208 @@
+[
+  {
+    "@id": "_:n75e1b766d05a4d32b8aacf4f8094fd86b1",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6177574742604457"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "X0KOV0o1P30"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n75e1b766d05a4d32b8aacf4f8094fd86b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/X0KOV0o1P30/hq720_2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYXiBeKF4wDw==&rs=AOn4CLABNFnUV-jX_KR_UlJpJnCkDZtsjg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "3 Economic Rules of Thumb "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=X0KOV0o1P30"
+      }
+    ]
+  },
+  {
+    "@id": "_:n75e1b766d05a4d32b8aacf4f8094fd86b2",
+    "@type": [
+      "https://schema.org/DefinedTerm"
+    ],
+    "https://schema.org/termCode": [
+      {
+        "@value": "Pareto Effizienz in der Volkswirtschaft"
+      }
+    ]
+  },
+  {
+    "@id": "_:n75e1b766d05a4d32b8aacf4f8094fd86b3",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5572572831339528"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "6Bc2ASCAEps"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n75e1b766d05a4d32b8aacf4f8094fd86b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/6Bc2ASCAEps/hqdefault.jpg?sqp=-oaymwEXCJADEOABSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC_VXkbNeWrcnJiv7REtleRBR2LmA"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Fiscal policy versus monetary policy in the IS-LM model "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=6Bc2ASCAEps"
+      }
+    ]
+  },
+  {
+    "@id": "_:n75e1b766d05a4d32b8aacf4f8094fd86b6",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5547303114364289"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "jz0FehDrww0"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n75e1b766d05a4d32b8aacf4f8094fd86b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/jz0FehDrww0/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "ECONOMICS II BBS 2ND  YEAR II 10 MARKS II PART-2 II "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=jz0FehDrww0"
+      }
+    ]
+  },
+  {
+    "@id": "_:n75e1b766d05a4d32b8aacf4f8094fd86b5",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5760807639410112"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "BX6NlXurmtA"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n75e1b766d05a4d32b8aacf4f8094fd86b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/BX6NlXurmtA/hqdefault.jpg?sqp=-oaymwEXCJADEOABSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCsS4xMf9bJG0htCjzp0JCusjs8qw"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Savings function "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=BX6NlXurmtA"
+      }
+    ]
+  },
+  {
+    "@id": "_:n75e1b766d05a4d32b8aacf4f8094fd86b4",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5743185226150774"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "nqvVq74ZLU0"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n75e1b766d05a4d32b8aacf4f8094fd86b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/nqvVq74ZLU0/hq720_2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBUKFIwDw==&rs=AOn4CLBQWmU3YZKlZsdnfTB3YSYm_rGp6w"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "#EconShorts- Comparative Advantage (1 of 2)- Macro 1.3 "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=nqvVq74ZLU0"
+      }
+    ]
+  }
+]

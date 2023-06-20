@@ -1,0 +1,208 @@
+[
+  {
+    "@id": "_:nd927d3e2b51b4f5ab1a397cf9ab2602ab5",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5586854986556922"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "xpHWph5iElI"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nd927d3e2b51b4f5ab1a397cf9ab2602ab2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/xpHWph5iElI/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "How To Metal roof for cheap "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=xpHWph5iElI"
+      }
+    ]
+  },
+  {
+    "@id": "_:nd927d3e2b51b4f5ab1a397cf9ab2602ab2",
+    "@type": [
+      "https://schema.org/DefinedTerm"
+    ],
+    "https://schema.org/termCode": [
+      {
+        "@value": "Versenkte Kosten"
+      }
+    ]
+  },
+  {
+    "@id": "_:nd927d3e2b51b4f5ab1a397cf9ab2602ab6",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5520189742750724"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "XtfzvStTXTI"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nd927d3e2b51b4f5ab1a397cf9ab2602ab2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/XtfzvStTXTI/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "40ft DIY Shipping Container Home (Total Cost Breakdown) "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=XtfzvStTXTI"
+      }
+    ]
+  },
+  {
+    "@id": "_:nd927d3e2b51b4f5ab1a397cf9ab2602ab3",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5845595865383352"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "ajkXzvVegBk"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nd927d3e2b51b4f5ab1a397cf9ab2602ab2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/ajkXzvVegBk/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Decision Analysis 1.1 (Costs) - Optimistic, Conservative, Minimax Regret "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=ajkXzvVegBk"
+      }
+    ]
+  },
+  {
+    "@id": "_:nd927d3e2b51b4f5ab1a397cf9ab2602ab1",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5793460512948279"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "JeJURix_LbA"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nd927d3e2b51b4f5ab1a397cf9ab2602ab2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/JeJURix_LbA/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Möbeltresor sicher? Knacken in unter 3 Sekunden möglich! Warum Billig-Tresore NICHT kaufen! "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=JeJURix_LbA"
+      }
+    ]
+  },
+  {
+    "@id": "_:nd927d3e2b51b4f5ab1a397cf9ab2602ab4",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5905457344553758"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "zNIM9pPTl3s"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nd927d3e2b51b4f5ab1a397cf9ab2602ab2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/zNIM9pPTl3s/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Budget Anvil Review:  Bargain...or BS? "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=zNIM9pPTl3s"
+      }
+    ]
+  }
+]

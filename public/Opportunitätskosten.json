@@ -1,0 +1,208 @@
+[
+  {
+    "@id": "_:n06886149af6e4b41ab00faa3ad797653b1",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5667647234182243"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "VwATjXEvSdc"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n06886149af6e4b41ab00faa3ad797653b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/VwATjXEvSdc/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Deckungsbeitrag berechnen mit einfachem Beispiel "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=VwATjXEvSdc"
+      }
+    ]
+  },
+  {
+    "@id": "_:n06886149af6e4b41ab00faa3ad797653b2",
+    "@type": [
+      "https://schema.org/DefinedTerm"
+    ],
+    "https://schema.org/termCode": [
+      {
+        "@value": "Opportunitätskosten"
+      }
+    ]
+  },
+  {
+    "@id": "_:n06886149af6e4b41ab00faa3ad797653b4",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5730028718845757"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "JehD3NcUKIY"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n06886149af6e4b41ab00faa3ad797653b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/JehD3NcUKIY/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Decision Analysis 2b: Expected Opportunity Loss (EOL) "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=JehD3NcUKIY"
+      }
+    ]
+  },
+  {
+    "@id": "_:n06886149af6e4b41ab00faa3ad797653b6",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6174590634529955"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "ajkXzvVegBk"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n06886149af6e4b41ab00faa3ad797653b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/ajkXzvVegBk/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Decision Analysis 1.1 (Costs) - Optimistic, Conservative, Minimax Regret "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=ajkXzvVegBk"
+      }
+    ]
+  },
+  {
+    "@id": "_:n06886149af6e4b41ab00faa3ad797653b3",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.7245527538363961"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "z6vhr2xqlwA"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n06886149af6e4b41ab00faa3ad797653b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/z6vhr2xqlwA/hqdefault.jpg?sqp=-oaymwEXCJADEOABSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBLX1BNF7A8lEjKR1l8hTP3y-NiOg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Opportunity cost:  Calculate opportunity cost "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=z6vhr2xqlwA"
+      }
+    ]
+  },
+  {
+    "@id": "_:n06886149af6e4b41ab00faa3ad797653b5",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5590105531503136"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "CYY_qs2lDnQ"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n06886149af6e4b41ab00faa3ad797653b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/CYY_qs2lDnQ/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Cost benefit analysis "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=CYY_qs2lDnQ"
+      }
+    ]
+  }
+]

@@ -1,0 +1,208 @@
+[
+  {
+    "@id": "_:nbb32b6a13e9c4dac979f52f9cbd0d1c2b6",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5830351419933193"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "ZHczhRKryoA"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nbb32b6a13e9c4dac979f52f9cbd0d1c2b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/ZHczhRKryoA/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Example: Supply and Demand "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=ZHczhRKryoA"
+      }
+    ]
+  },
+  {
+    "@id": "_:nbb32b6a13e9c4dac979f52f9cbd0d1c2b2",
+    "@type": [
+      "https://schema.org/DefinedTerm"
+    ],
+    "https://schema.org/termCode": [
+      {
+        "@value": "Überschussnachfrage"
+      }
+    ]
+  },
+  {
+    "@id": "_:nbb32b6a13e9c4dac979f52f9cbd0d1c2b3",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.525113880707907"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "4oj_lnj6pXA"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nbb32b6a13e9c4dac979f52f9cbd0d1c2b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/4oj_lnj6pXA/hqdefault.jpg?sqp=-oaymwEXCJADEOABSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBNO4rj2pFyoKg8QYqe2rEQxXsUQA"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Episode 16:  Elasticity of Demand "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=4oj_lnj6pXA"
+      }
+    ]
+  },
+  {
+    "@id": "_:nbb32b6a13e9c4dac979f52f9cbd0d1c2b1",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5534858285662642"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "LwLh6ax0zTE"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nbb32b6a13e9c4dac979f52f9cbd0d1c2b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/LwLh6ax0zTE/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Demand and Supply Explained- Macro Topic 1.4 (Micro Topic 2.1) "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=LwLh6ax0zTE"
+      }
+    ]
+  },
+  {
+    "@id": "_:nbb32b6a13e9c4dac979f52f9cbd0d1c2b4",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5614232175676748"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "HHcblIxiAAk"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nbb32b6a13e9c4dac979f52f9cbd0d1c2b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/HHcblIxiAAk/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Elasticity of Demand- Micro Topic  2.3 "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=HHcblIxiAAk"
+      }
+    ]
+  },
+  {
+    "@id": "_:nbb32b6a13e9c4dac979f52f9cbd0d1c2b5",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5698897739325434"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "Vedq6pChoXg"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nbb32b6a13e9c4dac979f52f9cbd0d1c2b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/Vedq6pChoXg/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Real World Demand and Supply "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=Vedq6pChoXg"
+      }
+    ]
+  }
+]

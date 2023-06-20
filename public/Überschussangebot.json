@@ -1,0 +1,208 @@
+[
+  {
+    "@id": "_:nf73f6ceb860040b6a202184069df652eb4",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.46267003107526544"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "_TgVjdxAcf4"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nf73f6ceb860040b6a202184069df652eb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/_TgVjdxAcf4/hqdefault.jpg?sqp=-oaymwEXCJADEOABSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCBHHGQolJrtIwtSUEtpfHCOZnGAw"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Total Available Market (TAM) - Stanford \"Strategic Marketing of High Tech and Clean Tech\" "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=_TgVjdxAcf4"
+      }
+    ]
+  },
+  {
+    "@id": "_:nf73f6ceb860040b6a202184069df652eb2",
+    "@type": [
+      "https://schema.org/DefinedTerm"
+    ],
+    "https://schema.org/termCode": [
+      {
+        "@value": "Überschussangebot"
+      }
+    ]
+  },
+  {
+    "@id": "_:nf73f6ceb860040b6a202184069df652eb5",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.4725739027830328"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "Ed_fwWxstKE"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nf73f6ceb860040b6a202184069df652eb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/Ed_fwWxstKE/hqdefault.jpg?sqp=-oaymwEXCJADEOABSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAxoubHBzoNZmz-Qh96WEpKhDLohQ"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Using a production possibility curve to identify scarcity, inefficiency and opportunity cost "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=Ed_fwWxstKE"
+      }
+    ]
+  },
+  {
+    "@id": "_:nf73f6ceb860040b6a202184069df652eb3",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.4771177602210007"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "mvps4iiQuw4"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nf73f6ceb860040b6a202184069df652eb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/mvps4iiQuw4/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "14 Hygiene Supplies That All Preppers Should Store "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=mvps4iiQuw4"
+      }
+    ]
+  },
+  {
+    "@id": "_:nf73f6ceb860040b6a202184069df652eb6",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5011548153950903"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "2n9NLZTIlz8"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nf73f6ceb860040b6a202184069df652eb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/2n9NLZTIlz8/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Inventory Management | Concepts, Examples and Solved Problems "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=2n9NLZTIlz8"
+      }
+    ]
+  },
+  {
+    "@id": "_:nf73f6ceb860040b6a202184069df652eb1",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.4619989806593858"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "FYmBYKAEWbM"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nf73f6ceb860040b6a202184069df652eb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/FYmBYKAEWbM/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Shop Visit - WS Supplies Oxford - Army Surplus Store "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=FYmBYKAEWbM"
+      }
+    ]
+  }
+]

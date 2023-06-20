@@ -1,0 +1,208 @@
+[
+  {
+    "@id": "_:ndfcf565f3d974d378003083b33c5ab47b6",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5949279634799236"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "TLYwPogWdEU"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:ndfcf565f3d974d378003083b33c5ab47b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/TLYwPogWdEU/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Cost Behavior: Variable costs versus Fixed Costs - Accounting video "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=TLYwPogWdEU"
+      }
+    ]
+  },
+  {
+    "@id": "_:ndfcf565f3d974d378003083b33c5ab47b2",
+    "@type": [
+      "https://schema.org/DefinedTerm"
+    ],
+    "https://schema.org/termCode": [
+      {
+        "@value": "Komparative Kostenvorteile"
+      }
+    ]
+  },
+  {
+    "@id": "_:ndfcf565f3d974d378003083b33c5ab47b5",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5843036382602401"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "VwATjXEvSdc"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:ndfcf565f3d974d378003083b33c5ab47b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/VwATjXEvSdc/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Deckungsbeitrag berechnen mit einfachem Beispiel "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=VwATjXEvSdc"
+      }
+    ]
+  },
+  {
+    "@id": "_:ndfcf565f3d974d378003083b33c5ab47b1",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6366429554637141"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "ajkXzvVegBk"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:ndfcf565f3d974d378003083b33c5ab47b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/ajkXzvVegBk/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Decision Analysis 1.1 (Costs) - Optimistic, Conservative, Minimax Regret "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=ajkXzvVegBk"
+      }
+    ]
+  },
+  {
+    "@id": "_:ndfcf565f3d974d378003083b33c5ab47b4",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5900995421651654"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "ClHP1ys-weI"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:ndfcf565f3d974d378003083b33c5ab47b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/ClHP1ys-weI/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Costs Concepts and Classifications Part 3 || Costs Flow in Manufacturing and Servicing Organizations "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=ClHP1ys-weI"
+      }
+    ]
+  },
+  {
+    "@id": "_:ndfcf565f3d974d378003083b33c5ab47b3",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5834745884887247"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "z6vhr2xqlwA"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:ndfcf565f3d974d378003083b33c5ab47b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/z6vhr2xqlwA/hqdefault.jpg?sqp=-oaymwEXCJADEOABSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBLX1BNF7A8lEjKR1l8hTP3y-NiOg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Opportunity cost:  Calculate opportunity cost "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=z6vhr2xqlwA"
+      }
+    ]
+  }
+]

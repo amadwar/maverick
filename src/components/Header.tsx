@@ -27,6 +27,10 @@ const Header: React.FC = () => {
   
   const handleSearch = (e: React.FormEvent) => {
     e.preventDefault();
+    if(inputValue.trim().toLowerCase() === 'vwl 1'){
+      setShowNoResultsMessage(false);
+      navigate('/Suchseite_vwl1');
+    }
     if(inputValue.trim().toLowerCase() === 'business english1'){
       setShowNoResultsMessage(false);
       navigate('/Suchseite_businessenglish');

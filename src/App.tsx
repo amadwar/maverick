@@ -355,6 +355,45 @@ import Video_teamwork2 from "./components/Studienfächer/Videos_teamwork/Video2_
 import Video_teamwork3 from "./components/Studienfächer/Videos_teamwork/Video3_teamwork";
 import Video_teamwork4 from "./components/Studienfächer/Videos_teamwork/Video4_teamwork";
 import Video_teamwork5 from "./components/Studienfächer/Videos_teamwork/Video5_teamwork";
+import VWL1 from "./components/Studienfächer/Fächer/VWL1";
+import Grundgebietederinformatik from "./components/Studienfächer/Fächer/GrundgebietederInformtik";
+import Opportunitätskosten from "./components/Studienfächer/Fächer/Opportunitätskosten";
+import Versenktekosten from "./components/Studienfächer/Fächer/Versenktekosten";
+import Komprativekostenvorteile from "./components/Studienfächer/Fächer/Komprative_kostenvorteile";
+import Ueberschussnachfrage from "./components/Studienfächer/Fächer/Ueberschussnachfrage";
+import Ueberschussangebot from "./components/Studienfächer/Fächer/Ueberschussangebot";
+import Paretoeffizient from "./components/Studienfächer/Fächer/Pareto_effizient";
+import Video_opporunitätskosten5 from "./components/Studienfächer/Videos_opportunitätskosten/Video5_opportunitätskosten";
+import Video_opporunitätskosten4 from "./components/Studienfächer/Videos_opportunitätskosten/Video4_opportunitätskosten";
+import Video_opporunitätskosten3 from "./components/Studienfächer/Videos_opportunitätskosten/Video3_opportunitätskosten";
+import Video_opporunitätskosten2 from "./components/Studienfächer/Videos_opportunitätskosten/Video2_opportunitätskosten";
+import Video_opporunitätskosten1 from "./components/Studienfächer/Videos_opportunitätskosten/Video1_opportunitätskosten";
+import Video_versenktekosten5 from "./components/Studienfächer/Videos_versenktekosten/Video5_Versenktekosten";
+import Video_versenktekosten4 from "./components/Studienfächer/Videos_versenktekosten/Video4_Versenktekosten";
+import Video_versenktekosten3 from "./components/Studienfächer/Videos_versenktekosten/Video3_Versenktekosten";
+import Video_versenktekosten2 from "./components/Studienfächer/Videos_versenktekosten/Video2_Versenktekosten";
+import Video_versenktekosten1 from "./components/Studienfächer/Videos_versenktekosten/Video1_Versenktekosten";
+import Suchseite_vwl1 from "./components/Studienfächer/Suchseiten/Suchseite_vwl1";
+import Video_komprativekostenvorteile5 from "./components/Studienfächer/Videos_komparativeKostenvorteile/Video5_komprativekostenvorteile";
+import Video_komprativekostenvorteile4 from "./components/Studienfächer/Videos_komparativeKostenvorteile/Video4_komprativekostenvorteile";
+import Video_komprativekostenvorteile3 from "./components/Studienfächer/Videos_komparativeKostenvorteile/Video3_komprativekostenvorteile";
+import Video_komprativekostenvorteile2 from "./components/Studienfächer/Videos_komparativeKostenvorteile/Video2_komprativekostenvorteile";
+import Video_komprativekostenvorteile1 from "./components/Studienfächer/Videos_komparativeKostenvorteile/Video1_komprativekostenvorteile";
+import Video_ueberschussnachfrage5 from "./components/Studienfächer/Videos_Überschussnachfrage/Video5_ueberschussnachfrage";
+import Video_ueberschussnachfrage4 from "./components/Studienfächer/Videos_Überschussnachfrage/Video4_ueberschussnachfrage";
+import Video_ueberschussnachfrage3 from "./components/Studienfächer/Videos_Überschussnachfrage/Video3_ueberschussnachfrage";
+import Video_ueberschussnachfrage2 from "./components/Studienfächer/Videos_Überschussnachfrage/Video2_ueberschussnachfrage";
+import Video_ueberschussnachfrage1 from "./components/Studienfächer/Videos_Überschussnachfrage/Video1_ueberschussnachfrage";
+import Video_ueberschussangebot5 from "./components/Studienfächer/Videos_Überschussangebot/Video5_ueberschussangebot";
+import Video_ueberschussangebot4 from "./components/Studienfächer/Videos_Überschussangebot/Video4_ueberschussangebot";
+import Video_ueberschussangebot3 from "./components/Studienfächer/Videos_Überschussangebot/Video3_ueberschussangebot";
+import Video_ueberschussangebot2 from "./components/Studienfächer/Videos_Überschussangebot/Video2_ueberschussangebot";
+import Video_ueberschussangebot1 from "./components/Studienfächer/Videos_Überschussangebot/Video1_ueberschussangebot";
+import Video_paretoeffizient5 from "./components/Studienfächer/Videos_ParetoEffizient/Video5_paretoeffizient";
+import Video_paretoeffizient4 from "./components/Studienfächer/Videos_ParetoEffizient/Video4_paretoeffizient";
+import Video_paretoeffizient3 from "./components/Studienfächer/Videos_ParetoEffizient/Video3_paretoeffizient";
+import Video_paretoeffizient2 from "./components/Studienfächer/Videos_ParetoEffizient/Video2_paretoeffizient";
+import Video_paretoeffizient1 from "./components/Studienfächer/Videos_ParetoEffizient/Video1_paretoeffizient";
 
 
 
@@ -778,6 +817,15 @@ function App(){
               <>
                 <Header />
                 <Suchseite_businessenglish/>
+              </>
+            }
+          />
+          <Route
+            path="Suchseite_vwl1"
+            element={
+              <>
+                <Header />
+                <Suchseite_vwl1/>
               </>
             }
           />
@@ -3043,6 +3091,321 @@ function App(){
               </>
             }
           />
+          <Route
+            path="video_opporunitätskosten1"
+            element={
+              <>
+                <Header />
+                <Video_opporunitätskosten1/>
+              </>
+            }
+          />
+          <Route
+            path="video_opporunitätskosten2"
+            element={
+              <>
+                <Header />
+                <Video_opporunitätskosten2/>
+              </>
+            }
+          />
+          <Route
+            path="video_opporunitätskosten3"
+            element={
+              <>
+                <Header />
+                <Video_opporunitätskosten3/>
+              </>
+            }
+          />
+          <Route
+            path="video_opporunitätskosten4"
+            element={
+              <>
+                <Header />
+                <Video_opporunitätskosten4/>
+              </>
+            }
+          />
+          <Route
+            path="video_opporunitätskosten5"
+            element={
+              <>
+                <Header />
+                <Video_opporunitätskosten5/>
+              </>
+            }
+          />
+          <Route
+            path="video_versenktekosten1"
+            element={
+              <>
+                <Header />
+                <Video_versenktekosten1/>
+              </>
+            }
+          />
+          <Route
+            path="video_versenktekosten2"
+            element={
+              <>
+                <Header />
+                <Video_versenktekosten2/>
+              </>
+            }
+          />
+          <Route
+            path="video_versenktekosten3"
+            element={
+              <>
+                <Header />
+                <Video_versenktekosten3/>
+              </>
+            }
+          />
+          <Route
+            path="video_versenktekosten4"
+            element={
+              <>
+                <Header />
+                <Video_versenktekosten4/>
+              </>
+            }
+          />
+          <Route
+            path="video_versenktekosten5"
+            element={
+              <>
+                <Header />
+                <Video_versenktekosten5/>
+              </>
+            }
+          />
+          <Route
+            path="video_versenktekosten5"
+            element={
+              <>
+                <Header />
+                <Video_versenktekosten5/>
+              </>
+            }
+          />
+          <Route
+            path="video_versenktekosten5"
+            element={
+              <>
+                <Header />
+                <Video_versenktekosten5/>
+              </>
+            }
+          />
+          <Route
+            path="video_versenktekosten5"
+            element={
+              <>
+                <Header />
+                <Video_versenktekosten5/>
+              </>
+            }
+          />
+          <Route
+            path="video_versenktekosten5"
+            element={
+              <>
+                <Header />
+                <Video_versenktekosten5/>
+              </>
+            }
+          />
+          <Route
+            path="video_versenktekosten5"
+            element={
+              <>
+                <Header />
+                <Video_versenktekosten5/>
+              </>
+            }
+          />
+          <Route
+            path="video_komprativekostenvorteile1"
+            element={
+              <>
+                <Header />
+                <Video_komprativekostenvorteile1/>
+              </>
+            }
+          />
+          <Route
+            path="video_komprativekostenvorteile2"
+            element={
+              <>
+                <Header />
+                <Video_komprativekostenvorteile2/>
+              </>
+            }
+          />
+          <Route
+            path="video_komprativekostenvorteile3"
+            element={
+              <>
+                <Header />
+                <Video_komprativekostenvorteile3/>
+              </>
+            }
+          />
+          <Route
+            path="video_komprativekostenvorteile4"
+            element={
+              <>
+                <Header />
+                <Video_komprativekostenvorteile4/>
+              </>
+            }
+          />
+          <Route
+            path="video_komprativekostenvorteile5"
+            element={
+              <>
+                <Header />
+                <Video_komprativekostenvorteile5/>
+              </>
+            }
+          />
+          <Route
+            path="video_ueberschussnachfrage1"
+            element={
+              <>
+                <Header />
+                <Video_ueberschussnachfrage1/>
+              </>
+            }
+          />
+          <Route
+            path="video_ueberschussnachfrage2"
+            element={
+              <>
+                <Header />
+                <Video_ueberschussnachfrage2/>
+              </>
+            }
+          />
+          <Route
+            path="video_ueberschussnachfrage3"
+            element={
+              <>
+                <Header />
+                <Video_ueberschussnachfrage3/>
+              </>
+            }
+          />
+          <Route
+            path="video_ueberschussnachfrage4"
+            element={
+              <>
+                <Header />
+                <Video_ueberschussnachfrage4/>
+              </>
+            }
+          />
+          <Route
+            path="video_ueberschussnachfrage5"
+            element={
+              <>
+                <Header />
+                <Video_ueberschussnachfrage5/>
+              </>
+            }
+          />
+          <Route
+            path="video_ueberschussangebot1"
+            element={
+              <>
+                <Header />
+                <Video_ueberschussangebot1/>
+              </>
+            }
+          />
+          <Route
+            path="video_ueberschussangebot2"
+            element={
+              <>
+                <Header />
+                <Video_ueberschussangebot2/>
+              </>
+            }
+          />
+          <Route
+            path="video_ueberschussangebot3"
+            element={
+              <>
+                <Header />
+                <Video_ueberschussangebot3/>
+              </>
+            }
+          />
+          <Route
+            path="video_ueberschussangebot4"
+            element={
+              <>
+                <Header />
+                <Video_ueberschussangebot4/>
+              </>
+            }
+          />
+          <Route
+            path="video_ueberschussangebot5"
+            element={
+              <>
+                <Header />
+                <Video_ueberschussangebot5/>
+              </>
+            }
+          />
+          <Route
+            path="video_paretoeffizient1"
+            element={
+              <>
+                <Header />
+                <Video_paretoeffizient1/>
+              </>
+            }
+          />
+          <Route
+            path="video_paretoeffizient2"
+            element={
+              <>
+                <Header />
+                <Video_paretoeffizient2/>
+              </>
+            }
+          />
+          <Route
+            path="video_paretoeffizient3"
+            element={
+              <>
+                <Header />
+                <Video_paretoeffizient3/>
+              </>
+            }
+          />
+          <Route
+            path="video_paretoeffizient4"
+            element={
+              <>
+                <Header />
+                <Video_paretoeffizient4/>
+              </>
+            }
+          />
+          <Route
+            path="video_paretoeffizient5"
+            element={
+              <>
+                <Header />
+                <Video_paretoeffizient5/>
+              </>
+            }
+          />
 
 
           <Route
@@ -3501,6 +3864,79 @@ function App(){
               <>
                <Header />
                 <Teamwork/>
+              </>
+            }
+          />
+          <Route
+            path="vwl1"
+            element={
+              <>
+               <Header />
+                <VWL1/>
+              </>
+            }
+          />
+           <Route
+            path="opportunitätskosten"
+            element={
+              <>
+               <Header />
+                <Opportunitätskosten />
+              </>
+            }
+          />
+          <Route
+            path="versenktekosten"
+            element={
+              <>
+               <Header />
+                <Versenktekosten />
+              </>
+            }
+          />
+          <Route
+            path="komprativekostenvorteile"
+            element={
+              <>
+               <Header />
+                <Komprativekostenvorteile />
+              </>
+            }
+          />
+          <Route
+            path="ueberschussnachfrage"
+            element={
+              <>
+               <Header />
+                <Ueberschussnachfrage />
+              </>
+            }
+          />
+          <Route
+            path="ueberschussangebot"
+            element={
+              <>
+               <Header />
+                <Ueberschussangebot />
+              </>
+            }
+          />
+          <Route
+            path="paretoeffizient"
+            element={
+              <>
+               <Header />
+                <Paretoeffizient />
+              </>
+            }
+          />
+          
+          <Route
+            path="grundgebietederinformatik"
+            element={
+              <>
+               <Header />
+                <Grundgebietederinformatik/>
               </>
             }
           />
