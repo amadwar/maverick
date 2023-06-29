@@ -57,35 +57,31 @@ interface CosineSimilarity {
   }
 
 
-function Grundgebietederinformatik(){
+function O_Notationundrechenregeln(){
 
     const [data, setData] = useState<LearningResource[]>([]);
-   
+
     useEffect(() => {
-      const fetchData = async () => {
-        try {
-          const [response1, response2, response3, response4,response5,response6] = await Promise.all([
-            axios.get<LearningResource[]>("./Definitionen_in_der_Informatik.json"),
-            axios.get<LearningResource[]>("./Datentypen.json"),
-            axios.get<LearningResource[]>("./Variablen_und_Konstanten.json"),
-            axios.get<LearningResource[]>("./Arithmetische_und_logische_Operationen.json"),
-            axios.get<LearningResource[]>("./Kontrollanweisungen.json"),
-            axios.get<LearningResource[]>("./O_Notation_und_Rechenregeln.json")
-            
-          ]);
-    
-          setData([...response1.data, ...response2.data, ...response3.data, ...response4.data,...response5.data,...response6.data]);
-        } catch (error) {
-          console.error(error);
-        }
-      };
-    
-      fetchData();
-    }, []);
-    
-
-  
-
+        const fetchData = async () => {
+          try {
+            const [response1, response2, response3, response4,response5,response6] = await Promise.all([
+              axios.get<LearningResource[]>("./Definitionen_in_der_Informatik.json"),
+              axios.get<LearningResource[]>("./Datentypen.json"),
+              axios.get<LearningResource[]>("./Variablen_und_Konstanten.json"),
+              axios.get<LearningResource[]>("./Arithmetische_und_logische_Operationen.json"),
+              axios.get<LearningResource[]>("./Kontrollanweisungen.json"),
+              axios.get<LearningResource[]>("./O_Notation_und_Rechenregeln.json")
+              
+            ]);
+      
+            setData([...response1.data, ...response2.data, ...response3.data, ...response4.data,...response5.data,...response6.data]);
+          } catch (error) {
+            console.error(error);
+          }
+        };
+      
+        fetchData();
+      }, []);
 
     function MinusSquare(props: SvgIconProps) {
       return (
@@ -159,10 +155,10 @@ function Grundgebietederinformatik(){
         <div className="lernpfad-scrum">
           {data.length ? (  // überprüft, ob Daten vorhanden sind
             <>
-              <span className="scrum">Grundgebiete der informatik</span>
+              <span className="scrum">{data[32]["https://schema.org/termCode"]?.map(title => title["@value"]).join(', ')}</span>
               <div className="flex-container">
                 <div className="rectangle-1">  
-            <TreeView
+                <TreeView
               aria-label="customized"
               defaultExpanded={['1']}
               defaultCollapseIcon={<MinusSquare />}
@@ -251,22 +247,18 @@ function Grundgebietederinformatik(){
                       
                  
             </TreeView>
-                
-                
+
             </div>
             <div className="rectangle-6">
-                
-          
-
-
-
-
-
-
-
-         
-
-          
+          <span>Videos</span>
+          <div className="videos">
+            <div><Link className="link" to="/video_o-Notationundrechenregeln1"><img className="img" src={data[31]["https://schema.org/thumbnailUrl"]?.map(thumbnail => thumbnail["@value"]).join(', ')} alt="Thumbnail" /></Link><h6 style={{whiteSpace: "pre-line"}}>{data[31]["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</h6> </div>
+            <div><Link className="link" to="/video_o-Notationundrechenregeln2"><img className="img" src={data[33]["https://schema.org/thumbnailUrl"]?.map(thumbnail => thumbnail["@value"]).join(', ')} alt="Thumbnail" /></Link><h6 style={{whiteSpace: "pre-line"}}>{data[33]["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</h6>  </div>
+            <div><Link className="link" to="/video_o-Notationundrechenregeln3"><img className="img" src={data[34]["https://schema.org/thumbnailUrl"]?.map(thumbnail => thumbnail["@value"]).join(', ')} alt="Thumbnail" /></Link><h6 style={{whiteSpace: "pre-line"}}>{data[34]["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</h6>  </div>
+            <div><Link className="link" to="/video_o-Notationundrechenregeln4"><img className="img" src={data[35]["https://schema.org/thumbnailUrl"]?.map(thumbnail => thumbnail["@value"]).join(', ')} alt="Thumbnail" /></Link><h6 style={{whiteSpace: "pre-line"}}>{data[35]["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</h6>  </div>
+            <div><Link className="link" to="/video_o-Notationundrechenregeln5"><img className="img" src={data[36]["https://schema.org/thumbnailUrl"]?.map(thumbnail => thumbnail["@value"]).join(', ')} alt="Thumbnail" /></Link><h6 style={{whiteSpace: "pre-line"}}>{data[36]["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</h6>  </div>
+          </div>
+        
         </div>
               </div>
             </>
@@ -278,4 +270,4 @@ function Grundgebietederinformatik(){
 
 }
 
-export default Grundgebietederinformatik;
+export default O_Notationundrechenregeln;

@@ -1,0 +1,208 @@
+[
+  {
+    "@id": "_:na5411c7962e94b47aa85176a6c74c66eb3",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5605531787928106"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "N5_sTEhnZKM"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:na5411c7962e94b47aa85176a6c74c66eb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/N5_sTEhnZKM/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Big O notation explained "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=N5_sTEhnZKM"
+      }
+    ]
+  },
+  {
+    "@id": "_:na5411c7962e94b47aa85176a6c74c66eb2",
+    "@type": [
+      "https://schema.org/DefinedTerm"
+    ],
+    "https://schema.org/termCode": [
+      {
+        "@value": "O-Notation und Rechenregeln"
+      }
+    ]
+  },
+  {
+    "@id": "_:na5411c7962e94b47aa85176a6c74c66eb4",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6050683558485774"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "4D_3T-cBTgE"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:na5411c7962e94b47aa85176a6c74c66eb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/4D_3T-cBTgE/hq720.jpg?v=628ce14a"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Integrate by substitution "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=4D_3T-cBTgE"
+      }
+    ]
+  },
+  {
+    "@id": "_:na5411c7962e94b47aa85176a6c74c66eb1",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6076023860926854"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "rZAsMb-RZhA"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:na5411c7962e94b47aa85176a6c74c66eb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/rZAsMb-RZhA/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Big O Notation Finally Explained "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=rZAsMb-RZhA"
+      }
+    ]
+  },
+  {
+    "@id": "_:na5411c7962e94b47aa85176a6c74c66eb5",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5699853417803331"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "VwT9t0wa_5s"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:na5411c7962e94b47aa85176a6c74c66eb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/VwT9t0wa_5s/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Rechnen mit negativen Zahlen (Ganze Zahlen) - Übung 2 "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=VwT9t0wa_5s"
+      }
+    ]
+  },
+  {
+    "@id": "_:na5411c7962e94b47aa85176a6c74c66eb6",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5905483534401175"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "dAufhZ594V8"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:na5411c7962e94b47aa85176a6c74c66eb2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/dAufhZ594V8/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Grade 2 Math  11.7, Subtracting three-digit numbers "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=dAufhZ594V8"
+      }
+    ]
+  }
+]

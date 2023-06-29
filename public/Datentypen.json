@@ -1,0 +1,247 @@
+[
+  {
+    "@id": "_:n541d92dd87be43b78cfc5e192eb7fd88b4",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6897338982064316"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "JJQa3xrRNM0"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n541d92dd87be43b78cfc5e192eb7fd88b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/JJQa3xrRNM0/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Data Types & Literal Values | Godot GDScript Tutorial | Ep 00 "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=JJQa3xrRNM0"
+      }
+    ]
+  },
+  {
+    "@id": "_:n541d92dd87be43b78cfc5e192eb7fd88b2",
+    "@type": [
+      "https://schema.org/DefinedTerm"
+    ],
+    "https://schema.org/termCode": [
+      {
+        "@value": "Datentypen"
+      }
+    ]
+  },
+  {
+    "@id": "_:n541d92dd87be43b78cfc5e192eb7fd88b1",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.7331790096737556"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "P8NuwoiHbd4"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n541d92dd87be43b78cfc5e192eb7fd88b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/P8NuwoiHbd4/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "What Are Data Types? UE4 Materials 101 - Episode 3 "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=P8NuwoiHbd4"
+      }
+    ]
+  },
+  {
+    "@id": "_:n541d92dd87be43b78cfc5e192eb7fd88b5",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5635317588136026"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "CNW9txOMYAg"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n541d92dd87be43b78cfc5e192eb7fd88b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/CNW9txOMYAg/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Types of Variables "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=CNW9txOMYAg"
+      }
+    ]
+  },
+  {
+    "@id": "_:n541d92dd87be43b78cfc5e192eb7fd88b6",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5684366786333785"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "zfP_GAmgaWM"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n541d92dd87be43b78cfc5e192eb7fd88b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/zfP_GAmgaWM/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Data Types and Data Dimensions in R | Learn R "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=zfP_GAmgaWM"
+      }
+    ]
+  },
+  {
+    "@id": "_:n541d92dd87be43b78cfc5e192eb7fd88b3",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6590395192386554"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "5ltBWq3cUwM"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n541d92dd87be43b78cfc5e192eb7fd88b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/5ltBWq3cUwM/hq720.jpg?v=64117a4e"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "What is Data Type and Its Types? | Programming Tutorial for Beginners - KnowledgeHut "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=5ltBWq3cUwM"
+      }
+    ]
+  },
+  {
+      "@id": "_:n541d92dd87be43b78cfc5e192eb7fd88b7",
+      "@type": [
+        "https://schema.org/LearningResource"
+      ],
+      "https://schema.org/cosineSimilarity": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#float",
+          "@value": ""
+        }
+      ],
+      "https://schema.org/identifier": [
+        {
+          "@value": "35686"
+        }
+      ],
+      "https://schema.org/teaches": [
+        {
+          "@id": "_:n541d92dd87be43b78cfc5e192eb7fd88b2"
+        }
+      ],
+      "https://schema.org/thumbnailUrl": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+          "@value": ""
+        }
+      ],
+      "https://schema.org/title": [
+        {
+          "@value": "Primitive Datentypen, Variablen und Arrays"
+        }
+      ],
+      "https://schema.org/url": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+          "@value": "https://de.serlo.org/35686"
+        }
+      ]
+    }  
+]

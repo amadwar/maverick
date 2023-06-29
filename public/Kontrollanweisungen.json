@@ -1,0 +1,208 @@
+[
+  {
+    "@id": "_:nd737380a99144e2f9428901fa9cf20e0b3",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.64945636613768"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "bXtar06Cghs"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nd737380a99144e2f9428901fa9cf20e0b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/bXtar06Cghs/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "C Programming Tutorial for Beginners | C Programming Full Course "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=bXtar06Cghs"
+      }
+    ]
+  },
+  {
+    "@id": "_:nd737380a99144e2f9428901fa9cf20e0b2",
+    "@type": [
+      "https://schema.org/DefinedTerm"
+    ],
+    "https://schema.org/termCode": [
+      {
+        "@value": "Kontrollanweisungen C Programmierung"
+      }
+    ]
+  },
+  {
+    "@id": "_:nd737380a99144e2f9428901fa9cf20e0b5",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6827192029752518"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "oTEiQx88B2U"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nd737380a99144e2f9428901fa9cf20e0b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/oTEiQx88B2U/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "coding in c until my program is unsafe "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=oTEiQx88B2U"
+      }
+    ]
+  },
+  {
+    "@id": "_:nd737380a99144e2f9428901fa9cf20e0b6",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.7442898592236574"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "TL5vP45dYps"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nd737380a99144e2f9428901fa9cf20e0b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/TL5vP45dYps/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "C Programming Tutorial 1, Introduction and Downloading CodeBlocks "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=TL5vP45dYps"
+      }
+    ]
+  },
+  {
+    "@id": "_:nd737380a99144e2f9428901fa9cf20e0b1",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6800177366252627"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "_57FcSBtJNU"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nd737380a99144e2f9428901fa9cf20e0b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/_57FcSBtJNU/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "#6: C Operators | C Programming for Beginners "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=_57FcSBtJNU"
+      }
+    ]
+  },
+  {
+    "@id": "_:nd737380a99144e2f9428901fa9cf20e0b4",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.6507147670372412"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "TpIuj3Lgho0"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:nd737380a99144e2f9428901fa9cf20e0b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/TpIuj3Lgho0/hq720.jpg?v=58296c04"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "C Programming: Function Pointers and qsort "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=TpIuj3Lgho0"
+      }
+    ]
+  }
+]

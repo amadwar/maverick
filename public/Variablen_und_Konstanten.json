@@ -1,0 +1,208 @@
+[
+  {
+    "@id": "_:n5b91810735014508ad0e1012d1b01fc7b5",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5399455385394052"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "UnKCCpRFrrk"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n5b91810735014508ad0e1012d1b01fc7b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/UnKCCpRFrrk/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Analogrechnen (eh17) "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=UnKCCpRFrrk"
+      }
+    ]
+  },
+  {
+    "@id": "_:n5b91810735014508ad0e1012d1b01fc7b2",
+    "@type": [
+      "https://schema.org/DefinedTerm"
+    ],
+    "https://schema.org/termCode": [
+      {
+        "@value": "Variablen & Konstanten in der informatik"
+      }
+    ]
+  },
+  {
+    "@id": "_:n5b91810735014508ad0e1012d1b01fc7b6",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5454566341814233"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "GtG4r2M07Vk"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n5b91810735014508ad0e1012d1b01fc7b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/GtG4r2M07Vk/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Integral of e^(x) • sqrt(2 + e^x) ❖ Calculus ❖ U-Substitution "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=GtG4r2M07Vk"
+      }
+    ]
+  },
+  {
+    "@id": "_:n5b91810735014508ad0e1012d1b01fc7b3",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5486233326538044"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "tsHRBcP9x6Y"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n5b91810735014508ad0e1012d1b01fc7b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/tsHRBcP9x6Y/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Product Rule | Differencial Calculus "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=tsHRBcP9x6Y"
+      }
+    ]
+  },
+  {
+    "@id": "_:n5b91810735014508ad0e1012d1b01fc7b4",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5711532449734693"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "_eMA0LWsRQQ"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n5b91810735014508ad0e1012d1b01fc7b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/_eMA0LWsRQQ/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Linear Programming 5: Alternate solutions, Infeasibility, Unboundedness, & Redundancy "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=_eMA0LWsRQQ"
+      }
+    ]
+  },
+  {
+    "@id": "_:n5b91810735014508ad0e1012d1b01fc7b1",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5473894285280669"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "jDerrYHsLcY"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n5b91810735014508ad0e1012d1b01fc7b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/jDerrYHsLcY/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Rechenregeln für Determinanten "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=jDerrYHsLcY"
+      }
+    ]
+  }
+]

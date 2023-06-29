@@ -57,35 +57,31 @@ interface CosineSimilarity {
   }
 
 
-function Grundgebietederinformatik(){
+function Datentypen(){
 
     const [data, setData] = useState<LearningResource[]>([]);
-   
+
     useEffect(() => {
-      const fetchData = async () => {
-        try {
-          const [response1, response2, response3, response4,response5,response6] = await Promise.all([
-            axios.get<LearningResource[]>("./Definitionen_in_der_Informatik.json"),
-            axios.get<LearningResource[]>("./Datentypen.json"),
-            axios.get<LearningResource[]>("./Variablen_und_Konstanten.json"),
-            axios.get<LearningResource[]>("./Arithmetische_und_logische_Operationen.json"),
-            axios.get<LearningResource[]>("./Kontrollanweisungen.json"),
-            axios.get<LearningResource[]>("./O_Notation_und_Rechenregeln.json")
-            
-          ]);
-    
-          setData([...response1.data, ...response2.data, ...response3.data, ...response4.data,...response5.data,...response6.data]);
-        } catch (error) {
-          console.error(error);
-        }
-      };
-    
-      fetchData();
-    }, []);
-    
-
-  
-
+        const fetchData = async () => {
+          try {
+            const [response1, response2, response3, response4,response5,response6] = await Promise.all([
+              axios.get<LearningResource[]>("./Definitionen_in_der_Informatik.json"),
+              axios.get<LearningResource[]>("./Datentypen.json"),
+              axios.get<LearningResource[]>("./Variablen_und_Konstanten.json"),
+              axios.get<LearningResource[]>("./Arithmetische_und_logische_Operationen.json"),
+              axios.get<LearningResource[]>("./Kontrollanweisungen.json"),
+              axios.get<LearningResource[]>("./O_Notation_und_Rechenregeln.json")
+              
+            ]);
+      
+            setData([...response1.data, ...response2.data, ...response3.data, ...response4.data,...response5.data,...response6.data]);
+          } catch (error) {
+            console.error(error);
+          }
+        };
+      
+        fetchData();
+      }, []);
 
     function MinusSquare(props: SvgIconProps) {
       return (
@@ -159,10 +155,10 @@ function Grundgebietederinformatik(){
         <div className="lernpfad-scrum">
           {data.length ? (  // überprüft, ob Daten vorhanden sind
             <>
-              <span className="scrum">Grundgebiete der informatik</span>
+              <span className="scrum">{data[7]["https://schema.org/termCode"]?.map(title => title["@value"]).join(', ')}</span>
               <div className="flex-container">
                 <div className="rectangle-1">  
-            <TreeView
+                <TreeView
               aria-label="customized"
               defaultExpanded={['1']}
               defaultCollapseIcon={<MinusSquare />}
@@ -176,12 +172,12 @@ function Grundgebietederinformatik(){
 
                 <StyledTreeItem nodeId="1" label={<Link className="link" to="/Grundgebietederinformatik">Grundgebiete der Informatik</Link>}>
                     
-                    <StyledTreeItem nodeId="2" label={<Link className="link" to="/definitioneninderinformatik">Definitionen in der Informatik</Link>} >
-                      <StyledTreeItem nodeId="5" label={<Link className="link" to="/video_definitioneninderinformatik1"> {data[0]["https://schema.org/title"]?.map(title => title["@value"]).join(', ')} </Link>} />
-                      <StyledTreeItem nodeId="6" label={<Link className="link" to="/video_definitioneninderinformatik2">{data[2]["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</Link>} />
-                      <StyledTreeItem nodeId="7" label={<Link className="link" to="/video_definitioneninderinformatik3">{data[3]["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</Link>} />
-                      <StyledTreeItem nodeId="8" label={<Link className="link" to="/video_definitioneninderinformatik4">{data[4]["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</Link>} />
-                      <StyledTreeItem nodeId="9" label={<Link className="link" to="/video_definitioneninderinformatik5">{data[5]["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</Link>} />
+                    <StyledTreeItem nodeId="2" label={<Link className="link" to="/datentypen">Definitionen in der Informatik</Link>} >
+                      <StyledTreeItem nodeId="5" label={<Link className="link" to="/video_datentypen1"> {data[0]["https://schema.org/title"]?.map(title => title["@value"]).join(', ')} </Link>} />
+                      <StyledTreeItem nodeId="6" label={<Link className="link" to="/video_datentypen2">{data[2]["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</Link>} />
+                      <StyledTreeItem nodeId="7" label={<Link className="link" to="/video_datentypen3">{data[3]["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</Link>} />
+                      <StyledTreeItem nodeId="8" label={<Link className="link" to="/video_datentypen4">{data[4]["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</Link>} />
+                      <StyledTreeItem nodeId="9" label={<Link className="link" to="/video_datentypen5">{data[5]["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</Link>} />
                       
                     </StyledTreeItem>
 
@@ -251,22 +247,24 @@ function Grundgebietederinformatik(){
                       
                  
             </TreeView>
-                
-                
+
             </div>
             <div className="rectangle-6">
-                
+          <span>Videos</span>
+          <div className="videos">
+            <div><Link className="link" to="/video_datentypen1"><img className="img" src={data[6]["https://schema.org/thumbnailUrl"]?.map(thumbnail => thumbnail["@value"]).join(', ')} alt="Thumbnail" /></Link><h6 style={{whiteSpace: "pre-line"}}>{data[6]["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</h6> </div>
+            <div><Link className="link" to="/video_datentypen2"><img className="img" src={data[8]["https://schema.org/thumbnailUrl"]?.map(thumbnail => thumbnail["@value"]).join(', ')} alt="Thumbnail" /></Link><h6 style={{whiteSpace: "pre-line"}}>{data[8]["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</h6>  </div>
+            <div><Link className="link" to="/video_datentypen3"><img className="img" src={data[9]["https://schema.org/thumbnailUrl"]?.map(thumbnail => thumbnail["@value"]).join(', ')} alt="Thumbnail" /></Link><h6 style={{whiteSpace: "pre-line"}}>{data[9]["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</h6>  </div>
+            <div><Link className="link" to="/video_datentypen4"><img className="img" src={data[10]["https://schema.org/thumbnailUrl"]?.map(thumbnail => thumbnail["@value"]).join(', ')} alt="Thumbnail" /></Link><h6 style={{whiteSpace: "pre-line"}}>{data[10]["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</h6>  </div>
+            <div><Link className="link" to="/video_datentypen5"><img className="img" src={data[11]["https://schema.org/thumbnailUrl"]?.map(thumbnail => thumbnail["@value"]).join(', ')} alt="Thumbnail" /></Link><h6 style={{whiteSpace: "pre-line"}}>{data[11]["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</h6>  </div>
+          </div>
+          <p>Article</p>
+          <div className="videos">
           
+          <a href={data[12]["https://schema.org/url"]?.map(url => url["@value"]).join(', ')} >{data[6]["https://schema.org/title"]?.map(title => title["@value"]).join(', ')}</a>
 
 
-
-
-
-
-
-         
-
-          
+          </div>
         </div>
               </div>
             </>
@@ -278,4 +276,4 @@ function Grundgebietederinformatik(){
 
 }
 
-export default Grundgebietederinformatik;
+export default Datentypen;

@@ -27,15 +27,19 @@ const Header: React.FC = () => {
   
   const handleSearch = (e: React.FormEvent) => {
     e.preventDefault();
+    if(inputValue.trim().toLowerCase() === 'grundgebiete der informatik'){
+      setShowNoResultsMessage(false);
+      navigate('/Suchseite_grundgebietederinformatik');
+    }
     if(inputValue.trim().toLowerCase() === 'vwl 1'){
       setShowNoResultsMessage(false);
       navigate('/Suchseite_vwl1');
     }
-    if(inputValue.trim().toLowerCase() === 'business english1'){
+    if(inputValue.trim().toLowerCase() === 'business english'){
       setShowNoResultsMessage(false);
       navigate('/Suchseite_businessenglish');
     }
-    if(inputValue.trim().toLowerCase() === 'mathe1'){
+    if(inputValue.trim().toLowerCase() === 'mathe 1'){
       setShowNoResultsMessage(false);
       navigate('/suchseite_mathe1');
     }
@@ -136,7 +140,7 @@ const Header: React.FC = () => {
       setShowNoResultsMessage(false);
       navigate('/suchseite_medizin');
     }
-    if(inputValue.trim().toLowerCase() === 'bwl'){
+    if(inputValue.trim().toLowerCase() === 'betriebswirtschaftslehre'){
       setShowNoResultsMessage(false);
       navigate('/suchseite_bwl');
     }
@@ -180,7 +184,7 @@ const Header: React.FC = () => {
       setShowNoResultsMessage(false);
       navigate('/suchseite_stricken');
     }
-    if(inputValue.trim().toLowerCase() === 'gärtner'){
+    if(inputValue.trim().toLowerCase() === 'gärtnern'){
       setShowNoResultsMessage(false);
       navigate('/suchseite_gaertner');
     }
@@ -192,7 +196,7 @@ const Header: React.FC = () => {
       setShowNoResultsMessage(false);
       navigate('/Suchseite_scrum');
     }
-    if(inputValue.trim().toLowerCase() === 'devops'){
+    if(inputValue.trim().toLowerCase() === 'azure devops'){
       setShowNoResultsMessage(false);
       navigate('/suchseite');
     }

@@ -1,0 +1,208 @@
+[
+  {
+    "@id": "_:n39d7a010de114ab3a95a871cf50acc66b3",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5841374219132032"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "9oO8dSnVnsA"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n39d7a010de114ab3a95a871cf50acc66b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/9oO8dSnVnsA/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Practice Operations with Whole Numbers | Adding, Subtracting, Multiplying, Dividing, Exponents "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=9oO8dSnVnsA"
+      }
+    ]
+  },
+  {
+    "@id": "_:n39d7a010de114ab3a95a871cf50acc66b2",
+    "@type": [
+      "https://schema.org/DefinedTerm"
+    ],
+    "https://schema.org/termCode": [
+      {
+        "@value": "Arithmetische & logische Operationen programmieren"
+      }
+    ]
+  },
+  {
+    "@id": "_:n39d7a010de114ab3a95a871cf50acc66b1",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5603105086534653"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "dhgG0tyo32c"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n39d7a010de114ab3a95a871cf50acc66b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/dhgG0tyo32c/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Ketten- und Produktregel und Zahl | e-Funktion | Ableitung (schwer) by einfach mathe! "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=dhgG0tyo32c"
+      }
+    ]
+  },
+  {
+    "@id": "_:n39d7a010de114ab3a95a871cf50acc66b5",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5696469584819008"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "WUSG7sI6YoU"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n39d7a010de114ab3a95a871cf50acc66b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/WUSG7sI6YoU/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "(Abstract Algebra 1) Congruence Modulo n "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=WUSG7sI6YoU"
+      }
+    ]
+  },
+  {
+    "@id": "_:n39d7a010de114ab3a95a871cf50acc66b4",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5561527183695654"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "BCVPXxNQVIM"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n39d7a010de114ab3a95a871cf50acc66b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/BCVPXxNQVIM/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Generating Functions and Combinatorial Identities "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=BCVPXxNQVIM"
+      }
+    ]
+  },
+  {
+    "@id": "_:n39d7a010de114ab3a95a871cf50acc66b6",
+    "@type": [
+      "https://schema.org/LearningResource"
+    ],
+    "https://schema.org/cosineSimilarity": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#float",
+        "@value": "0.5624589063589076"
+      }
+    ],
+    "https://schema.org/identifier": [
+      {
+        "@value": "IDf2vEcyDfs"
+      }
+    ],
+    "https://schema.org/teaches": [
+      {
+        "@id": "_:n39d7a010de114ab3a95a871cf50acc66b2"
+      }
+    ],
+    "https://schema.org/thumbnailUrl": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://i.ytimg.com/vi/IDf2vEcyDfs/hq720.jpg"
+      }
+    ],
+    "https://schema.org/title": [
+      {
+        "@value": "Logic Gates - An Introduction To Digital Electronics - PyroEDU "
+      }
+    ],
+    "https://schema.org/url": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#anyURI",
+        "@value": "https://www.youtube.com/watch?v=IDf2vEcyDfs"
+      }
+    ]
+  }
+]

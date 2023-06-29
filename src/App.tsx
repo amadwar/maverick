@@ -394,6 +394,44 @@ import Video_paretoeffizient4 from "./components/Studienfächer/Videos_ParetoEff
 import Video_paretoeffizient3 from "./components/Studienfächer/Videos_ParetoEffizient/Video3_paretoeffizient";
 import Video_paretoeffizient2 from "./components/Studienfächer/Videos_ParetoEffizient/Video2_paretoeffizient";
 import Video_paretoeffizient1 from "./components/Studienfächer/Videos_ParetoEffizient/Video1_paretoeffizient";
+import Definitioneninderinformatik from "./components/Studienfächer/Fächer/Definitioneninderinformatik";
+import Datentypen from "./components/Studienfächer/Fächer/Datentypen";
+import Variablen_konstanten from "./components/Studienfächer/Fächer/Variabelnundkonstanten";
+import Arithmetische_logischeoperationen from "./components/Studienfächer/Fächer/ArithmetischeundlogischeOpereatopnen";
+import Kontrollanweisungenn from "./components/Studienfächer/Fächer/Kontrollanweisungen";
+import Kontrollanweisungen from "./components/Studienfächer/Fächer/Kontrollanweisungen";
+import O_Notationundrechenregeln from "./components/Studienfächer/Fächer/O_notationundrechenregeln";
+import Suchseite_grundgebietederinformatik from "./components/Studienfächer/Suchseiten/Suchseite_GrundgebietederInformatik";
+import Video_definitioneninderinformatik5 from "./components/Studienfächer/Videos_definitionen_in_der_informatik/Video5_defi_in_der_informatik";
+import Video_definitioneninderinformatik4 from "./components/Studienfächer/Videos_definitionen_in_der_informatik/Video4_defi_in_der_informatik";
+import Video_datentypen3 from "./components/Studienfächer/Videos_datentypen/Video3_datentypen";
+import Video_definitioneninderinformatik3 from "./components/Studienfächer/Videos_definitionen_in_der_informatik/Video3_defi_in_der_informatik";
+import Video_definitioneninderinformatik2 from "./components/Studienfächer/Videos_definitionen_in_der_informatik/Video2_defi_in_der_informatik";
+import Video_definitioneninderinformatik1 from "./components/Studienfächer/Videos_definitionen_in_der_informatik/Video1_defi_in_der_informatik";
+import Video_datentypen5 from "./components/Studienfächer/Videos_datentypen/Video5_datentypen";
+import Video_datentypen4 from "./components/Studienfächer/Videos_datentypen/Video4_datentypen";
+import Video_datentypen2 from "./components/Studienfächer/Videos_datentypen/Video2_datentypen";
+import Video_datentypen1 from "./components/Studienfächer/Videos_datentypen/Video1_datentypen";
+import Video_variablen_konstanten5 from "./components/Studienfächer/Videos_variabeln/Video5_variabeln";
+import Video_variablen_konstanten4 from "./components/Studienfächer/Videos_variabeln/Video4_variabeln";
+import Video_variablen_konstanten3 from "./components/Studienfächer/Videos_variabeln/Video3_variabeln";
+import Video_variablen_konstanten2 from "./components/Studienfächer/Videos_variabeln/Video2_variabeln";
+import Video_variablen_konstanten1 from "./components/Studienfächer/Videos_variabeln/Video1_variabeln";
+import Video_arithmetische_logischeoperationen5 from "./components/Studienfächer/Videos_logische opi/Video5_logischeOpi";
+import Video_arithmetische_logischeoperationen4 from "./components/Studienfächer/Videos_logische opi/Video4_logischeOpi";
+import Video_arithmetische_logischeoperationen3 from "./components/Studienfächer/Videos_logische opi/Video3_logischeOpi";
+import Video_arithmetische_logischeoperationen2 from "./components/Studienfächer/Videos_logische opi/Video2_logischeOpi";
+import Video_arithmetische_logischeoperationen1 from "./components/Studienfächer/Videos_logische opi/Video1_logischeOpi";
+import Video_kontrollanweisungenn5 from "./components/Studienfächer/Videos_kontrollanweisungen/Video5_kontrollanweisungen";
+import Video_kontrollanweisungenn4 from "./components/Studienfächer/Videos_kontrollanweisungen/Video4_kontrollanweisungen";
+import Video_kontrollanweisungenn3 from "./components/Studienfächer/Videos_kontrollanweisungen/Video3_kontrollanweisungen";
+import Video_kontrollanweisungenn2 from "./components/Studienfächer/Videos_kontrollanweisungen/Video2_kontrollanweisungen";
+import Video_kontrollanweisungenn1 from "./components/Studienfächer/Videos_kontrollanweisungen/Video1_kontrollanweisungen";
+import Video_o_Notationundrechenregeln5 from "./components/Studienfächer/Videos_O-Notation/Video5_o-Notation";
+import Video_o_Notationundrechenregeln4 from "./components/Studienfächer/Videos_O-Notation/Video4_o-Notation";
+import Video_o_Notationundrechenregeln3 from "./components/Studienfächer/Videos_O-Notation/Video3_o-Notation";
+import Video_o_Notationundrechenregeln2 from "./components/Studienfächer/Videos_O-Notation/Video2_o-Notation";
+import Video_o_Notationundrechenregeln1 from "./components/Studienfächer/Videos_O-Notation/Video1_o-Notation";
 
 
 
@@ -826,6 +864,15 @@ function App(){
               <>
                 <Header />
                 <Suchseite_vwl1/>
+              </>
+            }
+          />
+          <Route
+            path="Suchseite_grundgebietederinformatik"
+            element={
+              <>
+                <Header />
+                <Suchseite_grundgebietederinformatik/>
               </>
             }
           />
@@ -3406,6 +3453,276 @@ function App(){
               </>
             }
           />
+          <Route
+            path="video_definitioneninderinformatik1"
+            element={
+              <>
+                <Header />
+                <Video_definitioneninderinformatik1/>
+              </>
+            }
+          />
+          <Route
+            path="video_definitioneninderinformatik2"
+            element={
+              <>
+                <Header />
+                <Video_definitioneninderinformatik2/>
+              </>
+            }
+          />
+          <Route
+            path="video_definitioneninderinformatik3"
+            element={
+              <>
+                <Header />
+                <Video_definitioneninderinformatik3/>
+              </>
+            }
+          />
+          <Route
+            path="video_definitioneninderinformatik4"
+            element={
+              <>
+                <Header />
+                <Video_definitioneninderinformatik4/>
+              </>
+            }
+          />
+          <Route
+            path="video_definitioneninderinformatik5"
+            element={
+              <>
+                <Header />
+                <Video_definitioneninderinformatik5/>
+              </>
+            }
+          />
+          <Route
+            path="video_datentypen1"
+            element={
+              <>
+                <Header />
+                <Video_datentypen1/>
+              </>
+            }
+          />
+          <Route
+            path="video_datentypen2"
+            element={
+              <>
+                <Header />
+                <Video_datentypen2/>
+              </>
+            }
+          />
+          <Route
+            path="video_datentypen3"
+            element={
+              <>
+                <Header />
+                <Video_datentypen3/>
+              </>
+            }
+          />
+          <Route
+            path="video_datentypen4"
+            element={
+              <>
+                <Header />
+                <Video_datentypen4/>
+              </>
+            }
+          />
+          <Route
+            path="video_datentypen5"
+            element={
+              <>
+                <Header />
+                <Video_datentypen5/>
+              </>
+            }
+          />
+          <Route
+            path="video_variablen&konstanten1"
+            element={
+              <>
+                <Header />
+                <Video_variablen_konstanten1/>
+              </>
+            }
+          />
+          <Route
+            path="video_variablen&konstanten2"
+            element={
+              <>
+                <Header />
+                <Video_variablen_konstanten2/>
+              </>
+            }
+          />
+          <Route
+            path="video_variablen&konstanten3"
+            element={
+              <>
+                <Header />
+                <Video_variablen_konstanten3/>
+              </>
+            }
+          />
+          <Route
+            path="video_variablen&konstanten4"
+            element={
+              <>
+                <Header />
+                <Video_variablen_konstanten4/>
+              </>
+            }
+          />
+          <Route
+            path="video_variablen&konstanten5"
+            element={
+              <>
+                <Header />
+                <Video_variablen_konstanten5/>
+              </>
+            }
+          />
+          <Route
+            path="video_arithmetische&logischeoperationen1"
+            element={
+              <>
+                <Header />
+                <Video_arithmetische_logischeoperationen1/>
+              </>
+            }
+          />
+          <Route
+            path="video_arithmetische&logischeoperationen2"
+            element={
+              <>
+                <Header />
+                <Video_arithmetische_logischeoperationen2/>
+              </>
+            }
+          />
+          <Route
+            path="video_arithmetische&logischeoperationen3"
+            element={
+              <>
+                <Header />
+                <Video_arithmetische_logischeoperationen3/>
+              </>
+            }
+          />
+          <Route
+            path="video_arithmetische&logischeoperationen4"
+            element={
+              <>
+                <Header />
+                <Video_arithmetische_logischeoperationen4/>
+              </>
+            }
+          />
+          <Route
+            path="video_arithmetische&logischeoperationen5"
+            element={
+              <>
+                <Header />
+                <Video_arithmetische_logischeoperationen5/>
+              </>
+            }
+          />
+          <Route
+            path="video_kontrollanweisungenn1"
+            element={
+              <>
+                <Header />
+                <Video_kontrollanweisungenn1/>
+              </>
+            }
+          />
+          <Route
+            path="video_kontrollanweisungenn2"
+            element={
+              <>
+                <Header />
+                <Video_kontrollanweisungenn2/>
+              </>
+            }
+          />
+          <Route
+            path="video_kontrollanweisungenn3"
+            element={
+              <>
+                <Header />
+                <Video_kontrollanweisungenn3/>
+              </>
+            }
+          />
+          <Route
+            path="video_kontrollanweisungenn4"
+            element={
+              <>
+                <Header />
+                <Video_kontrollanweisungenn4/>
+              </>
+            }
+          />
+          <Route
+            path="video_kontrollanweisungenn5"
+            element={
+              <>
+                <Header />
+                <Video_kontrollanweisungenn5/>
+              </>
+            }
+          />
+          <Route
+            path="video_o-Notationundrechenregeln1"
+            element={
+              <>
+                <Header />
+                <Video_o_Notationundrechenregeln1/>
+              </>
+            }
+          />
+          <Route
+            path="video_o-Notationundrechenregeln2"
+            element={
+              <>
+                <Header />
+                <Video_o_Notationundrechenregeln2/>
+              </>
+            }
+          />
+          <Route
+            path="video_o-notationundrechenregeln3"
+            element={
+              <>
+                <Header />
+                <Video_o_Notationundrechenregeln3/>
+              </>
+            }
+          />
+          <Route
+            path="video_o-notationundrechenregeln4"
+            element={
+              <>
+                <Header />
+                <Video_o_Notationundrechenregeln4/>
+              </>
+            }
+          />
+          <Route
+            path="video_o-notationundrechenregeln5"
+            element={
+              <>
+                <Header />
+                <Video_o_Notationundrechenregeln5/>
+              </>
+            }
+          />
 
 
           <Route
@@ -3937,6 +4254,60 @@ function App(){
               <>
                <Header />
                 <Grundgebietederinformatik/>
+              </>
+            }
+          />
+          <Route
+            path="definitioneninderinformatik"
+            element={
+              <>
+               <Header />
+                <Definitioneninderinformatik/>
+              </>
+            }
+          />
+          <Route
+            path="datentypen"
+            element={
+              <>
+               <Header />
+                <Datentypen/>
+              </>
+            }
+          />
+          <Route
+            path="variablen&konstanten"
+            element={
+              <>
+               <Header />
+                <Variablen_konstanten/>
+              </>
+            }
+          />
+          <Route
+            path="arithmetische&logischeoperationen"
+            element={
+              <>
+               <Header />
+                <Arithmetische_logischeoperationen/>
+              </>
+            }
+          />
+          <Route
+            path="kontrollanweisungenn"
+            element={
+              <>
+               <Header />
+                <Kontrollanweisungen/>
+              </>
+            }
+          />
+          <Route
+            path="o-Notationundrechenregeln"
+            element={
+              <>
+               <Header />
+                <O_Notationundrechenregeln/>
               </>
             }
           />
